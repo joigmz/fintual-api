@@ -6,6 +6,8 @@ import plotly.express as px
 from q import *
 
 app = dash.Dash(__name__)
+server = app.server
+
 df_real_assets =pd.read_csv("data/df_real_assets.csv")
 
 app.layout = html.Div([
