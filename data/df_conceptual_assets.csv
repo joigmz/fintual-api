@@ -1,0 +1,1432 @@
+id,type,name,symbol,category,currency,max_scale,run,data_source
+25,conceptual_asset,Dólar Observado,USDCLP,currency,CLP,4,,https://www.bcentral.cl
+1679,conceptual_asset,FONDO MUTUO BCI RENDIMIENTO,FFMM-BCI-8036,mutual_fund,CLP,4,8036-5,http://www.cmfchile.cl
+2826,conceptual_asset,GLD,GLD,etf,USD,4,,
+1670,conceptual_asset,FONDO MUTUO BCI ESTRATEGIA UF > 5 AÑOS,FFMM-BCI-8460,mutual_fund,CLP,4,8460-3,http://www.cmfchile.cl
+2642,conceptual_asset,FONDO MUTUO BICE ESTRUCTURADO 108,FFMM-BICE-9728,mutual_fund,CLP,4,9728-4,http://www.cmfchile.cl
+2892,conceptual_asset,FONDO MUTUO ITAU COMPASS ACCIONES LATINOAMERICANAS,FFMM-ITAU-9926,mutual_fund,,4,9926-0,http://www.cmfchile.cl
+1774,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL INDICE CHILE,FFMM-CREDICORP-8929,mutual_fund,,4,8929-k,http://www.cmfchile.cl
+2889,conceptual_asset,FONDO DE INVERSIÓN TRONADOR DEUDA PRIVADA,FINV-9918,investment_fund,,4,9918-k,http://www.cmfchile.cl
+2898,conceptual_asset,XLC Deuda Privada Fintech Fondo de Inversión,FINV-9907,investment_fund,CLP,4,9907-4,http://www.cmfchile.cl
+2887,conceptual_asset,FONDO MUTUO ITAU COMPASS DEUDA CHILENA,FFMM-ITAU-9927,mutual_fund,,4,9927-9,http://www.cmfchile.cl
+2893,conceptual_asset,FONDO MUTUO ITAU DEUDA EMERGENTE,FFMM-ITAU-9923,mutual_fund,,4,9923-6,http://www.cmfchile.cl
+2646,conceptual_asset,BICE DEUDA LATAM HY FONDO DE INVERSION,FINV-9734,investment_fund,,4,9734-9,http://www.cmfchile.cl
+1844,conceptual_asset,FONDO MUTUO ITAU GESTIONADO AGRESIVO,FFMM-ITAU-8993,mutual_fund,CLP,4,8993-1,http://www.cmfchile.cl
+2881,conceptual_asset,QUEST DEUDA CHILE INVESTMENT GRADE FONDO DE INVERSION,FINV-9885,investment_fund,,4,9885-k,http://www.cmfchile.cl
+3051,conceptual_asset,FONDO DE INVERSION BANCHILE DEUDA DOLAR CORTO PLAZO,FINV-10120,investment_fund,,4,10120-6,http://www.cmfchile.cl
+16,conceptual_asset,CLF/CLP,CLFCLP,currency,CLP,4,,https://www.bcentral.cl
+1543,conceptual_asset,FONDO DE INVERSIÓN SANTANDER DEUDA LATAM,FINV-9666,investment_fund,,4,9666-0,http://www.cmfchile.cl
+1847,conceptual_asset,FONDO MUTUO ITAU LATAM CORPORATE,FFMM-ITAU-8254,mutual_fund,USD,4,8254-6,http://www.cmfchile.cl
+1841,conceptual_asset,FONDO MUTUO ITAU DINAMICO,FFMM-ITAU-8959,mutual_fund,CLP,4,8959-1,http://www.cmfchile.cl
+2888,conceptual_asset,FONDO MUTUO ITAU LARRAINVIAL AHORRO ESTRATEGICO,FFMM-ITAU-9928,mutual_fund,,4,9928-7,http://www.cmfchile.cl
+2842,conceptual_asset,ARKK,ARKK,etf,USD,4,,
+2846,conceptual_asset,VCIT,VCIT,etf,USD,4,,
+2894,conceptual_asset,FONDO MUTUO ITAÚ INCOME,FFMM-ITAU-9921,mutual_fund,,4,9921-k,http://www.cmfchile.cl
+2973,conceptual_asset,VGT,VGT,etf,USD,4,,
+1843,conceptual_asset,FONDO MUTUO ITAU GESTIONADO ACCIONES,FFMM-ITAU-8971,mutual_fund,CLP,4,8971-0,http://www.cmfchile.cl
+2895,conceptual_asset,FONDO MUTUO BICE RENTA MÁS LARGO PLAZO,FFMM-BICE-9934,mutual_fund,,4,9934-1,http://www.cmfchile.cl
+47,conceptual_asset,SPY,SPY,etf,USD,4,,
+1520,conceptual_asset,FONDO DE INVERSIÓN ZURICH AHORRO DINÁMICO,FINV-9276,investment_fund,,4,9276-2,http://www.cmfchile.cl
+1462,conceptual_asset,AMERIS DVA ALL CAP CHILE FONDO DE INVERSION,FINV-9395,investment_fund,,4,9395-5,http://www.cmfchile.cl
+3053,conceptual_asset,FONDO MUTUO CLEVER DNA SCIENCE,FFMM-BICE-10130,mutual_fund,,4,10130-3,http://www.cmfchile.cl
+2825,conceptual_asset,BLV,BLV,etf,USD,4,,
+2848,conceptual_asset,FTEC,FTEC,etf,USD,4,,
+1519,conceptual_asset,FONDO DE INVERSIÓN ZURICH RENTA VARIABLE GLOBAL,FINV-9198,investment_fund,,4,9198-7,http://www.cmfchile.cl
+2902,conceptual_asset,FRONTAL TRUST RENDIMIENTO CON LIQUIDEZ FONDO DE INVERSIÓN,FINV-9917,investment_fund,CLP,4,9917-1,http://www.cmfchile.cl
+2900,conceptual_asset,COMPASS GLOBAL TRENDS FONDO DE INVERSIÓN,FINV-9930,investment_fund,,4,9930-9,http://www.cmfchile.cl
+2899,conceptual_asset,FONDO MUTUO ITAU TOESCA CHILE EQUITIES,FFMM-ITAU-9936,mutual_fund,,4,9936-8,http://www.cmfchile.cl
+2847,conceptual_asset,FONDO DE INVERSIÓN WEG-7,FINV-9891,investment_fund,,4,9891-4,http://www.cmfchile.cl
+2901,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL HEALTH AND BIOTECH,FINV-9915,investment_fund,,4,9915-5,http://www.cmfchile.cl
+3052,conceptual_asset,FONDO MUTUO BICE RENTA GLOBAL,FFMM-BICE-10139,mutual_fund,,4,10139-7,http://www.cmfchile.cl
+3054,conceptual_asset,FONDO MUTUO CLEVER GLOBAL FINTECH,FFMM-BICE-10132,mutual_fund,,4,10132-k,http://www.cmfchile.cl
+2784,conceptual_asset,Franklin Templeton Deuda Corto Plazo,FT-LIQU,investment_fund,MXN,6,,
+2745,conceptual_asset,VT,VT,etf,USD,4,,
+2827,conceptual_asset,FYNSA RENTA FIJA PRIVADA PERÚ,FINV-9461,investment_fund,USD,4,9641-5,http://www.cmfchile.cl
+1678,conceptual_asset,FONDO MUTUO BCI CARTERA PATRIMONIAL CONSERVADORA,FFMM-BCI-9063,mutual_fund,CLP,4,9063-8,http://www.cmfchile.cl
+2903,conceptual_asset,FONDO MUTUO LARRAINVIAL AHORRO LARGO PLAZO,FFMM-LARRAINVIAL-9929,mutual_fund,,4,9929-5,http://www.cmfchile.cl
+2843,conceptual_asset,ARKW,ARKW,etf,USD,4,,
+1661,conceptual_asset,FONDO MUTUO BCI FRONTERA,FFMM-BCI-8588,mutual_fund,CLP,4,8588-k,http://www.cmfchile.cl
+1650,conceptual_asset,FONDO MUTUO BCI EMERGENTE GLOBAL,FFMM-BCI-8625,mutual_fund,CLP,4,8625-8,http://www.cmfchile.cl
+2974,conceptual_asset,CLOU,CLOU,etf,USD,4,,
+1672,conceptual_asset,FONDO MUTUO BCI DEUDA LATAM HY,FFMM-BCI-8967,mutual_fund,USD,4,8967-2,http://www.cmfchile.cl
+1669,conceptual_asset,FONDO MUTUO BCI GLOBAL TITAN,FFMM-BCI-8710,mutual_fund,CLP,4,8710-6,http://www.cmfchile.cl
+1664,conceptual_asset,FONDO MUTUO BCI GESTIÓN FLEXIBLE,FFMM-BCI-8813,mutual_fund,CLP,4,8813-7,http://www.cmfchile.cl
+2896,conceptual_asset,FONDO MUTUO ITAU GLOBAL BRANDS,FFMM-ITAU-9931,mutual_fund,,4,9931-7,http://www.cmfchile.cl
+1641,conceptual_asset,FONDO MUTUO BCI DEUDA LATAM IG,FFMM-BCI-9231,mutual_fund,USD,4,9231-2,http://www.cmfchile.cl
+1683,conceptual_asset,FONDO MUTUO BCI USA,FFMM-BCI-8515,mutual_fund,USD,4,8515-4,http://www.cmfchile.cl
+3055,conceptual_asset,FONDO MUTUO CLEVER VIDEO GAMES & ESPORTS,FFMM-BICE-10131,mutual_fund,,4,10131-1,http://www.cmfchile.cl
+1642,conceptual_asset,FONDO MUTUO BCI ESTRATEGIA UF HASTA 1 AÑO,FFMM-BCI-8941,mutual_fund,CLP,4,8941-9,http://www.cmfchile.cl
+1488,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL MACRO 2.0,FFMM-CREDICORP-9107,mutual_fund,,4,9107-3,http://www.cmfchile.cl
+1493,conceptual_asset,FONDO DE INVERSION ITAU ACCIONARIO GLOBAL,FINV-9550,investment_fund,,4,9550-8,http://www.cmfchile.cl
+2891,conceptual_asset,FONDO MUTUO ITAU ACCIONES EMERGENTES,FFMM-ITAU-9922,mutual_fund,,4,9922-8,http://www.cmfchile.cl
+2897,conceptual_asset,FONDO MUTUO ITAU US ADVANTAGE,FFMM-ITAU-9932,mutual_fund,,4,9932-5,http://www.cmfchile.cl
+2975,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL BROWN ADVISORY US SUSTAINABLE GROWTH,FINV-9997,investment_fund,,4,9997-k,http://www.cmfchile.cl
+2179,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO 108 III,FFMM-BCI-9262,mutual_fund,CLP,4,9262-2,http://www.cmfchile.cl
+2841,conceptual_asset,FONDO DE INVERSION BANCHILE GLOBAL REAL ESTATE,FINV-9854,investment_fund,,4,9854-k,http://www.cmfchile.cl
+1715,conceptual_asset,FONDO MUTUO BICE RENTA PESOS,FFMM-BICE-8029,mutual_fund,CLP,4,8029-2,http://www.cmfchile.cl
+1675,conceptual_asset,FONDO MUTUO BCI CARTERA PATRIMONIAL ACTIVA,FFMM-BCI-9060,mutual_fund,CLP,4,9060-3,http://www.cmfchile.cl
+1676,conceptual_asset,FONDO MUTUO BCI CARTERA PATRIMONIAL AHORRO,FFMM-BCI-9061,mutual_fund,CLP,4,9061-1,http://www.cmfchile.cl
+1696,conceptual_asset,FONDO MUTUO BICE ACCIONES INDIA,FFMM-BICE-9223,mutual_fund,CLP,4,9223-1,http://www.cmfchile.cl
+2006,conceptual_asset,FONDO MUTUO SECURITY ASIA EMERGENTE,FFMM-ADMINISTRADORA-8820,mutual_fund,,4,8820-k,http://www.cmfchile.cl
+2883,conceptual_asset,FONDO DE INVERSIÓN SURA DEUDA CORPORATIVA LATINOAMERICANA USD,FINV-9897,investment_fund,,4,9897-3,http://www.cmfchile.cl
+2908,conceptual_asset,FONDO DE INVERSIÓN SARTOR TÁCTICO PERÚ,FINV-9882,investment_fund,,4,9882-5,http://www.cmfchile.cl
+2010,conceptual_asset,FONDO MUTUO SECURITY DEUDA CORPORATIVA LATINOAMERICANA,FFMM-ADMINISTRADORA-8940,mutual_fund,,4,8940-0,http://www.cmfchile.cl
+2747,conceptual_asset,ETHO,ETHO,etf,USD,4,,
+2844,conceptual_asset,ESGU,ESGU,etf,USD,4,,
+2016,conceptual_asset,FONDO MUTUO SECURITY EUROPA ESTRATÉGICO,FFMM-ADMINISTRADORA-9187,mutual_fund,,4,9187-1,http://www.cmfchile.cl
+2024,conceptual_asset,FONDO MUTUO SECURITY LOCAL EMERGING DEBT,FFMM-ADMINISTRADORA-8823,mutual_fund,,4,8823-4,http://www.cmfchile.cl
+1836,conceptual_asset,FONDO MUTUO ITAU AHORRO PLUS,FFMM-ITAU-9539,mutual_fund,CLP,4,9539-7,http://www.cmfchile.cl
+2906,conceptual_asset,AMERIS DVA MEDTECH FUND FONDO DE INVERSIÓN,FINV-9937,investment_fund,,4,9937-6,http://www.cmfchile.cl
+1849,conceptual_asset,FONDO MUTUO ITAU PERFORMANCE,FFMM-ITAU-8092,mutual_fund,CLP,4,8092-6,http://www.cmfchile.cl
+2364,conceptual_asset,FONDO MUTUO ITAU CAPITAL BALANCEADO,FFMM-ITAU-9016,mutual_fund,,4,9016-6,http://www.cmfchile.cl
+1494,conceptual_asset,FONDO DE INVERSION ITAU CHILE CORPORATIVO,FINV-9551,investment_fund,,4,9551-6,http://www.cmfchile.cl
+2365,conceptual_asset,FONDO MUTUO ITAU CAPITAL MODERADO,FFMM-ITAU-9017,mutual_fund,,4,9017-4,http://www.cmfchile.cl
+2369,conceptual_asset,FONDO MUTUO ITAU EUROPA,FFMM-ITAU-8269,mutual_fund,,4,8269-4,http://www.cmfchile.cl
+2370,conceptual_asset,FONDO MUTUO ITAU GESTIONADO MODERADO,FFMM-ITAU-8928,mutual_fund,,4,8928-1,http://www.cmfchile.cl
+2371,conceptual_asset,FONDO MUTUO ITAU INVESTMENT C,FFMM-ITAU-9014,mutual_fund,,4,9014-k,http://www.cmfchile.cl
+2372,conceptual_asset,FONDO MUTUO ITAU INVESTMENT D,FFMM-ITAU-9015,mutual_fund,,4,9015-8,http://www.cmfchile.cl
+2374,conceptual_asset,FONDO MUTUO ITAU MAS INGRESO,FFMM-ITAU-8590,mutual_fund,,4,8590-1,http://www.cmfchile.cl
+2379,conceptual_asset,FONDO MUTUO ITAU PLUS,FFMM-ITAU-8235,mutual_fund,,4,8235-k,http://www.cmfchile.cl
+2380,conceptual_asset,FONDO MUTUO ITAU RENTA ESTRATEGICA,FFMM-ITAU-9189,mutual_fund,,4,9189-8,http://www.cmfchile.cl
+2381,conceptual_asset,FONDO MUTUO ITAU SELECCION NACIONAL,FFMM-ITAU-8030,mutual_fund,,4,8030-6,http://www.cmfchile.cl
+2390,conceptual_asset,FONDO MUTUO ITAÚ GESTIONADO DEUDA LOCAL,FFMM-ITAU-8265,mutual_fund,,4,8265-1,http://www.cmfchile.cl
+2391,conceptual_asset,FONDO MUTUO ITAÚ GESTIONADO MUY CONSERVADOR,FFMM-ITAU-8926,mutual_fund,,4,8926-5,http://www.cmfchile.cl
+2392,conceptual_asset,FONDO MUTUO ITAÚ LATAM PACIFIC,FFMM-ITAU-8891,mutual_fund,,4,8891-9,http://www.cmfchile.cl
+2393,conceptual_asset,FONDO MUTUO ITAÚ MIX,FFMM-ITAU-8290,mutual_fund,,4,8290-2,http://www.cmfchile.cl
+2394,conceptual_asset,FONDO MUTUO ITAÚ SELECCIÓN BRASIL,FFMM-ITAU-8519,mutual_fund,,4,8519-7,http://www.cmfchile.cl
+2395,conceptual_asset,FONDO MUTUO ITAÚ SMALL & MID CAP BRASIL,FFMM-ITAU-8520,mutual_fund,,4,8520-0,http://www.cmfchile.cl
+2396,conceptual_asset,FONDO MUTUO ITAÚ WORLD EQUITY,FFMM-ITAU-8237,mutual_fund,,4,8237-6,http://www.cmfchile.cl
+2907,conceptual_asset,FONDO DE INVERSION BANCHILE EQUITY TRENDS,FINV-9933,investment_fund,,4,9933-3,http://www.cmfchile.cl
+2909,conceptual_asset,FONDO MUTUO AUTOCALL DOLLAR COUPON USA,FFMM-BANCHILE-9947,mutual_fund,,4,9947-3,http://www.cmfchile.cl
+1525,conceptual_asset,FONDO DE INVERSIÓN FYNSA DEUDA CHILE,FINV-9559,investment_fund,,4,9559-1,http://www.cmfchile.cl
+2910,conceptual_asset,FONDO MUTUO BEST COUPON EMERGENTE,FFMM-BANCHILE-9946,mutual_fund,,4,9946-5,http://www.cmfchile.cl
+1850,conceptual_asset,FONDO MUTUO ITAU SELECT,FFMM-ITAU-8338,mutual_fund,CLP,4,8338-0,http://www.cmfchile.cl
+2002,conceptual_asset,FONDO MUTUO SCOTIA ACCIONES USA,FFMM-SCOTIA-8480,mutual_fund,CLP,4,8480-8,http://www.cmfchile.cl
+2911,conceptual_asset,FONDO MUTUO ITAU MONEDA CREDITO LATAM,FFMM-ITAU-9935,mutual_fund,,4,9935-k,http://www.cmfchile.cl
+2912,conceptual_asset,FONDO DE INVERSIÓN ACTIVA DEUDA AUTOMOTRIZ PERÚ,FINV-9703,investment_fund,,4,9703-9,http://www.cmfchile.cl
+2977,conceptual_asset,BTG PACTUAL GLOBAL BDCS FONDO DE INVERSIÓN,FINV-10039,investment_fund,,4,10039-0,http://www.cmfchile.cl
+2976,conceptual_asset,Schroders International Selection Fund China A,LU1713307699,mutual_fund,USD,4,,
+2904,conceptual_asset,Risky Hayek,+HAYEK+,investment_fund,MXN,4,,
+2009,conceptual_asset,FONDO MUTUO SECURITY CRECIMIENTO ESTRATEGICO,FFMM-ADMINISTRADORA-8492,mutual_fund,CLP,4,8492-1,http://www.cmfchile.cl
+2913,conceptual_asset,FONDO DE INVERSIÓN ACTIVA FINANCIAMIENTO ESTRUCTURADO PERU,FINV-9710,investment_fund,,4,9710-1,http://www.cmfchile.cl
+2305,conceptual_asset,FONDO MUTUO DEUDA ESTATAL,FFMM-BANCHILE-8102,mutual_fund,CLP,4,8102-7,http://www.cmfchile.cl
+2306,conceptual_asset,FONDO MUTUO DEUDA ESTATAL PESOS 2-4 AÑOS,FFMM-BANCHILE-8275,mutual_fund,CLP,4,8275-9,http://www.cmfchile.cl
+2308,conceptual_asset,FONDO MUTUO DEUDA PESOS 1-5 AÑOS,FFMM-BANCHILE-8134,mutual_fund,CLP,4,8134-5,http://www.cmfchile.cl
+1886,conceptual_asset,FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO EQUILIBRADO,FFMM-BANCHILE-9043,mutual_fund,CLP,4,9043-3,http://www.cmfchile.cl
+1887,conceptual_asset,FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO MODERADO,FFMM-BANCHILE-9067,mutual_fund,CLP,4,9067-0,http://www.cmfchile.cl
+1552,conceptual_asset,FONDO DE INVERSION SURA ACCIONES EUROPEAS EN LIQUIDACION,FINV-9493,investment_fund,,4,9493-5,http://www.cmfchile.cl
+1888,conceptual_asset,FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO POTENCIADO,FFMM-BANCHILE-8448,mutual_fund,CLP,4,8448-4,http://www.cmfchile.cl
+1917,conceptual_asset,FONDO MUTUO BANCHILE QUANT GLOBAL STRATEGY,FFMM-BANCHILE-9038,mutual_fund,CLP,4,9038-7,http://www.cmfchile.cl
+1550,conceptual_asset,FONDO DE INVERSIÓN SURA ACCIONES EMERGENTES,FINV-9491,investment_fund,,4,9491-9,http://www.cmfchile.cl
+1551,conceptual_asset,FONDO DE INVERSIÓN SURA ACCIONES ESTADOS UNIDOS,FINV-9492,investment_fund,,4,9492-7,http://www.cmfchile.cl
+3056,conceptual_asset,FONDO DE INVERSION BANCHILE MARKETPLUS TECNOLOGIA,FINV-10116,investment_fund,,4,10116-8,http://www.cmfchile.cl
+1918,conceptual_asset,FONDO MUTUO BANCHILE RENTA FUTURA,FFMM-BANCHILE-8357,mutual_fund,CLP,4,8357-7,http://www.cmfchile.cl
+1719,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES BRASIL,FFMM-BANCHILE-9585,mutual_fund,CLP,4,9585-0,http://www.cmfchile.cl
+2905,conceptual_asset,Moderate Portman,PORTMAN,investment_fund,MXN,4,,
+2028,conceptual_asset,FONDO MUTUO SECURITY PLUS,FFMM-ADMINISTRADORA-8253,mutual_fund,CLP,4,8253-8,http://www.cmfchile.cl
+2033,conceptual_asset,FONDO MUTUO SOLVENTE BANCOESTADO,FFMM-BANCOESTADO-8319,mutual_fund,CLP,4,8319-4,http://www.cmfchile.cl
+2003,conceptual_asset,FONDO MUTUO SCOTIA PORTAFOLIO MAS CONSERVADOR,FFMM-SCOTIA-8304,mutual_fund,CLP,4,8304-6,http://www.cmfchile.cl
+2332,conceptual_asset,FONDO MUTUO GARANTIZADO SANTANDER EFICIENTE,FFMM-SANTANDER-8767,mutual_fund,,4,8767-k,http://www.cmfchile.cl
+2453,conceptual_asset,FONDO MUTUO OHIGGINS CUENTA VISTA,FFMM-SANTANDER-8060,mutual_fund,,4,8060-8,http://www.cmfchile.cl
+2492,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES EUROPA DESARROLLADO,FFMM-SANTANDER-8158,mutual_fund,,4,8158-2,http://www.cmfchile.cl
+2493,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES EUROPA EMERGENTE,FFMM-SANTANDER-8179,mutual_fund,,4,8179-5,http://www.cmfchile.cl
+2495,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES SELECTAS BRASIL,FFMM-SANTANDER-8593,mutual_fund,,4,8593-6,http://www.cmfchile.cl
+2497,conceptual_asset,FONDO MUTUO SANTANDER BONOS DOLAR,FFMM-SANTANDER-8231,mutual_fund,,4,8231-7,http://www.cmfchile.cl
+2498,conceptual_asset,FONDO MUTUO SANTANDER CIRCULANTE,FFMM-SANTANDER-8083,mutual_fund,,4,8083-7,http://www.cmfchile.cl
+2845,conceptual_asset,SMH,SMH,etf,USD,4,,
+1629,conceptual_asset,FONDO MUTUO BANCOESTADO RENTA FUTURA,FFMM-BANCOESTADO-9074,mutual_fund,CLP,4,9074-3,http://www.cmfchile.cl
+1643,conceptual_asset,FONDO MUTUO BCI ESTRATEGIA UF HASTA 3 AÑOS,FFMM-BCI-8064,mutual_fund,CLP,4,8064-0,http://www.cmfchile.cl
+1639,conceptual_asset,FONDO MUTUO BCI ESTRATEGIA PESOS HASTA 1 AÑO,FFMM-BCI-8327,mutual_fund,CLP,4,8327-5,http://www.cmfchile.cl
+1633,conceptual_asset,FONDO MUTUO BCI AMERICA LATINA,FFMM-BCI-8434,mutual_fund,CLP,4,8434-4,http://www.cmfchile.cl
+1659,conceptual_asset,FONDO MUTUO BCI EUROPA,FFMM-BCI-8513,mutual_fund,CLP,4,8513-8,http://www.cmfchile.cl
+2917,conceptual_asset,FONDO MUTUO BCI ESTRATEGIA DEUDA CALIFICADOS,FFMM-BCI-9981,mutual_fund,,4,9981-3,http://www.cmfchile.cl
+1636,conceptual_asset,FONDO MUTUO BCI CHINDIA,FFMM-BCI-8777,mutual_fund,CLP,4,8777-7,http://www.cmfchile.cl
+2203,conceptual_asset,FONDO MUTUO BCI SELECCION ANDINA,FFMM-BCI-8870,mutual_fund,CLP,4,8870-6,http://www.cmfchile.cl
+2200,conceptual_asset,FONDO MUTUO BCI MERCADOS DESARROLLADOS GARANTIZADO,FFMM-BCI-9066,mutual_fund,CLP,4,9066-2,http://www.cmfchile.cl
+2190,conceptual_asset,FONDO MUTUO BCI GARANTIZADO DEPÓSITO 110,FFMM-BCI-9200,mutual_fund,CLP,4,9200-2,http://www.cmfchile.cl
+2182,conceptual_asset,FONDO MUTUO BCI EUROPA GARANTIZADO II,FFMM-BCI-9197,mutual_fund,CLP,4,9197-9,http://www.cmfchile.cl
+1673,conceptual_asset,FONDO MUTUO BCI PB STRATEGY DEBT,FFMM-BCI-9226,mutual_fund,CLP,4,9226-6,http://www.cmfchile.cl
+1662,conceptual_asset,FONDO MUTUO BCI CARTERA DINAMICA CORTO PLAZO,FFMM-BCI-8731,mutual_fund,CLP,4,8731-9,http://www.cmfchile.cl
+1690,conceptual_asset,FONDO MUTUO BICE ACCIONES CHILE,FFMM-BICE-8046,mutual_fund,CLP,4,8046-2,http://www.cmfchile.cl
+2914,conceptual_asset,FONDO DE INVERSIÓN FALCOM LATAM USD DEBT ESG,FINV-9912,investment_fund,,4,9912-0,http://www.cmfchile.cl
+2916,conceptual_asset,MBI GLOBAL FIXED INCOME FONDO DE INVERSION,FINV-9950,investment_fund,,4,9950-3,http://www.cmfchile.cl
+2915,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO AHORRO 3,FFMM-BCI-9961,mutual_fund,,4,9961-9,http://www.cmfchile.cl
+2884,conceptual_asset,FONDO DE INVERSIÓN HMC DEUDA PRIVADA GLOBAL,FINV-9914,investment_fund,,4,9914-7,http://www.cmfchile.cl
+2920,conceptual_asset,FONDO MUTUO AGRESIVO,FFMM-BICE-9964,mutual_fund,,4,9964-3,http://www.cmfchile.cl
+2979,conceptual_asset,FONDO DE INVERSION AZIMUT FUTURE OPPORTUNITIES,FINV-10095,investment_fund,,4,10095-1,http://www.cmfchile.cl
+1667,conceptual_asset,FONDO MUTUO BCI CARTERA DINAMICA ACTIVA,FFMM-BCI-8640,mutual_fund,CLP,4,8640-1,http://www.cmfchile.cl
+2978,conceptual_asset,Frontal Trust Xepelin Deuda México Fondo de Inversión,FINV-10062,investment_fund,USD,4,10062-5,http://www.cmfchile.cl
+1668,conceptual_asset,FONDO MUTUO BCI CARTERA DINÁMICA AHORRO,FFMM-BCI-9228,mutual_fund,CLP,4,9228-2,http://www.cmfchile.cl
+1647,conceptual_asset,FONDO MUTUO BCI DOLAR CASH,FFMM-BCI-8257,mutual_fund,USD,4,8257-0,http://www.cmfchile.cl
+2918,conceptual_asset,FONDO DE INVERSIÓN ETF SINGULAR GLOBAL CORPORATES,FINV-9948,investment_fund,,4,9948-1,http://www.cmfchile.cl
+2499,conceptual_asset,FONDO MUTUO SANTANDER DE RESERVA,FFMM-SANTANDER-8072,mutual_fund,,4,8072-1,http://www.cmfchile.cl
+2500,conceptual_asset,FONDO MUTUO SANTANDER EFICIENTE,FFMM-SANTANDER-8989,mutual_fund,,4,8989-3,http://www.cmfchile.cl
+2501,conceptual_asset,FONDO MUTUO SANTANDER ESTADOS UNIDOS,FFMM-SANTANDER-8180,mutual_fund,,4,8180-9,http://www.cmfchile.cl
+2502,conceptual_asset,FONDO MUTUO SANTANDER EURO,FFMM-SANTANDER-8267,mutual_fund,,4,8267-8,http://www.cmfchile.cl
+2503,conceptual_asset,FONDO MUTUO SANTANDER GARANTIZADO 110,FFMM-SANTANDER-8273,mutual_fund,,4,8273-2,http://www.cmfchile.cl
+2504,conceptual_asset,FONDO MUTUO SANTANDER GARANTIZADO 110,FFMM-SANTANDER-8501,mutual_fund,,4,8501-4,http://www.cmfchile.cl
+2505,conceptual_asset,FONDO MUTUO SANTANDER GARANTIZADO CARIOCA,FFMM-SANTANDER-8598,mutual_fund,,4,8598-7,http://www.cmfchile.cl
+2882,conceptual_asset,FONDO MUTUO BI ESTRATÉGICO,FFMM-BANCO-9905,mutual_fund,,4,9905-8,http://www.cmfchile.cl
+2506,conceptual_asset,FONDO MUTUO SANTANDER GARANTIZADO CHILE,FFMM-SANTANDER-8511,mutual_fund,,4,8511-1,http://www.cmfchile.cl
+2507,conceptual_asset,FONDO MUTUO SANTANDER GARANTIZADO EN VERDES,FFMM-SANTANDER-8443,mutual_fund,,4,8443-3,http://www.cmfchile.cl
+2508,conceptual_asset,FONDO MUTUO SANTANDER GARANTIZADO EXTRA,FFMM-SANTANDER-8293,mutual_fund,,4,8293-7,http://www.cmfchile.cl
+2509,conceptual_asset,FONDO MUTUO SANTANDER GARANTIZADO MANDARIN,FFMM-SANTANDER-8628,mutual_fund,,4,8628-2,http://www.cmfchile.cl
+2786,conceptual_asset,FONDO DE INVERSIÓN HMC BALANCEADO GLOBAL,FINV-9865,investment_fund,,4,9865-5,http://www.cmfchile.cl
+2956,conceptual_asset,CXSE,CXSE,etf,USD,4,,
+1473,conceptual_asset,BTG PACTUAL DEUDA LATINOAMERICANA FONDO DE INVERSION,FINV-7141,investment_fund,,4,7141-2,http://www.cmfchile.cl
+2885,conceptual_asset,BTG PACTUAL GLOBAL REITS FONDO DE INVERSIÓN,FINV-9910,investment_fund,,4,9910-4,http://www.cmfchile.cl
+2237,conceptual_asset,FONDO MUTUO BTG PACTUAL ACCIONES EUROPA EMERGENTE,FFMM-BTG-8728,mutual_fund,,4,8728-9,http://www.cmfchile.cl
+59,conceptual_asset,VEU,VEU,etf,USD,4,,
+2238,conceptual_asset,FONDO MUTUO BTG PACTUAL ANDINO,FFMM-BTG-9000,mutual_fund,,4,9000-k,http://www.cmfchile.cl
+1497,conceptual_asset,FONDO DE INVERSION NEVASA RENTA FIJA LOCAL,FINV-9101,investment_fund,,4,9101-4,http://www.cmfchile.cl
+1648,conceptual_asset,FONDO MUTUO BCI CARTERA PATRIMONIAL CORTO PLAZO,FFMM-BCI-8976,mutual_fund,CLP,4,8976-1,http://www.cmfchile.cl
+2921,conceptual_asset,AMERIS DVA DEUDA PRIVADA USA FONDO DE INVERSIÓN,FINV-9958,investment_fund,,4,9958-9,http://www.cmfchile.cl
+1665,conceptual_asset,FONDO MUTUO BCI CARTERA DINÁMICA CONSERVADORA,FFMM-BCI-8638,mutual_fund,CLP,4,8638-k,http://www.cmfchile.cl
+2244,conceptual_asset,FONDO MUTUO CELFIN ACCIONES ASIA DESARROLLADA,FFMM-BTG-8596,mutual_fund,,4,8596-0,http://www.cmfchile.cl
+2955,conceptual_asset,ARRAYÁN ACCIONES CHILENAS FONDO DE INVERSIÓN,FINV-9989,investment_fund,,4,9989-9,http://www.cmfchile.cl
+1635,conceptual_asset,FONDO MUTUO BCI BONOS LATINOAMERICANOS,FFMM-BCI-8970,mutual_fund,CLP,4,8970-2,http://www.cmfchile.cl
+1666,conceptual_asset,FONDO MUTUO BCI CARTERA DINÁMICA BALANCEADA,FFMM-BCI-8639,mutual_fund,CLP,4,8639-8,http://www.cmfchile.cl
+1474,conceptual_asset,BTG PACTUAL ESTADOS UNIDOS FONDO DE INVERSIÓN,FINV-9527,investment_fund,,4,9527-3,http://www.cmfchile.cl
+2245,conceptual_asset,FONDO MUTUO CELFIN ACCIONES EUROPEAS,FFMM-BTG-8374,mutual_fund,,4,8374-7,http://www.cmfchile.cl
+2246,conceptual_asset,FONDO MUTUO CELFIN DINAMICO ACCIONARIO,FFMM-BTG-8445,mutual_fund,,4,8445-k,http://www.cmfchile.cl
+2247,conceptual_asset,FONDO MUTUO CELFIN DINAMICO BALANCEADO,FFMM-BTG-8446,mutual_fund,,4,8446-8,http://www.cmfchile.cl
+2248,conceptual_asset,FONDO MUTUO CELFIN DINAMICO CONSERVADOR,FFMM-BTG-8410,mutual_fund,,4,8410-7,http://www.cmfchile.cl
+1475,conceptual_asset,BTG PACTUAL LATAM INVESTMENT GRADE FONDO DE INVERSION,FINV-9360,investment_fund,,4,9360-2,http://www.cmfchile.cl
+1476,conceptual_asset,BTG PACTUAL T. ROWE PRICE FLEXIBLE EMERGING MARKET DEBT FONDO DE INVERSIÓN,FINV-9677,investment_fund,,4,9677-6,http://www.cmfchile.cl
+1688,conceptual_asset,FONDO MUTUO BICE ACCIONES ASIA,FFMM-BICE-8178,mutual_fund,CLP,4,8178-7,http://www.cmfchile.cl
+1695,conceptual_asset,FONDO MUTUO BICE ACCIONES EUROPA,FFMM-BICE-8114,mutual_fund,CLP,4,8114-0,http://www.cmfchile.cl
+1699,conceptual_asset,FONDO MUTUO BICE ACCIONES MERCADOS EMERGENTES,FFMM-BICE-8475,mutual_fund,CLP,4,8475-1,http://www.cmfchile.cl
+1702,conceptual_asset,FONDO MUTUO BICE ACCIONES NORTEAMERICA,FFMM-BICE-8183,mutual_fund,CLP,4,8183-3,http://www.cmfchile.cl
+1704,conceptual_asset,FONDO MUTUO BICE BONOS LATAM,FFMM-BICE-8750,mutual_fund,USD,4,8750-5,http://www.cmfchile.cl
+1689,conceptual_asset,FONDO MUTUO BICE ACCIONES BRASIL,FFMM-BICE-8725,mutual_fund,CLP,4,8725-4,http://www.cmfchile.cl
+1694,conceptual_asset,FONDO MUTUO BICE ACCIONES COLOMBIA,FFMM-BICE-8935,mutual_fund,CLP,4,8935-4,http://www.cmfchile.cl
+1705,conceptual_asset,FONDO MUTUO BICE COMMODITIES,FFMM-BICE-8749,mutual_fund,CLP,4,8749-1,http://www.cmfchile.cl
+1709,conceptual_asset,FONDO MUTUO BICE ESTRATEGIA MÁS AGRESIVA,FFMM-BICE-8785,mutual_fund,CLP,4,8785-8,http://www.cmfchile.cl
+1706,conceptual_asset,FONDO MUTUO BICE ESTRATEGIA AGRESIVA,FFMM-BICE-8687,mutual_fund,CLP,4,8687-8,http://www.cmfchile.cl
+2980,conceptual_asset,FONDO DE INVERSION SURA DEUDA PRIVADA CHILE,FINV-9977,investment_fund,,4,9977-5,http://www.cmfchile.cl
+1649,conceptual_asset,FONDO MUTUO BCI EFICIENTE,FFMM-BCI-8730,mutual_fund,CLP,4,8730-0,http://www.cmfchile.cl
+3057,conceptual_asset,FONDO DE INVERSION ZURICH ACTIVOS ALTERNATIVOS,FINV-10128,investment_fund,,4,10128-1,http://www.cmfchile.cl
+1613,conceptual_asset,VISION ROGGE GLOBAL INCOME FONDO DE INVERSION,FINV-9092,investment_fund,,4,9092-1,http://www.cmfchile.cl
+1610,conceptual_asset,FONDO DE INVERSIÓN SURA DEUDA GLOBAL,FINV-9494,investment_fund,,4,9494-3,http://www.cmfchile.cl
+1611,conceptual_asset,PENTA RETORNO LATINOAMERICA FONDO DE INVERSION,FINV-7261,investment_fund,,4,7261-3,http://www.cmfchile.cl
+1697,conceptual_asset,FONDO MUTUO BICE ACCIONES JAPÓN,FFMM-BICE-9007,mutual_fund,CLP,4,9007-7,http://www.cmfchile.cl
+1698,conceptual_asset,FONDO MUTUO BICE ACCIONES LATAM,FFMM-BICE-8537,mutual_fund,CLP,4,8537-5,http://www.cmfchile.cl
+1718,conceptual_asset,FONDO MUTUO BICE TESORERIA,FFMM-BICE-8100,mutual_fund,CLP,4,8100-0,http://www.cmfchile.cl
+1708,conceptual_asset,FONDO MUTUO BICE ESTRATEGIA CONSERVADORA,FFMM-BICE-8295,mutual_fund,CLP,4,8295-3,http://www.cmfchile.cl
+1701,conceptual_asset,FONDO MUTUO BICE ACCIONES MÉXICO,FFMM-BICE-8801,mutual_fund,CLP,4,8801-3,http://www.cmfchile.cl
+1703,conceptual_asset,FONDO MUTUO BICE ACCIONES PERÚ,FFMM-BICE-8937,mutual_fund,CLP,4,8937-0,http://www.cmfchile.cl
+1707,conceptual_asset,FONDO MUTUO BICE ESTRATEGIA BALANCEADA,FFMM-BICE-8032,mutual_fund,CLP,4,8032-2,http://www.cmfchile.cl
+1717,conceptual_asset,FONDO MUTUO BICE TENDENCIAS,FFMM-BICE-8944,mutual_fund,CLP,4,8944-3,http://www.cmfchile.cl
+1693,conceptual_asset,FONDO MUTUO BICE ACCIONES CHILE SELECTIVO,FFMM-BICE-8142,mutual_fund,CLP,4,8142-6,http://www.cmfchile.cl
+1728,conceptual_asset,FONDO MUTUO BTG PACTUAL ACCIONES USA,FFMM-BTG-8205,mutual_fund,CLP,4,8205-8,http://www.cmfchile.cl
+2249,conceptual_asset,FONDO MUTUO CELFIN ENERGIA,FFMM-BTG-8426,mutual_fund,,4,8426-3,http://www.cmfchile.cl
+1727,conceptual_asset,FONDO MUTUO BTG PACTUAL ACCIONES LATINOAMERICANAS,FFMM-BTG-8206,mutual_fund,CLP,4,8206-6,http://www.cmfchile.cl
+2250,conceptual_asset,FONDO MUTUO CELFIN INFRAESTRUCTURA,FFMM-BTG-8793,mutual_fund,,4,8793-9,http://www.cmfchile.cl
+1741,conceptual_asset,FONDO MUTUO BTG PACTUAL RENTA LATINOAMERICANA HIGH YIELD,FFMM-BTG-8207,mutual_fund,USD,4,8207-4,http://www.cmfchile.cl
+2510,conceptual_asset,FONDO MUTUO SANTANDER GARANTIZADO MATRIOSKA,FFMM-SANTANDER-8634,mutual_fund,,4,8634-7,http://www.cmfchile.cl
+2251,conceptual_asset,FONDO MUTUO CELFIN PERU,FFMM-BTG-8865,mutual_fund,,4,8865-k,http://www.cmfchile.cl
+2252,conceptual_asset,FONDO MUTUO CELFIN RENTA GLOBAL,FFMM-BTG-8404,mutual_fund,,4,8404-2,http://www.cmfchile.cl
+2253,conceptual_asset,FONDO MUTUO CELFIN RENTA INTERNACIONAL,FFMM-BTG-8208,mutual_fund,,4,8208-2,http://www.cmfchile.cl
+2254,conceptual_asset,FONDO MUTUO CELFIN RETORNO TOTAL,FFMM-BTG-8405,mutual_fund,,4,8405-0,http://www.cmfchile.cl
+1725,conceptual_asset,FONDO MUTUO BTG PACTUAL ACCIONES ASIA EMERGENTE,FFMM-BTG-8373,mutual_fund,CLP,4,8373-9,http://www.cmfchile.cl
+1729,conceptual_asset,FONDO MUTUO BTG PACTUAL BRASIL,FFMM-BTG-8575,mutual_fund,CLP,4,8575-8,http://www.cmfchile.cl
+1736,conceptual_asset,FONDO MUTUO BTG PACTUAL MONEY MARKET DOLAR,FFMM-BTG-8618,mutual_fund,USD,4,8618-5,http://www.cmfchile.cl
+1730,conceptual_asset,FONDO MUTUO BTG PACTUAL CHILE ACCIÓN,FFMM-BTG-8898,mutual_fund,CLP,4,8898-6,http://www.cmfchile.cl
+1700,conceptual_asset,FONDO MUTUO BICE ACCIONES MUNDO SUSTENTABLE,FFMM-BICE-8924,mutual_fund,CLP,4,8924-9,http://www.cmfchile.cl
+2650,conceptual_asset,Unidades de Inversión,MXVMXN,currency,MXN,6,,
+1733,conceptual_asset,FONDO MUTUO BTG PACTUAL GLOBAL DESARROLLADO,FFMM-BTG-9005,mutual_fund,CLP,4,9005-0,http://www.cmfchile.cl
+1734,conceptual_asset,FONDO MUTUO BTG PACTUAL GLOBAL EMERGENTE,FFMM-BTG-9024,mutual_fund,CLP,4,9024-7,http://www.cmfchile.cl
+1740,conceptual_asset,FONDO MUTUO BTG PACTUAL RENTA INTERNACIONAL,FFMM-BTG-9209,mutual_fund,USD,4,9209-6,http://www.cmfchile.cl
+1795,conceptual_asset,FONDO MUTUO ZURICH ASIA,FFMM-ZURICH-8457,mutual_fund,CLP,4,8457-3,http://www.cmfchile.cl
+1732,conceptual_asset,FONDO MUTUO BTG PACTUAL GESTION ACTIVA,FFMM-BTG-9006,mutual_fund,CLP,4,9006-9,http://www.cmfchile.cl
+2922,conceptual_asset,FONDO MUTUO CONSERVADOR,FFMM-BICE-9965,mutual_fund,,4,9965-1,http://www.cmfchile.cl
+2923,conceptual_asset,FONDO MUTUO MODERADO,FFMM-BICE-9966,mutual_fund,,4,9966-k,http://www.cmfchile.cl
+1735,conceptual_asset,FONDO MUTUO BTG PACTUAL MONEY MARKET,FFMM-BTG-8202,mutual_fund,CLP,4,8202-3,http://www.cmfchile.cl
+1738,conceptual_asset,FONDO MUTUO BTG PACTUAL RENTA ACTIVA,FFMM-BTG-8950,mutual_fund,CLP,4,8950-8,http://www.cmfchile.cl
+2957,conceptual_asset,FONDO MUTUO ITAU ESG NORDEA EMERGING STARS,FFMM-ITAU-9987,mutual_fund,,4,9987-2,http://www.cmfchile.cl
+2958,conceptual_asset,FONDO MUTUO ITAU ESG GLOBAL CREDITS,FFMM-ITAU-9988,mutual_fund,,4,9988-0,http://www.cmfchile.cl
+3058,conceptual_asset,FONDO DE INVERSIÓN ETF SINGULAR NASDAQ 100,FINV-10150,investment_fund,,4,10150-8,http://www.cmfchile.cl
+3059,conceptual_asset,FONDO DE INVERSION SURA DEUDA PRIVADA,FINV-9826,investment_fund,,4,9826-4,http://www.cmfchile.cl
+3060,conceptual_asset,RACLINFI,RACLINFI,index,CLP,4,,
+3061,conceptual_asset,RIAMI0UF,RIAMI0UF,index,CLP,4,,
+1739,conceptual_asset,FONDO MUTUO BTG PACTUAL RENTA CHILENA,FFMM-BTG-8203,mutual_fund,CLP,4,8203-1,http://www.cmfchile.cl
+1746,conceptual_asset,FONDO MUTUO BANCHILE CAPITAL EMPRESARIAL,FFMM-BANCHILE-9022,mutual_fund,CLP,4,9022-0,http://www.cmfchile.cl
+1638,conceptual_asset,FONDO MUTUO BCI CONVENIENCIA,FFMM-BCI-8045,mutual_fund,CLP,4,8045-4,http://www.cmfchile.cl
+1481,conceptual_asset,COMPASS GLOBAL EQUITY FONDO DE INVERSION,FFMM-COMPASS-9095,mutual_fund,,4,9095-6,http://www.cmfchile.cl
+1646,conceptual_asset,FONDO MUTUO BCI DIVISA,FFMM-BCI-8702,mutual_fund,USD,4,8702-5,http://www.cmfchile.cl
+1651,conceptual_asset,FONDO MUTUO BCI ESTADOS UNIDOS,FFMM-BCI-8712,mutual_fund,CLP,4,8712-2,http://www.cmfchile.cl
+2959,conceptual_asset,FONDO DE INVERSIÓN FYNSA RENTA FIJA INTERNACIONAL,FINV-9974,investment_fund,,4,9974-0,http://www.cmfchile.cl
+2960,conceptual_asset,FONDO DE INVERSIÓN FYNSA RENTA VARIABLE INTERNACIONAL,FINV-9975,investment_fund,,4,9975-9,http://www.cmfchile.cl
+2656,conceptual_asset,Modelo,modelo,afp,CLP,4,,
+2657,conceptual_asset,Habitat,habitat,afp,CLP,4,,
+2658,conceptual_asset,Capital,capital,afp,CLP,4,,
+2965,conceptual_asset,COMPASS BRAZIL EQUITY LB FONDO DE INVERSIÓN,FINV-9973,investment_fund,,4,9973-2,http://www.cmfchile.cl
+2209,conceptual_asset,FONDO MUTUO BICE DREYFUS VITAE,FFMM-BICE-8126,mutual_fund,,4,8126-4,http://www.cmfchile.cl
+2659,conceptual_asset,Cuprum,cuprum,afp,CLP,4,,
+2210,conceptual_asset,FONDO MUTUO BICE EE.UU.,FFMM-BICE-8975,mutual_fund,,4,8975-3,http://www.cmfchile.cl
+2660,conceptual_asset,Planvital,planvital,afp,CLP,4,,
+2661,conceptual_asset,Provida,provida,afp,CLP,4,,
+2703,conceptual_asset,Unidad Tributaria Mensual,UTMCLP,index,CLP,4,,https://www.bcentral.cl
+2662,conceptual_asset,Uno,uno,afp,CLP,4,,
+2964,conceptual_asset,Fondo Mutuo Security Deuda Corporativa Lationamericana,CFMSECDCL,mutual_fund,USD,4,8940-0,http://www.cmfchile.cl
+2962,conceptual_asset,Fondo de inversión FYNSA Migrante,CFIFYNMIG,investment_fund,CLP,4,9992-9,http://www.cmfchile.cl
+2511,conceptual_asset,FONDO MUTUO SANTANDER GESTION ACTIVA,FFMM-SANTANDER-8385,mutual_fund,,4,8385-2,http://www.cmfchile.cl
+2512,conceptual_asset,FONDO MUTUO SANTANDER GESTION DINAMICA,FFMM-SANTANDER-8386,mutual_fund,,4,8386-0,http://www.cmfchile.cl
+2890,conceptual_asset,FONDO MUTUO BANCHILE DEUDA INTERNACIONAL,FFMM-BANCHILE-9916,mutual_fund,,4,9916-3,http://www.cmfchile.cl
+1754,conceptual_asset,COMPASS LATAM CORPORATE DEBT FONDO DE INVERSION,FFMM-COMPASS-9102,mutual_fund,,4,9102-2,http://www.cmfchile.cl
+2165,conceptual_asset,FONDO MUTUO BCI BRASIL,FFMM-BCI-8763,mutual_fund,CLP,4,8763-7,http://www.cmfchile.cl
+1681,conceptual_asset,FONDO MUTUO BCI ESTRATEGIA PESOS LARGO PLAZO,FFMM-BCI-8766,mutual_fund,CLP,4,8766-1,http://www.cmfchile.cl
+2513,conceptual_asset,FONDO MUTUO SANTANDER GESTION DINAMICA DOLAR,FFMM-SANTANDER-8503,mutual_fund,,4,8503-0,http://www.cmfchile.cl
+2961,conceptual_asset,FONDO DE INVERSION LARRAINVIAL EMERGING MARKETS DEBT,FINV-9963,investment_fund,,4,9963-5,http://www.cmfchile.cl
+1748,conceptual_asset,FONDO MUTUO BANCHILE RENTA VARIABLE NACIONAL,FFMM-BANCHILE-9489,mutual_fund,,4,9489-7,http://www.cmfchile.cl
+2981,conceptual_asset,FONDO MUTUO BCI ACCIONES SOSTENIBLES ESG,FFMM-BCI-10067,mutual_fund,,4,10067-6,http://www.cmfchile.cl
+2966,conceptual_asset,AMERIS LIQUIDEZ FONDO MUTUO,FFMM-AMERIS-9994,mutual_fund,,4,9994-5,http://www.cmfchile.cl
+3062,conceptual_asset,RIAMDEPT,RIAMDEPT,index,CLP,4,,
+2514,conceptual_asset,FONDO MUTUO SANTANDER INTERES,FFMM-SANTANDER-8071,mutual_fund,,4,8071-3,http://www.cmfchile.cl
+2515,conceptual_asset,FONDO MUTUO SANTANDER INTERMEDIACION,FFMM-SANTANDER-8041,mutual_fund,,4,8041-1,http://www.cmfchile.cl
+2516,conceptual_asset,FONDO MUTUO SANTANDER MATRIOSKA,FFMM-SANTANDER-8896,mutual_fund,,4,8896-k,http://www.cmfchile.cl
+2963,conceptual_asset,BNPP 1,BNPP-CP,investment_fund,MXN,4,,
+2967,conceptual_asset,Fondo de Inversión Activa Deuda Hipotecaria con Subsidio Habitacional II,CFIDHS2,investment_fund,CLP,4,9082-4,http://www.cmfchile.cl
+1752,conceptual_asset,COMPASS GLOBAL DEBT FONDO DE INVERSIÓN,FFMM-COMPASS-9094,mutual_fund,,4,9094-8,http://www.cmfchile.cl
+528,conceptual_asset,Tasa de Política Monetaria,TPM,rate,CLP,4,,https://www.bcentral.cl
+2361,conceptual_asset,FONDO MUTUO ITAU ACCIONES CHILENAS,FFMM-ITAU-8587,mutual_fund,,4,8587-1,http://www.cmfchile.cl
+1671,conceptual_asset,FONDO MUTUO BCI ESTRATEGIA UF HASTA 5 AÑOS,FFMM-BCI-8108,mutual_fund,CLP,4,8108-6,http://www.cmfchile.cl
+1838,conceptual_asset,FONDO MUTUO ITAU CONVENIENCIA,FFMM-ITAU-8234,mutual_fund,CLP,4,8234-1,http://www.cmfchile.cl
+534,conceptual_asset,SPC CLP 1Y,SPC-CLP-1Y,rate,CLP,4,,
+1867,conceptual_asset,FONDO MUTUO LARRAINVIAL ESTADOS UNIDOS,FFMM-LARRAINVIAL-8437,mutual_fund,USD,4,8437-9,http://www.cmfchile.cl
+2362,conceptual_asset,FONDO MUTUO ITAU ACCIONES EMERGENTES,FFMM-ITAU-8162,mutual_fund,,4,8162-0,http://www.cmfchile.cl
+1637,conceptual_asset,FONDO MUTUO BCI COMPETITIVO,FFMM-BCI-8107,mutual_fund,CLP,4,8107-8,http://www.cmfchile.cl
+2982,conceptual_asset,FONDO MUTUO BCI CARTERA DOLAR BALANCEADA,FFMM-BCI-10071,mutual_fund,,4,10071-4,http://www.cmfchile.cl
+1644,conceptual_asset,FONDO MUTUO BCI DEPOSITO EFECTIVO,FFMM-BCI-8037,mutual_fund,CLP,4,8037-3,http://www.cmfchile.cl
+1819,conceptual_asset,FONDO MUTUO ZURICH ESTADOS UNIDOS,FFMM-ZURICH-8458,mutual_fund,CLP,4,8458-1,http://www.cmfchile.cl
+1797,conceptual_asset,FONDO MUTUO ZURICH DEUDA CORPORATIVA CHILENA,FFMM-ZURICH-9054,mutual_fund,CLP,4,9054-9,http://www.cmfchile.cl
+2212,conceptual_asset,FONDO MUTUO BICE VITAE,FFMM-BICE-8085,mutual_fund,,4,8085-3,http://www.cmfchile.cl
+2323,conceptual_asset,FONDO MUTUO EUROAMERICA RETORNO TOTAL,FFMM-ZURICH-8239,mutual_fund,,4,8239-2,http://www.cmfchile.cl
+2324,conceptual_asset,FONDO MUTUO EUROAMERICA VENTAJALOCAL,FFMM-ZURICH-8278,mutual_fund,,4,8278-3,http://www.cmfchile.cl
+3063,conceptual_asset,FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO DOLAR AGRESIVO,FFMM-BANCHILE-10151,mutual_fund,,4,10151-6,http://www.cmfchile.cl
+3064,conceptual_asset,FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO DOLAR CONSERVADOR,FFMM-BANCHILE-10152,mutual_fund,,4,10152-4,http://www.cmfchile.cl
+1840,conceptual_asset,FONDO MUTUO ITAU DEUDA NOMINAL,FFMM-ITAU-8620,mutual_fund,CLP,4,8620-7,http://www.cmfchile.cl
+1846,conceptual_asset,FONDO MUTUO ITAU GESTIONADO MODERADO,FFMM-ITAU-8992,mutual_fund,CLP,4,8992-3,http://www.cmfchile.cl
+1848,conceptual_asset,FONDO MUTUO ITAU NATIONAL EQUITY,FFMM-ITAU-8305,mutual_fund,CLP,4,8305-4,http://www.cmfchile.cl
+1851,conceptual_asset,FONDO MUTUO ITAU TOP USA,FFMM-ITAU-8479,mutual_fund,CLP,4,8479-4,http://www.cmfchile.cl
+1853,conceptual_asset,FONDO MUTUO ITAÚ BRASIL ACTIVO,FFMM-ITAU-8799,mutual_fund,CLP,4,8799-8,http://www.cmfchile.cl
+1852,conceptual_asset,FONDO MUTUO ITAU UF PLUS,FFMM-ITAU-9201,mutual_fund,CLP,4,9201-0,http://www.cmfchile.cl
+2742,conceptual_asset,FONDO MUTUO ITAU RENTA DINAMICA GLOBAL,FFMM-ITAU-9834,mutual_fund,CLP,4,9834-5,http://www.cmfchile.cl
+1758,conceptual_asset,FONDO MUTUO CONSORCIO BALANCEADO CONSERVADOR,FFMM-LARRAINVIAL-8193,mutual_fund,CLP,4,8193-0,http://www.cmfchile.cl
+1861,conceptual_asset,FONDO MUTUO LARRAINVIAL AHORRO ESTRATEGICO,FFMM-LARRAINVIAL-8240,mutual_fund,CLP,4,8240-6,http://www.cmfchile.cl
+1877,conceptual_asset,FONDO MUTUO LARRAINVIAL PORTFOLIO LIDER,FFMM-LARRAINVIAL-8245,mutual_fund,CLP,4,8245-7,http://www.cmfchile.cl
+1859,conceptual_asset,FONDO MUTUO LARRAINVIAL AHORRO CAPITAL,FFMM-LARRAINVIAL-8263,mutual_fund,CLP,4,8263-5,http://www.cmfchile.cl
+1759,conceptual_asset,FONDO MUTUO CONSORCIO BALANCEADO CRECIMIENTO,FFMM-LARRAINVIAL-8303,mutual_fund,CLP,4,8303-8,http://www.cmfchile.cl
+1873,conceptual_asset,FONDO MUTUO LARRAINVIAL AHORRO CORPORATIVO,FFMM-LARRAINVIAL-8315,mutual_fund,CLP,4,8315-1,http://www.cmfchile.cl
+1632,conceptual_asset,FONDO MUTUO BCI DEUDA GLOBAL,FFMM-BCI-9371,mutual_fund,USD,4,9371-8,http://www.cmfchile.cl
+3065,conceptual_asset,FONDO MUTUO SANTANDER PRUDENTE DÓLAR,FFMM-SANTANDER-10147,mutual_fund,,4,10147-8,http://www.cmfchile.cl
+530,conceptual_asset,SPC CLP 3Y,SPC-CLP-3Y,rate,CLP,4,,https://www.bcentral.cl
+531,conceptual_asset,SPC CLP 4Y,SPC-CLP-4Y,rate,CLP,4,,https://www.bcentral.cl
+532,conceptual_asset,SPC CLP 5Y,SPC-CLP-5Y,rate,CLP,4,,https://www.bcentral.cl
+533,conceptual_asset,SPC CLP 10Y,SPC-CLP-10Y,rate,CLP,4,,https://www.bcentral.cl
+3066,conceptual_asset,FONDO DE INVERSIÓN HMC US VENTURE OPPORTUNITIES,FINV-10079,investment_fund,,4,10079-k,http://www.cmfchile.cl
+3067,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO UF MÁS II,FFMM-BCI-10171,mutual_fund,,4,10171-0,http://www.cmfchile.cl
+1772,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL DEUDA CORPORATIVA LATAM INVESTMENT GRADE,FFMM-CREDICORP-9365,mutual_fund,,4,9365-3,http://www.cmfchile.cl
+1652,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO 120,FFMM-BCI-9440,mutual_fund,CLP,4,9440-4,http://www.cmfchile.cl
+1677,conceptual_asset,FONDO MUTUO BCI CARTERA PATRIMONIAL BALANCEADA,FFMM-BCI-9062,mutual_fund,,4,9062-k,http://www.cmfchile.cl
+2968,conceptual_asset,FONDO MUTUO SURA TENDENCIAS GLOBALES,FFMM-ADMINISTRADORA-9986,mutual_fund,,4,9986-4,http://www.cmfchile.cl
+1680,conceptual_asset,FONDO MUTUO BCI RETORNO DÓLAR IG,FFMM-BCI-9445,mutual_fund,USD,4,9445-5,http://www.cmfchile.cl
+1663,conceptual_asset,FONDO MUTUO BCI CARTERA DINAMICA CHILE,FFMM-BCI-9511,mutual_fund,CLP,4,9511-7,http://www.cmfchile.cl
+1868,conceptual_asset,FONDO MUTUO LARRAINVIAL CUENTA ACTIVA AGRESIVA,FFMM-LARRAINVIAL-9193,mutual_fund,CLP,4,9193-6,http://www.cmfchile.cl
+1871,conceptual_asset,FONDO MUTUO LARRAINVIAL CUENTA ACTIVA MODERADA,FFMM-LARRAINVIAL-9190,mutual_fund,CLP,4,9190-1,http://www.cmfchile.cl
+2983,conceptual_asset,FONDO MUTUO BCI CARTERA DÓLAR CONSERVADORA,FFMM-BCI-10072,mutual_fund,,4,10072-2,http://www.cmfchile.cl
+1660,conceptual_asset,FONDO MUTUO BCI EXPRESS,FFMM-BCI-8608,mutual_fund,CLP,4,8608-8,http://www.cmfchile.cl
+1834,conceptual_asset,FONDO MUTUO ITAU ACCIONES LATINOAMERICA,FFMM-ITAU-8133,mutual_fund,,4,8133-7,http://www.cmfchile.cl
+2363,conceptual_asset,FONDO MUTUO ITAU BONOS CORPORATIVOS,FFMM-ITAU-8953,mutual_fund,,4,8953-2,http://www.cmfchile.cl
+1657,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO GLOBAL FIXED INCOME,FFMM-BCI-9587,mutual_fund,USD,4,9587-7,http://www.cmfchile.cl
+2517,conceptual_asset,FONDO MUTUO SANTANDER MONEY MARKET DÓLAR 2,FFMM-SANTANDER-8616,mutual_fund,,4,8616-9,http://www.cmfchile.cl
+2518,conceptual_asset,FONDO MUTUO SANTANDER MONEY MARKET DÓLAR 3,FFMM-SANTANDER-8675,mutual_fund,,4,8675-4,http://www.cmfchile.cl
+1656,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO DEUDA GLOBAL,FFMM-BCI-9586,mutual_fund,CLP,4,9586-9,http://www.cmfchile.cl
+1864,conceptual_asset,FONDO MUTUO LARRAINVIAL BONOS LATAM,FFMM-LARRAINVIAL-8502,mutual_fund,USD,4,8502-2,http://www.cmfchile.cl
+1876,conceptual_asset,FONDO MUTUO LARRAINVIAL MONEY MARKET,FFMM-LARRAINVIAL-8606,mutual_fund,USD,4,8606-1,http://www.cmfchile.cl
+1857,conceptual_asset,FONDO MUTUO LARRAINVIAL AHORRO A PLAZO,FFMM-LARRAINVIAL-8755,mutual_fund,CLP,4,8755-6,http://www.cmfchile.cl
+1878,conceptual_asset,FONDO MUTUO LARRAINVIAL PROTECCION,FFMM-LARRAINVIAL-8788,mutual_fund,CLP,4,8788-2,http://www.cmfchile.cl
+1860,conceptual_asset,FONDO MUTUO LARRAINVIAL AHORRO DÓLAR,FFMM-LARRAINVIAL-9221,mutual_fund,USD,4,9221-5,http://www.cmfchile.cl
+2519,conceptual_asset,FONDO MUTUO SANTANDER MONEY MARKET EURO,FFMM-SANTANDER-8686,mutual_fund,,4,8686-k,http://www.cmfchile.cl
+2522,conceptual_asset,FONDO MUTUO SANTANDER OVERNIGHT,FFMM-SANTANDER-8044,mutual_fund,,4,8044-6,http://www.cmfchile.cl
+2523,conceptual_asset,FONDO MUTUO SANTANDER OVERNIGHT 2,FFMM-SANTANDER-8585,mutual_fund,,4,8585-5,http://www.cmfchile.cl
+2524,conceptual_asset,FONDO MUTUO SANTANDER OVERNIGHT 4,FFMM-SANTANDER-8586,mutual_fund,,4,8586-3,http://www.cmfchile.cl
+2525,conceptual_asset,FONDO MUTUO SANTANDER PORTFOLIO ACTIVO,FFMM-SANTANDER-8228,mutual_fund,,4,8228-7,http://www.cmfchile.cl
+2536,conceptual_asset,FONDO MUTUO SANTANDER SUPERCUENTA,FFMM-SANTANDER-8047,mutual_fund,,4,8047-0,http://www.cmfchile.cl
+2537,conceptual_asset,FONDO MUTUO SANTANDER SUPERPLAN DOLAR,FFMM-SANTANDER-8070,mutual_fund,,4,8070-5,http://www.cmfchile.cl
+1897,conceptual_asset,FONDO MUTUO PRINCIPAL DEUDA MEDIANO PLAZO UF,FFMM-PRINCIPAL-9597,mutual_fund,CLP,4,9597-4,http://www.cmfchile.cl
+1899,conceptual_asset,FONDO MUTUO PRINCIPAL EUROPE EQUITY,FFMM-PRINCIPAL-8097,mutual_fund,CLP,4,8097-7,http://www.cmfchile.cl
+1901,conceptual_asset,FONDO MUTUO PRINCIPAL GESTION ESTRATEGICA B,FFMM-PRINCIPAL-8825,mutual_fund,CLP,4,8825-0,http://www.cmfchile.cl
+1902,conceptual_asset,FONDO MUTUO PRINCIPAL GESTION ESTRATEGICA C,FFMM-PRINCIPAL-8826,mutual_fund,CLP,4,8826-9,http://www.cmfchile.cl
+1903,conceptual_asset,FONDO MUTUO PRINCIPAL GESTION ESTRATEGICA D,FFMM-PRINCIPAL-8827,mutual_fund,CLP,4,8827-7,http://www.cmfchile.cl
+1905,conceptual_asset,FONDO MUTUO PRINCIPAL LATAM EQUITY,FFMM-PRINCIPAL-8098,mutual_fund,CLP,4,8098-5,http://www.cmfchile.cl
+1911,conceptual_asset,FONDO MUTUO PRINCIPAL PERMANENCIA DEUDA EXTRA LARGO PLAZO,FFMM-PRINCIPAL-9033,mutual_fund,CLP,4,9033-6,http://www.cmfchile.cl
+1900,conceptual_asset,FONDO MUTUO PRINCIPAL GESTION ESTRATEGICA A,FFMM-PRINCIPAL-8824,mutual_fund,CLP,4,8824-2,http://www.cmfchile.cl
+3068,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL BRAVE DISCO,FFMM-CREDICORP-10135,mutual_fund,,4,10135-4,http://www.cmfchile.cl
+3069,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL HEAVY METAL,FFMM-CREDICORP-10136,mutual_fund,,4,10136-2,http://www.cmfchile.cl
+1793,conceptual_asset,FONDO MUTUO ETF IT NOW S&P IPSA,FFMM-ITAU-9019,mutual_fund,CLP,4,9019-0,http://www.cmfchile.cl
+1912,conceptual_asset,FONDO MUTUO PRINCIPAL PROGRESION DEUDA LARGO PLAZO,FFMM-PRINCIPAL-8089,mutual_fund,CLP,4,8089-6,http://www.cmfchile.cl
+1904,conceptual_asset,FONDO MUTUO PRINCIPAL SELECCIÓN INMOBILIARIA,FFMM-PRINCIPAL-9450,mutual_fund,CLP,4,9450-1,http://www.cmfchile.cl
+1914,conceptual_asset,FONDO MUTUO PRINCIPAL USA EQUITY,FFMM-PRINCIPAL-8113,mutual_fund,CLP,4,8113-2,http://www.cmfchile.cl
+1946,conceptual_asset,FONDO MUTUO SANTANDER MONEY MARKET,FFMM-SANTANDER-8057,mutual_fund,CLP,4,8057-8,http://www.cmfchile.cl
+1945,conceptual_asset,FONDO MUTUO SANTANDER MONETARIO,FFMM-SANTANDER-8059,mutual_fund,CLP,4,8059-4,http://www.cmfchile.cl
+1953,conceptual_asset,FONDO MUTUO SANTANDER RENTA LARGO PLAZO UF,FFMM-SANTANDER-8077,mutual_fund,CLP,4,8077-2,http://www.cmfchile.cl
+1952,conceptual_asset,FONDO MUTUO SANTANDER RENTA LARGO PLAZO PESOS,FFMM-SANTANDER-8082,mutual_fund,CLP,4,8082-9,http://www.cmfchile.cl
+1469,conceptual_asset,BTG PACTUAL ABSOLUTO BRASIL EQUITY FONDO DE INVERSIÓN,FINV-9368,investment_fund,,4,9368-8,http://www.cmfchile.cl
+1470,conceptual_asset,BTG PACTUAL DEUDA ACTIVA PLUS FONDO DE INVERSIÓN,FINV-9358,investment_fund,,4,9358-0,http://www.cmfchile.cl
+1959,conceptual_asset,FONDO MUTUO SANTANDER TESORERIA,FFMM-SANTANDER-8209,mutual_fund,CLP,4,8209-0,http://www.cmfchile.cl
+1466,conceptual_asset,BICE DEUDA LATAM FONDO DE INVERSION,FINV-9478,investment_fund,,4,9478-1,http://www.cmfchile.cl
+1467,conceptual_asset,BICE DEUDA NACIONAL FONDO DE INVERSION,FINV-9375,investment_fund,,4,9375-0,http://www.cmfchile.cl
+1468,conceptual_asset,BICE RENTA VARIABLE INTERNACIONAL FONDO DE INVERSION,FINV-9477,investment_fund,,4,9477-3,http://www.cmfchile.cl
+1465,conceptual_asset,BICE ARGENTINA FONDO DE INVERSION,FINV-9369,investment_fund,,4,9369-6,http://www.cmfchile.cl
+1954,conceptual_asset,FONDO MUTUO SANTANDER RENTA MEDIANO PLAZO,FFMM-SANTANDER-8280,mutual_fund,CLP,4,8280-5,http://www.cmfchile.cl
+2538,conceptual_asset,FONDO MUTUO SANTANDER TECNOLOGICO,FFMM-SANTANDER-8154,mutual_fund,,4,8154-k,http://www.cmfchile.cl
+2539,conceptual_asset,FONDO MUTUO SANTIAGO ACCIONES 2,FFMM-SANTANDER-8075,mutual_fund,,4,8075-6,http://www.cmfchile.cl
+2540,conceptual_asset,FONDO MUTUO SANTIAGO ACTIVO,FFMM-SANTANDER-8093,mutual_fund,,4,8093-4,http://www.cmfchile.cl
+2541,conceptual_asset,FONDO MUTUO SANTIAGO ACUMULACION,FFMM-SANTANDER-8061,mutual_fund,,4,8061-6,http://www.cmfchile.cl
+2542,conceptual_asset,FONDO MUTUO SANTIAGO FLEXIBLE,FFMM-SANTANDER-8087,mutual_fund,,4,8087-k,http://www.cmfchile.cl
+2543,conceptual_asset,FONDO MUTUO SANTIAGO INCREMENTO,FFMM-SANTANDER-8066,mutual_fund,,4,8066-7,http://www.cmfchile.cl
+2544,conceptual_asset,FONDO MUTUO SANTIAGO NORTEAMERICANO,FFMM-SANTANDER-8157,mutual_fund,,4,8157-4,http://www.cmfchile.cl
+1464,conceptual_asset,BCI FONDO DE INVERSION DEUDA ARGENTINA,FINV-9612,investment_fund,,4,9612-1,http://www.cmfchile.cl
+1951,conceptual_asset,FONDO MUTUO SANTANDER RENTA CORTO PLAZO,FFMM-SANTANDER-8615,mutual_fund,CLP,4,8615-0,http://www.cmfchile.cl
+1948,conceptual_asset,FONDO MUTUO SANTANDER PRIVATE BANKING AGRESIVO,FFMM-SANTANDER-8908,mutual_fund,CLP,4,8908-7,http://www.cmfchile.cl
+1805,conceptual_asset,FONDO MUTUO ZURICH LATAM LOCAL CURRENCY DEBT,FFMM-ZURICH-9162,mutual_fund,,4,9162-6,http://www.cmfchile.cl
+1949,conceptual_asset,FONDO MUTUO SANTANDER PRIVATE BANKING PRUDENTE,FFMM-SANTANDER-8910,mutual_fund,CLP,4,8910-9,http://www.cmfchile.cl
+1950,conceptual_asset,FONDO MUTUO SANTANDER PRIVATE BANKING EQUILIBRIO,FFMM-SANTANDER-8911,mutual_fund,CLP,4,8911-7,http://www.cmfchile.cl
+2045,conceptual_asset,FONDO MUTUO SURA RENTA BONOS CHILE,FFMM-ADMINISTRADORA-8676,mutual_fund,CLP,4,8676-2,http://www.cmfchile.cl
+2040,conceptual_asset,FONDO MUTUO SURA MULTIACTIVO AGRESIVO,FFMM-ADMINISTRADORA-9473,mutual_fund,CLP,4,9473-0,http://www.cmfchile.cl
+2042,conceptual_asset,FONDO MUTUO SURA MULTIACTIVO MODERADO,FFMM-ADMINISTRADORA-9474,mutual_fund,CLP,4,9474-9,http://www.cmfchile.cl
+1955,conceptual_asset,FONDO MUTUO SANTANDER RENTA SELECTA CHILE,FFMM-SANTANDER-9034,mutual_fund,,4,9034-4,http://www.cmfchile.cl
+1472,conceptual_asset,BTG PACTUAL DEUDA LATAM DÓLAR FONDO DE INVERSIÓN,FINV-7173,investment_fund,,4,7173-0,http://www.cmfchile.cl
+1947,conceptual_asset,FONDO MUTUO SANTANDER MONEY MARKET DOLAR,FFMM-SANTANDER-8230,mutual_fund,USD,4,8230-9,http://www.cmfchile.cl
+1894,conceptual_asset,FONDO MUTUO PRINCIPAL CARTERA PRUDENTE,FFMM-PRINCIPAL-9595,mutual_fund,CLP,4,9595-8,http://www.cmfchile.cl
+1471,conceptual_asset,BTG PACTUAL DEUDA CORPORATIVA CHILE FONDO DE INVERSION,FINV-7184,investment_fund,CLP,4,7184-6,http://www.cmfchile.cl
+1463,conceptual_asset,AMERIS DVA MULTIAXIS FONDO DE INVERSIÓN,FINV-9118,investment_fund,,4,9118-9,http://www.cmfchile.cl
+3070,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL LIGHT REGGAE,FFMM-CREDICORP-10137,mutual_fund,,4,10137-0,http://www.cmfchile.cl
+38,conceptual_asset,Conservative Clooney,FM-FIN-CGC,mutual_fund,CLP,4,9568-0,https://fintual.cl
+37,conceptual_asset,Moderate Pitt,FM-FIN-MBP,mutual_fund,CLP,4,9569-9,https://fintual.cl
+36,conceptual_asset,Risky Norris,FM-FIN-RCN,mutual_fund,CLP,4,9570-2,https://fintual.cl
+1483,conceptual_asset,COMPASS PERÚ FONDO DE INVERSION,FINV-9174,investment_fund,,4,9174-k,http://www.cmfchile.cl
+1489,conceptual_asset,FONDO DE INVERSION CREDICORP CAPITAL SPREAD CORPORATIVO LOCAL,FINV-7275,investment_fund,,4,7275-3,http://www.cmfchile.cl
+2041,conceptual_asset,FONDO MUTUO SURA MULTIACTIVO CONSERVADOR,FFMM-ADMINISTRADORA-9564,mutual_fund,CLP,4,9564-8,http://www.cmfchile.cl
+1993,conceptual_asset,FONDO MUTUO SCOTIA MONEY MARKET,FFMM-SCOTIA-8111,mutual_fund,CLP,4,8111-6,http://www.cmfchile.cl
+3071,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL POWER POP,FFMM-CREDICORP-10138,mutual_fund,,4,10138-9,http://www.cmfchile.cl
+1486,conceptual_asset,FONDO DE INVERSION BCI OPORTUNIDADES DEUDA,FINV-9280,investment_fund,,4,9280-0,http://www.cmfchile.cl
+1477,conceptual_asset,COMPASS ARGENTINA FONDO DE INVERSION,FINV-9524,investment_fund,,4,9524-9,http://www.cmfchile.cl
+49,conceptual_asset,QQQ,QQQ,etf,USD,4,,
+1480,conceptual_asset,COMPASS GLOBAL CREDIT USD FONDO DE INVERSION,FINV-9364,investment_fund,,4,9364-5,http://www.cmfchile.cl
+1478,conceptual_asset,COMPASS DEUDA PLUS FONDO DE INVERSION,FINV-7200,investment_fund,,4,7200-1,http://www.cmfchile.cl
+1484,conceptual_asset,ECONSULT GLOBAL DOLAR FONDO DE INVERSION,FINV-9100,investment_fund,,4,9100-6,http://www.cmfchile.cl
+1479,conceptual_asset,COMPASS GLOBAL CREDIT CLP FONDO DE INVERSION,FINV-9363,investment_fund,,4,9363-7,http://www.cmfchile.cl
+1485,conceptual_asset,ECONSULT GLOBAL PESOS FONDO DE INVERSION,FINV-9099,investment_fund,,4,9099-9,http://www.cmfchile.cl
+1482,conceptual_asset,COMPASS LATAM EQUITY FONDO DE INVERSION,FINV-9522,investment_fund,,4,9522-2,http://www.cmfchile.cl
+2000,conceptual_asset,FONDO MUTUO SCOTIA RENTA NOMINAL,FFMM-SCOTIA-8609,mutual_fund,CLP,4,8609-6,http://www.cmfchile.cl
+1989,conceptual_asset,FONDO MUTUO SCOTIA MONETARIO NOMINAL,FFMM-SCOTIA-8952,mutual_fund,CLP,4,8952-4,http://www.cmfchile.cl
+1966,conceptual_asset,FONDO MUTUO SCOTIA ACTIVO,FFMM-SCOTIA-8413,mutual_fund,CLP,4,8413-1,http://www.cmfchile.cl
+1492,conceptual_asset,FONDO DE INVERSION FALCOM CHILEAN FIXED INCOME,FINV-9289,investment_fund,,4,9289-4,http://www.cmfchile.cl
+2739,conceptual_asset,FONDO DE INVERSION ETF SINGULAR CHILE CORTA DURACION,FINV-9823,investment_fund,,4,9823-k,http://www.cmfchile.cl
+1972,conceptual_asset,FONDO MUTUO SCOTIA CONFIANZA,FFMM-SCOTIA-9158,mutual_fund,CLP,4,9158-8,http://www.cmfchile.cl
+1979,conceptual_asset,FONDO MUTUO SCOTIA REAL ESTATE GLOBAL,FFMM-SCOTIA-8604,mutual_fund,CLP,4,8604-5,http://www.cmfchile.cl
+2545,conceptual_asset,FONDO MUTUO SANTIAGO SISTEMATICO,FFMM-SANTANDER-8067,mutual_fund,,4,8067-5,http://www.cmfchile.cl
+2984,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO DEUDA GLOBAL II,FFMM-BCI-10045,mutual_fund,,4,10045-5,http://www.cmfchile.cl
+1983,conceptual_asset,FONDO MUTUO SCOTIA DEUDA MEDIANO PLAZO,FFMM-SCOTIA-8292,mutual_fund,CLP,4,8292-9,http://www.cmfchile.cl
+2744,conceptual_asset,XLK,XLK,etf,USD,4,,
+1487,conceptual_asset,FONDO DE INVERSION CAPITAL ADVISORS RENTA VARIABLE GLOBAL,FINV-9305,investment_fund,,4,9305-k,http://www.cmfchile.cl
+48,conceptual_asset,EEM,EEM,etf,USD,4,,
+2749,conceptual_asset,FONDO MUTUO BICE RENTA GLOBAL DÓLAR,FFMM-BICE-9843,mutual_fund,,4,9843-4,http://www.cmfchile.cl
+3072,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL RISKY ROCK,FFMM-CREDICORP-10141,mutual_fund,,4,10141-9,http://www.cmfchile.cl
+1461,conceptual_asset,AMERIS DEUDA CHILE FONDO DE INVERSION,FINV-9383,investment_fund,,4,9383-1,http://www.cmfchile.cl
+2969,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL DEUDA PRIVADA USD,FINV-9870,investment_fund,,4,9870-1,http://www.cmfchile.cl
+2746,conceptual_asset,ITOT,ITOT,etf,USD,4,,
+2985,conceptual_asset,FONDO MUTUO BI PROTECCIÓN,FFMM-BANCO-10026,mutual_fund,,4,10026-9,http://www.cmfchile.cl
+1498,conceptual_asset,FONDO DE INVERSION SANTANDER DEUDA CHILE,FINV-9543,investment_fund,,4,9543-5,http://www.cmfchile.cl
+2375,conceptual_asset,FONDO MUTUO ITAU MAS VALOR,FFMM-ITAU-8286,mutual_fund,,4,8286-4,http://www.cmfchile.cl
+2376,conceptual_asset,FONDO MUTUO ITAU OPORTUNIDAD,FFMM-ITAU-8156,mutual_fund,,4,8156-6,http://www.cmfchile.cl
+2377,conceptual_asset,FONDO MUTUO ITAU OPORTUNIDAD DOLAR,FFMM-ITAU-8648,mutual_fund,,4,8648-7,http://www.cmfchile.cl
+1806,conceptual_asset,FONDO MUTUO ZURICH MERCADOS EMERGENTES,FFMM-ZURICH-8277,mutual_fund,CLP,4,8277-5,http://www.cmfchile.cl
+1802,conceptual_asset,FONDO MUTUO ZURICH EXPERTO,FFMM-ZURICH-8455,mutual_fund,CLP,4,8455-7,http://www.cmfchile.cl
+1801,conceptual_asset,FONDO MUTUO ZURICH EUROPA,FFMM-ZURICH-8456,mutual_fund,CLP,4,8456-5,http://www.cmfchile.cl
+1803,conceptual_asset,FONDO MUTUO ZURICH GESTION CONSERVADORA,FFMM-ZURICH-8805,mutual_fund,CLP,4,8805-6,http://www.cmfchile.cl
+1804,conceptual_asset,FONDO MUTUO ZURICH HIGH YIELD LATAM,FFMM-ZURICH-8946,mutual_fund,CLP,4,8946-k,http://www.cmfchile.cl
+1499,conceptual_asset,FONDO DE INVERSION SANTANDER DEUDA CORPORATIVA CHILE,FINV-9348,investment_fund,,4,9348-3,http://www.cmfchile.cl
+2046,conceptual_asset,FONDO MUTUO SURA RENTA CORPORATIVA LARGO PLAZO,FFMM-ADMINISTRADORA-8956,mutual_fund,CLP,4,8956-7,http://www.cmfchile.cl
+2043,conceptual_asset,FONDO MUTUO SURA RENTA ACTIVA CHILE,FFMM-ADMINISTRADORA-9003,mutual_fund,CLP,4,9003-4,http://www.cmfchile.cl
+1508,conceptual_asset,FONDO DE INVERSIÓN CREDICORP CAPITAL LATIN AMERICAN EQUITY,FINV-9623,investment_fund,,4,9623-7,http://www.cmfchile.cl
+2640,conceptual_asset,FONDO DE INVERSIÓN SURA ACCIONES GLOBALES,FINV-9679,investment_fund,,4,9679-2,http://www.cmfchile.cl
+1500,conceptual_asset,FONDO DE INVERSION SANTANDER RENTA VARIABLE GLOBAL,FINV-9540,investment_fund,,4,9540-0,http://www.cmfchile.cl
+1753,conceptual_asset,FONDO MUTUO COMPASS INVESTMENT GRADE LATAM,FFMM-COMPASS-9345,mutual_fund,,4,9345-9,http://www.cmfchile.cl
+1751,conceptual_asset,FONDO MUTUO COMPASS DEUDA CHILENA,FFMM-COMPASS-9072,mutual_fund,,4,9072-7,http://www.cmfchile.cl
+1504,conceptual_asset,FONDO DE INVERSIÓN CREDICORP CAPITAL ACCIONES US,FINV-9250,investment_fund,,4,9250-9,http://www.cmfchile.cl
+2378,conceptual_asset,FONDO MUTUO ITAU PERFIL AGRESIVO,FFMM-ITAU-9012,mutual_fund,,4,9012-3,http://www.cmfchile.cl
+2970,conceptual_asset,CNRG,CNRG,etf,USD,4,,
+1503,conceptual_asset,FONDO DE INVERSIÓN BCI SOCIEDAD MATRIZ,FINV-9143,investment_fund,,4,9143-k,http://www.cmfchile.cl
+1502,conceptual_asset,FONDO DE INVERSION SURA DEUDA CHILE LARGO PLAZO,FINV-9444,investment_fund,,4,9444-7,http://www.cmfchile.cl
+61,conceptual_asset,EMB,EMB,etf,USD,4,,
+3075,conceptual_asset,FONDO MUTUO BICE ESTRUCTURADO UF,FFMM-BICE-10176,mutual_fund,,4,10176-1,http://www.cmfchile.cl
+60,conceptual_asset,VEA,VEA,etf,USD,4,,
+2972,conceptual_asset,FONDO DE INVERSIÓN HMC DEUDA PRIVADA PESOS,FINV-10007,investment_fund,,4,10007-2,http://www.cmfchile.cl
+1630,conceptual_asset,FONDO MUTUO BCI ACCIONES CHILENAS,FFMM-BCI-8430,mutual_fund,CLP,4,8430-1,http://www.cmfchile.cl
+2919,conceptual_asset,TOESCA DEUDA PRIVADA FACTURAS FONDO DE INVERSIÓN,FINV-9970,investment_fund,CLP,4,9970-8,http://www.cmfchile.cl
+3073,conceptual_asset,FONDO MUTUO BTG PACTUAL ESTRUCTURADO PROTECCIÓN UF,FFMM-BTG-10169,mutual_fund,,4,10169-9,http://www.cmfchile.cl
+3074,conceptual_asset,FONDO DE INVERSIÓN FALCOM DEUDA CORPORATIVA CHILE,FINV-9902,investment_fund,,4,9902-3,http://www.cmfchile.cl
+2986,conceptual_asset,FONDO MUTUO BICE TEMÁTICO GLOBAL,FFMM-BICE-10009,mutual_fund,,4,10009-9,http://www.cmfchile.cl
+2987,conceptual_asset,FONDO MUTUO BOOSTER CLEAN ENERGY,FFMM-BANCHILE-10034,mutual_fund,,4,10034-k,http://www.cmfchile.cl
+1506,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL DEUDA CORPORATIVA INVESTMENT GRADE,FFMM-CREDICORP-9251,mutual_fund,,4,9251-7,http://www.cmfchile.cl
+3110,conceptual_asset,FONDO MUTUO BICE BALANCEADO GLOBAL DÓLAR,FFMM-BICE-10184,mutual_fund,,4,10184-2,http://www.cmfchile.cl
+2743,conceptual_asset,ESGV,ESGV,etf,USD,4,,
+3077,conceptual_asset,MBI DEUDA CORPORATIVA FONDO DE INVERSIÓN,FINV-10162,investment_fund,,4,10162-1,http://www.cmfchile.cl
+2988,conceptual_asset,FONDO MUTUO BOOSTER INNOVATION,FFMM-BANCHILE-10085,mutual_fund,,4,10085-4,http://www.cmfchile.cl
+64,conceptual_asset,VTI,VTI,etf,USD,4,,
+2382,conceptual_asset,FONDO MUTUO ITAU SELECTO GLOBAL,FFMM-ITAU-8589,mutual_fund,,4,8589-8,http://www.cmfchile.cl
+1769,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL ACCIONES ESTRATEGICAS,FFMM-CREDICORP-8982,mutual_fund,CLP,4,8982-6,http://www.cmfchile.cl
+1794,conceptual_asset,FONDO MUTUO ZURICH ACCIONES LATAM,FFMM-ZURICH-8247,mutual_fund,CLP,4,8247-3,http://www.cmfchile.cl
+2971,conceptual_asset,ESPO,ESPO,etf,USD,4,,
+1507,conceptual_asset,FONDO DE INVERSIÓN CREDICORP CAPITAL E PLUS,FINV-9108,investment_fund,,4,9108-1,http://www.cmfchile.cl
+62,conceptual_asset,IVV,IVV,etf,USD,4,,
+1514,conceptual_asset,FONDO DE INVERSIÓN ZURICH DEUDA ARGENTINA,FINV-9554,investment_fund,,4,9554-0,http://www.cmfchile.cl
+1771,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL DEUDA 360,FFMM-CREDICORP-9056,mutual_fund,CLP,4,9056-5,http://www.cmfchile.cl
+2383,conceptual_asset,FONDO MUTUO ITAU USA,FFMM-ITAU-8233,mutual_fund,,4,8233-3,http://www.cmfchile.cl
+2384,conceptual_asset,FONDO MUTUO ITAÚ CAPITAL,FFMM-ITAU-8623,mutual_fund,,4,8623-1,http://www.cmfchile.cl
+2385,conceptual_asset,FONDO MUTUO ITAÚ DOLLAR,FFMM-ITAU-8236,mutual_fund,,4,8236-8,http://www.cmfchile.cl
+2386,conceptual_asset,FONDO MUTUO ITAÚ GESTIONADO ACCIONES,FFMM-ITAU-8960,mutual_fund,,4,8960-5,http://www.cmfchile.cl
+2387,conceptual_asset,FONDO MUTUO ITAÚ GESTIONADO AGRESIVO,FFMM-ITAU-8925,mutual_fund,,4,8925-7,http://www.cmfchile.cl
+2388,conceptual_asset,FONDO MUTUO ITAÚ GESTIONADO CONSERVADOR,FFMM-ITAU-8927,mutual_fund,,4,8927-3,http://www.cmfchile.cl
+2389,conceptual_asset,FONDO MUTUO ITAÚ GESTIONADO CONSERVADOR DOLAR,FFMM-ITAU-8521,mutual_fund,,4,8521-9,http://www.cmfchile.cl
+2989,conceptual_asset,FONDO MUTUO BTG PACTUAL AUDAZ OJOS DEL SALADO,FFMM-BTG-10030,mutual_fund,,4,10030-7,http://www.cmfchile.cl
+1800,conceptual_asset,FONDO MUTUO ZURICH ESG LATAM,FFMM-ZURICH-9625,mutual_fund,,4,9625-3,http://www.cmfchile.cl
+2990,conceptual_asset,FONDO MUTUO BTG PACTUAL AVENTURERO CERRO EL PLOMO,FFMM-BTG-10032,mutual_fund,,4,10032-3,http://www.cmfchile.cl
+1808,conceptual_asset,FONDO MUTUO ZURICH PERFIL AGRESIVO,FFMM-ZURICH-9576,mutual_fund,CLP,4,9576-1,http://www.cmfchile.cl
+1509,conceptual_asset,FONDO DE INVERSIÓN CREDICORP CAPITAL PACIFIC ALLIANCE EQUITY,FINV-9155,investment_fund,,4,9155-3,http://www.cmfchile.cl
+1505,conceptual_asset,FONDO DE INVERSIÓN CREDICORP CAPITAL ALLIANZ GLOBAL EQUITIES,FINV-9582,investment_fund,,4,9582-6,http://www.cmfchile.cl
+2023,conceptual_asset,FONDO MUTUO SECURITY LATAM,FFMM-ADMINISTRADORA-8795,mutual_fund,,4,8795-5,http://www.cmfchile.cl
+63,conceptual_asset,VOO,VOO,etf,USD,4,,
+65,conceptual_asset,DSI,DSI,etf,USD,4,,
+50,conceptual_asset,IWM,IWM,etf,USD,4,,
+51,conceptual_asset,HYG,HYG,etf,USD,4,,
+52,conceptual_asset,VWO,VWO,etf,USD,4,,
+55,conceptual_asset,LQD,LQD,etf,USD,4,,
+2994,conceptual_asset,FONDO MUTUO ITAU MI CARTERA EXPLORADORA,FFMM-ITAU-10021,mutual_fund,,4,10021-8,http://www.cmfchile.cl
+2991,conceptual_asset,FONDO MUTUO BTG PACTUAL PRECAVIDO CERRO MANQUEHUE,FFMM-BTG-10031,mutual_fund,,4,10031-5,http://www.cmfchile.cl
+53,conceptual_asset,EWJ,EWJ,etf,USD,4,,
+1776,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL MACRO CLP 1.5,FFMM-CREDICORP-9310,mutual_fund,CLP,4,9310-6,http://www.cmfchile.cl
+1773,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL GLOBALES I,FFMM-CREDICORP-8427,mutual_fund,CLP,4,8427-1,http://www.cmfchile.cl
+54,conceptual_asset,JNK,JNK,etf,USD,4,,
+1512,conceptual_asset,FONDO DE INVERSIÓN ETF SINGULAR CHILE CORPORATIVO,FINV-9705,investment_fund,CLP,4,9705-5,http://www.cmfchile.cl
+1775,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL LIQUIDEZ,FFMM-CREDICORP-8401,mutual_fund,CLP,4,8401-8,http://www.cmfchile.cl
+57,conceptual_asset,VNQ,VNQ,etf,USD,4,,
+58,conceptual_asset,ACWI,ACWI,etf,USD,4,,
+1778,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL RENTA ESTRATEGICA,FFMM-CREDICORP-8421,mutual_fund,CLP,4,8421-2,http://www.cmfchile.cl
+2992,conceptual_asset,FONDO MUTUO ITAU LARRAINVIAL AHORRO DOLAR,FFMM-ITAU-10027,mutual_fund,,4,10027-7,http://www.cmfchile.cl
+1523,conceptual_asset,FONDO DE INVERSIÓN FALCOM LATINOAMERICA DEUDA LOCAL,FINV-9085,investment_fund,,4,9085-9,http://www.cmfchile.cl
+1809,conceptual_asset,FONDO MUTUO ZURICH PERFIL CONSERVADOR,FFMM-ZURICH-9575,mutual_fund,CLP,4,9575-3,http://www.cmfchile.cl
+1513,conceptual_asset,FONDO DE INVERSIÓN ETF SINGULAR GLOBAL EQUITIES,FINV-9706,investment_fund,,4,9706-3,http://www.cmfchile.cl
+1511,conceptual_asset,FONDO DE INVERSIÓN CREDICORP CAPITAL SMALL CAP,FINV-7176,investment_fund,,4,7176-5,http://www.cmfchile.cl
+56,conceptual_asset,BND,BND,etf,USD,4,,
+1522,conceptual_asset,FONDO DE INVERSIÓN FALCOM GLOBAL STRATEGY FUND,FINV-9297,investment_fund,,4,9297-5,http://www.cmfchile.cl
+1510,conceptual_asset,FONDO DE INVERSIÓN CREDICORP CAPITAL RF LATAM,FINV-7225,investment_fund,,4,7225-7,http://www.cmfchile.cl
+2993,conceptual_asset,FONDO MUTUO ITAU MI CARTERA AVENTURERA,FFMM-ITAU-10063,mutual_fund,,4,10063-3,http://www.cmfchile.cl
+1777,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL MONEY MARKET,FFMM-CREDICORP-8945,mutual_fund,USD,4,8945-1,http://www.cmfchile.cl
+1524,conceptual_asset,FONDO DE INVERSIÓN FALCOM TACTICAL CHILEAN EQUITIES,FINV-9194,investment_fund,,4,9194-4,http://www.cmfchile.cl
+1521,conceptual_asset,FONDO DE INVERSIÓN FALCOM GLOBAL EQUITY FUND,FINV-9674,investment_fund,,4,9674-1,http://www.cmfchile.cl
+1682,conceptual_asset,FONDO MUTUO BCI TOP PICKS,FFMM-BCI-8787,mutual_fund,CLP,4,8787-4,http://www.cmfchile.cl
+1816,conceptual_asset,FONDO MUTUO ZURICH RENTA A PLAZO,FFMM-ZURICH-8363,mutual_fund,CLP,4,8363-1,http://www.cmfchile.cl
+1814,conceptual_asset,FONDO MUTUO ZURICH RENDIMIENTO NOMINAL,FFMM-ZURICH-8411,mutual_fund,CLP,4,8411-5,http://www.cmfchile.cl
+1815,conceptual_asset,FONDO MUTUO ZURICH RENDIMIENTO UF,FFMM-ZURICH-8853,mutual_fund,CLP,4,8853-6,http://www.cmfchile.cl
+1817,conceptual_asset,FONDO MUTUO ZURICH RENTA CHILENA,FFMM-ZURICH-9025,mutual_fund,CLP,4,9025-5,http://www.cmfchile.cl
+2995,conceptual_asset,FONDO MUTUO ITAU MI CARTERA LANZADA,FFMM-ITAU-10064,mutual_fund,,4,10064-1,http://www.cmfchile.cl
+1779,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL RENTA INTERNACIONAL,FFMM-CREDICORP-8442,mutual_fund,CLP,4,8442-5,http://www.cmfchile.cl
+2997,conceptual_asset,FONDO MUTUO LARRAINVIAL CUENTA ACTIVA AGRESIVA DÓLAR,FFMM-LARRAINVIAL-10002,mutual_fund,,4,10002-1,http://www.cmfchile.cl
+2999,conceptual_asset,FONDO MUTUO SANTANDER EQUILIBRIO DÓLAR,FFMM-SANTANDER-10024,mutual_fund,,4,10024-2,http://www.cmfchile.cl
+2996,conceptual_asset,FONDO MUTUO ITAU MI CARTERA TRANQUI,FFMM-ITAU-10020,mutual_fund,,4,10020-k,http://www.cmfchile.cl
+3000,conceptual_asset,FONDO MUTUO SECURITY QFUND BRAZIL,FFMM-ADMINISTRADORA-10000,mutual_fund,,4,10000-5,http://www.cmfchile.cl
+2318,conceptual_asset,FONDO MUTUO EUROAMERICA GARANTIZADO NORTEAMÉRICA 100,FFMM-ZURICH-8665,mutual_fund,,4,8665-7,http://www.cmfchile.cl
+2320,conceptual_asset,FONDO MUTUO EUROAMERICA DESARROLLO SUSTENTABLE,FFMM-ZURICH-8607,mutual_fund,,4,8607-k,http://www.cmfchile.cl
+2321,conceptual_asset,FONDO MUTUO EUROAMERICA DÓLAR,FFMM-ZURICH-8417,mutual_fund,,4,8417-4,http://www.cmfchile.cl
+2322,conceptual_asset,FONDO MUTUO EUROAMERICA INVESTMENTS DEUDA,FFMM-ZURICH-8961,mutual_fund,,4,8961-3,http://www.cmfchile.cl
+1813,conceptual_asset,FONDO MUTUO ZURICH PROYECCIÓN E,FFMM-ZURICH-8696,mutual_fund,CLP,4,8696-7,http://www.cmfchile.cl
+1818,conceptual_asset,FONDO MUTUO ZURICH SMALL CAP LATAM,FFMM-ZURICH-8948,mutual_fund,CLP,4,8948-6,http://www.cmfchile.cl
+2998,conceptual_asset,FONDO MUTUO SANTANDER FUTURE WEALTH,FFMM-SANTANDER-10057,mutual_fund,,4,10057-9,http://www.cmfchile.cl
+3001,conceptual_asset,FONDO MUTUO ZURICH TENDENCIAS GLOBALES,FFMM-ZURICH-10036,mutual_fund,,4,10036-6,http://www.cmfchile.cl
+1547,conceptual_asset,FONDO DE INVERSIÓN SARTOR TACTICO,FINV-9373,investment_fund,CLP,4,9373-4,http://www.cmfchile.cl
+2017,conceptual_asset,FONDO MUTUO SECURITY FIRST,FFMM-ADMINISTRADORA-8055,mutual_fund,CLP,4,8055-1,http://www.cmfchile.cl
+2029,conceptual_asset,FONDO MUTUO SECURITY PROTECCION ESTRATEGICO,FFMM-ADMINISTRADORA-8306,mutual_fund,CLP,4,8306-2,http://www.cmfchile.cl
+1926,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES GLOBAL EMERGENTE,FFMM-SANTANDER-8058,mutual_fund,CLP,4,8058-6,http://www.cmfchile.cl
+3007,conceptual_asset,FONDO MUTUO BANCHILE AGRESIVO,FFMM-BANCHILE-10058,mutual_fund,,4,10058-7,http://www.cmfchile.cl
+1930,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES SELECTAS CHILE,FFMM-SANTANDER-8372,mutual_fund,CLP,4,8372-0,http://www.cmfchile.cl
+1921,conceptual_asset,FONDO MUTUO SANTANDER A,FFMM-SANTANDER-8577,mutual_fund,CLP,4,8577-4,http://www.cmfchile.cl
+1943,conceptual_asset,FONDO MUTUO SANTANDER GESTIÓN ACTIVA PRUDENTE,FFMM-SANTANDER-9649,mutual_fund,CLP,4,9649-0,http://www.cmfchile.cl
+2737,conceptual_asset,FONDO MUTUO ARRIESGADO FOCUS,FFMM-SOYFOCUS-9811,mutual_fund,CLP,4,9811-6,http://www.cmfchile.cl
+3012,conceptual_asset,FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO DOLAR MODERADO,FFMM-BANCHILE-10111,mutual_fund,,4,10111-7,http://www.cmfchile.cl
+3016,conceptual_asset,KOMP,KOMP,etf,USD,4,,
+3008,conceptual_asset,FONDO MUTUO BANCHILE CONSERVADOR,FFMM-BANCHILE-10059,mutual_fund,,4,10059-5,http://www.cmfchile.cl
+1609,conceptual_asset,FONDO DE INVERSIÓN SECURITY EUROPA PROTEGIDO,FINV-9124,investment_fund,,4,9124-3,http://www.cmfchile.cl
+1608,conceptual_asset,FONDO DE INVERSIÓN SECURITY EMERGENTE PROTEGIDO,FINV-9126,investment_fund,,4,9126-k,http://www.cmfchile.cl
+2011,conceptual_asset,FONDO MUTUO SECURITY DEUDA CORPORATIVA LATINOAMERICANA I.G.,FFMM-ADMINISTRADORA-9073,mutual_fund,,4,9073-5,http://www.cmfchile.cl
+3013,conceptual_asset,QUEST GLOBAL VALUE FONDO DE INVERSION,FINV-10081,investment_fund,,4,10081-1,http://www.cmfchile.cl
+3009,conceptual_asset,FONDO MUTUO BANCHILE MODERADO,FFMM-BANCHILE-10060,mutual_fund,,4,10060-9,http://www.cmfchile.cl
+535,conceptual_asset,SPC UF 2Y,SPC-UF-2Y,rate,UF,4,,https://www.bcentral.cl
+536,conceptual_asset,SPC UF 3Y,SPC-UF-3Y,rate,UF,4,,https://www.bcentral.cl
+3005,conceptual_asset,FONDO MUTUO LARRAINVIAL DEUDA CHINA,FFMM-LARRAINVIAL-10066,mutual_fund,,4,10066-8,http://www.cmfchile.cl
+3002,conceptual_asset,FONDO MUTUO BICE SMART AUDAZ,FFMM-BICE-10049,mutual_fund,,4,10049-8,http://www.cmfchile.cl
+3003,conceptual_asset,FONDO MUTUO BICE SMART ENTUSIASTA,FFMM-BICE-10048,mutual_fund,,4,10048-k,http://www.cmfchile.cl
+3004,conceptual_asset,FONDO MUTUO BICE SMART PRUDENTE,FFMM-BICE-10050,mutual_fund,,4,10050-1,http://www.cmfchile.cl
+3006,conceptual_asset,FONDO MUTUO ETF IT NOW S&P IPSA ESG,FFMM-ITAU-10068,mutual_fund,,4,10068-4,http://www.cmfchile.cl
+537,conceptual_asset,SPC UF 4Y,SPC-UF-4Y,rate,UF,4,,https://www.bcentral.cl
+538,conceptual_asset,SPC UF 5Y,SPC-UF-5Y,rate,UF,4,,https://www.bcentral.cl
+3010,conceptual_asset,FONDO MUTUO BANCHILE RENTA LARGO PLAZO,FFMM-BANCHILE-10061,mutual_fund,,4,10061-7,http://www.cmfchile.cl
+3011,conceptual_asset,FONDO MUTUO CLEVER TOP TECH,FFMM-BICE-10109,mutual_fund,,4,10109-5,http://www.cmfchile.cl
+539,conceptual_asset,SPC UF 10Y,SPC-UF-10Y,rate,UF,4,,https://www.bcentral.cl
+3015,conceptual_asset,FONDO MUTUO BICE RENTA GLOBAL AHORRO DÓLAR,FFMM-BICE-10125,mutual_fund,,4,10125-7,http://www.cmfchile.cl
+2748,conceptual_asset,FYNSA TOTAL RETURN FONDO DE INVERSIÓN,FINV-9820,investment_fund,,4,9820-5,http://www.cmfchile.cl
+540,conceptual_asset,SPC UF 20Y,SPC-UF-20Y,rate,UF,4,,https://www.bcentral.cl
+529,conceptual_asset,SPC CLP 2Y,SPC-CLP-2Y,rate,CLP,4,,https://www.bcentral.cl
+1923,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES CHILENAS,FFMM-SANTANDER-8076,mutual_fund,CLP,4,8076-4,http://www.cmfchile.cl
+1770,conceptual_asset,FONDO DE INVERSION CREDICORP CAPITAL ARGENTINA LIQUIDEZ,FFMM-CREDICORP-9535,mutual_fund,,4,9535-4,http://www.cmfchile.cl
+3014,conceptual_asset,AMERIS DVA CONSERVADOR FONDO DE INVERSION,FINV-10074,investment_fund,,4,10074-9,http://www.cmfchile.cl
+3050,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL SHORT DURATION LATAM,FFMM-CREDICORP-10087,mutual_fund,,4,10087-0,http://www.cmfchile.cl
+1747,conceptual_asset,FONDO MUTUO BANCHILE CAPITAL FINANCIERO,FFMM-BANCHILE-8026,mutual_fund,CLP,4,8026-8,http://www.cmfchile.cl
+1767,conceptual_asset,FONDO MUTUO BANCHILE CORPORATE DOLLAR,FFMM-BANCHILE-8248,mutual_fund,USD,4,8248-1,http://www.cmfchile.cl
+1829,conceptual_asset,FONDO MUTUO BANCHILE INVERSIONES ALTERNATIVAS,FFMM-BANCHILE-9294,mutual_fund,CLP,4,9294-0,http://www.cmfchile.cl
+1722,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES EMERGENTES III,FFMM-BANCHILE-9673,mutual_fund,CLP,4,9673-3,http://www.cmfchile.cl
+2792,conceptual_asset,FONDO MUTUO BEST COUPON USA,FFMM-BANCHILE-9884,mutual_fund,,4,9884-1,http://www.cmfchile.cl
+1723,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES EUROPA III,FFMM-BANCHILE-9672,mutual_fund,CLP,4,9672-5,http://www.cmfchile.cl
+2835,conceptual_asset,FONDO DE INVERSIÓN BANCHILE MARKETPLUS GLOBAL,FINV-9332,investment_fund,,4,9332-7,http://www.cmfchile.cl
+2084,conceptual_asset,FONDO MUTUO AHORRO ESTABLE I GARANTIZADO,FFMM-BANCHILE-8868,mutual_fund,,4,8868-4,http://www.cmfchile.cl
+2828,conceptual_asset,FONDO MUTUO BANCHILE GLOBAL HIGH YIELD,FFMM-BANCHILE-9859,mutual_fund,,4,9859-0,http://www.cmfchile.cl
+2085,conceptual_asset,FONDO MUTUO AHORRO ESTABLE II GARANTIZADO,FFMM-BANCHILE-8905,mutual_fund,,4,8905-2,http://www.cmfchile.cl
+2086,conceptual_asset,FONDO MUTUO AHORRO ESTABLE III GARANTIZADO,FFMM-BANCHILE-8919,mutual_fund,,4,8919-2,http://www.cmfchile.cl
+2087,conceptual_asset,FONDO MUTUO AHORRO PLUS I GARANTIZADO,FFMM-BANCHILE-8871,mutual_fund,,4,8871-4,http://www.cmfchile.cl
+2090,conceptual_asset,FONDO MUTUO AMERICA LATINA ACCIONARIO,FFMM-BANCHILE-8086,mutual_fund,,4,8086-1,http://www.cmfchile.cl
+2091,conceptual_asset,FONDO MUTUO BAMBÚ GARANTIZADO,FFMM-BANCHILE-8418,mutual_fund,,4,8418-2,http://www.cmfchile.cl
+2092,conceptual_asset,FONDO MUTUO BANCA AMERICANA VOLTARGET GARANTIZADO,FFMM-BANCHILE-8782,mutual_fund,,4,8782-3,http://www.cmfchile.cl
+2093,conceptual_asset,FONDO MUTUO BANCHILE ESTRATEGICO,FFMM-BANCHILE-8120,mutual_fund,,4,8120-5,http://www.cmfchile.cl
+2094,conceptual_asset,FONDO MUTUO BANCHILE GARANTIZADO 112,FFMM-BANCHILE-8353,mutual_fund,,4,8353-4,http://www.cmfchile.cl
+2095,conceptual_asset,FONDO MUTUO BANCHILE GARANTIZADO PLUS,FFMM-BANCHILE-8283,mutual_fund,,4,8283-k,http://www.cmfchile.cl
+2096,conceptual_asset,FONDO MUTUO BANCHILE UTILIDADES GLOBALES,FFMM-BANCHILE-8122,mutual_fund,,4,8122-1,http://www.cmfchile.cl
+2834,conceptual_asset,FONDO DE INVERSIÓN BANCHILE MARKETPLUS DEUDA GLOBAL,FINV-9318,investment_fund,,4,9318-1,http://www.cmfchile.cl
+3017,conceptual_asset,TIP,TIP,etf,USD,4,,
+2832,conceptual_asset,FONDO DE INVERSIÓN BANCHILE EMERGING DEBT,FINV-9778,investment_fund,,4,9778-0,http://www.cmfchile.cl
+2830,conceptual_asset,FONDO DE INVERSIÓN BANCHILE DEUDA CHILENA,FINV-9252,investment_fund,,4,9252-5,http://www.cmfchile.cl
+2838,conceptual_asset,FONDO DE INVERSIÓN BANCHILE MARKETPLUS ESTADOS UNIDOS,FINV-9333,investment_fund,,4,9333-5,http://www.cmfchile.cl
+2829,conceptual_asset,FONDO DE INVERSION BANCHILE CHILE BLEND.,FINV-7213,investment_fund,,4,7213-3,http://www.cmfchile.cl
+2836,conceptual_asset,FONDO DE INVERSION BANCHILE MARKETPLUS EUROPA,FINV-9606,investment_fund,,4,9606-7,http://www.cmfchile.cl
+2831,conceptual_asset,FONDO DE INVERSIÓN BANCHILE DEUDA ALTO RENDIMIENTO,FINV-9534,investment_fund,,4,9534-6,http://www.cmfchile.cl
+2840,conceptual_asset,FONDO DE INVERSIÓN BANCHILE EMERGING EQUITY,FINV-9471,investment_fund,,4,9471-4,http://www.cmfchile.cl
+2833,conceptual_asset,FONDO DE INVERSIÓN BANCHILE LATAM CORPORATE HIGH YIELD,FINV-9089,investment_fund,,4,9089-1,http://www.cmfchile.cl
+2837,conceptual_asset,FONDO DE INVERSIÓN BANCHILE MARKETPLUS EMERGENTE,FINV-9661,investment_fund,,4,9661-k,http://www.cmfchile.cl
+2839,conceptual_asset,FONDO DE INVERSIÓN BANCHILE ESTRATEGIAS ALTERNATIVAS,FINV-9470,investment_fund,,4,9470-6,http://www.cmfchile.cl
+2445,conceptual_asset,FONDO MUTUO MI AHORRO,FFMM-LARRAINVIAL-8718,mutual_fund,,4,8718-1,http://www.cmfchile.cl
+1674,conceptual_asset,FONDO MUTUO BCI PB US HIGH YIELD,FFMM-BCI-9456,mutual_fund,USD,4,9456-0,http://www.cmfchile.cl
+2211,conceptual_asset,FONDO MUTUO BICE TENDENCIAS DEUDA,FFMM-BICE-9086,mutual_fund,CLP,4,9086-7,http://www.cmfchile.cl
+1956,conceptual_asset,FONDO MUTUO SANTANDER SELECT DINAMICO,FFMM-SANTANDER-8996,mutual_fund,CLP,4,8996-6,http://www.cmfchile.cl
+1957,conceptual_asset,FONDO MUTUO SANTANDER SELECT EQUILIBRIO,FFMM-SANTANDER-8995,mutual_fund,CLP,4,8995-8,http://www.cmfchile.cl
+2277,conceptual_asset,FONDO MUTUO CORP INVESTMENT A,FFMM-ITAU-9011,mutual_fund,,4,9011-5,http://www.cmfchile.cl
+2257,conceptual_asset,FONDO MUTUO CHILE GARANTIZADO,FFMM-BANCHILE-8382,mutual_fund,,4,8382-8,http://www.cmfchile.cl
+2527,conceptual_asset,FONDO MUTUO SANTANDER PORTFOLIO MODERADO,FFMM-SANTANDER-8214,mutual_fund,,4,8214-7,http://www.cmfchile.cl
+2529,conceptual_asset,FONDO MUTUO SANTANDER RENTAMAS,FFMM-SANTANDER-8056,mutual_fund,,4,8056-k,http://www.cmfchile.cl
+1501,conceptual_asset,FONDO DE INVERSION SECURITY RENTA FIJA NACIONAL,FINV-9117,investment_fund,,4,9117-0,http://www.cmfchile.cl
+2012,conceptual_asset,FONDO MUTUO SECURITY DEUDA INTERNACIONAL,FFMM-ADMINISTRADORA-9655,mutual_fund,,4,9655-5,http://www.cmfchile.cl
+2014,conceptual_asset,FONDO MUTUO SECURITY EMERGING MARKET,FFMM-ADMINISTRADORA-8323,mutual_fund,,4,8323-2,http://www.cmfchile.cl
+2135,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO SELECCION CONSUMO,FFMM-SCOTIA-8810,mutual_fund,,4,8810-2,http://www.cmfchile.cl
+2144,conceptual_asset,FONDO MUTUO BBVA JAPÓN,FFMM-SCOTIA-8483,mutual_fund,,4,8483-2,http://www.cmfchile.cl
+2307,conceptual_asset,FONDO MUTUO DEUDA LOCAL,FFMM-ADMINISTRADORA-8904,mutual_fund,,4,8904-4,http://www.cmfchile.cl
+2577,conceptual_asset,FONDO MUTUO SECURITY EMERGENTE,FFMM-ADMINISTRADORA-8453,mutual_fund,,4,8453-0,http://www.cmfchile.cl
+2578,conceptual_asset,FONDO MUTUO SECURITY ENERGY FUND,FFMM-ADMINISTRADORA-8461,mutual_fund,,4,8461-1,http://www.cmfchile.cl
+2579,conceptual_asset,FONDO MUTUO SECURITY ESTADOS UNIDOS,FFMM-ADMINISTRADORA-8500,mutual_fund,,4,8500-6,http://www.cmfchile.cl
+2580,conceptual_asset,FONDO MUTUO SECURITY EURO BOND,FFMM-ADMINISTRADORA-8337,mutual_fund,,4,8337-2,http://www.cmfchile.cl
+2581,conceptual_asset,FONDO MUTUO SECURITY EVOLUCIÓN CHILE,FFMM-ADMINISTRADORA-8958,mutual_fund,,4,8958-3,http://www.cmfchile.cl
+2583,conceptual_asset,FONDO MUTUO SECURITY EXPLORER,FFMM-ADMINISTRADORA-8165,mutual_fund,,4,8165-5,http://www.cmfchile.cl
+2582,conceptual_asset,FONDO MUTUO SECURITY EXPLORER,FFMM-ADMINISTRADORA-8361,mutual_fund,,4,8361-5,http://www.cmfchile.cl
+2018,conceptual_asset,FONDO MUTUO SECURITY FIXED INCOME BRL,FFMM-ADMINISTRADORA-8661,mutual_fund,,4,8661-4,http://www.cmfchile.cl
+2584,conceptual_asset,FONDO MUTUO SECURITY FUNDACION,FFMM-ADMINISTRADORA-8262,mutual_fund,,4,8262-7,http://www.cmfchile.cl
+2585,conceptual_asset,FONDO MUTUO SECURITY GLOBAL INVESTMENT,FFMM-ADMINISTRADORA-8095,mutual_fund,,4,8095-0,http://www.cmfchile.cl
+2586,conceptual_asset,FONDO MUTUO SECURITY INDEX FUND CHILE MID & SMALL CAP,FFMM-ADMINISTRADORA-8814,mutual_fund,,4,8814-5,http://www.cmfchile.cl
+2587,conceptual_asset,FONDO MUTUO SECURITY LATINOAMERICANO,FFMM-ADMINISTRADORA-8567,mutual_fund,,4,8567-7,http://www.cmfchile.cl
+2588,conceptual_asset,FONDO MUTUO SECURITY LATINOAMÉRICA,FFMM-ADMINISTRADORA-8486,mutual_fund,,4,8486-7,http://www.cmfchile.cl
+2594,conceptual_asset,FONDO MUTUO SECURITY NOMINAL,FFMM-ADMINISTRADORA-8491,mutual_fund,,4,8491-3,http://www.cmfchile.cl
+2595,conceptual_asset,FONDO MUTUO SECURITY OPPORTUNITY 105 GARANTIZADO II,FFMM-ADMINISTRADORA-8444,mutual_fund,,4,8444-1,http://www.cmfchile.cl
+2596,conceptual_asset,FONDO MUTUO SECURITY PREMIUM,FFMM-ADMINISTRADORA-8359,mutual_fund,,4,8359-3,http://www.cmfchile.cl
+2178,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO 103,FFMM-BCI-9329,mutual_fund,,4,9329-7,http://www.cmfchile.cl
+2180,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO 108 IV,FFMM-BCI-9399,mutual_fund,,4,9399-8,http://www.cmfchile.cl
+2181,conceptual_asset,FONDO MUTUO BCI EUROPA GARANTIZADO,FFMM-BCI-8942,mutual_fund,,4,8942-7,http://www.cmfchile.cl
+2166,conceptual_asset,FONDO MUTUO BCI BRIC 40,FFMM-BCI-8581,mutual_fund,,4,8581-2,http://www.cmfchile.cl
+2167,conceptual_asset,FONDO MUTUO BCI CAPITAL TRUST 100,FFMM-BCI-8334,mutual_fund,,4,8334-8,http://www.cmfchile.cl
+2171,conceptual_asset,FONDO MUTUO BCI CAPITAL TRUST MARCOPOLO,FFMM-BCI-8478,mutual_fund,,4,8478-6,http://www.cmfchile.cl
+2214,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES EMERGENTE,FFMM-BANCHILE-9447,mutual_fund,CLP,4,9447-1,http://www.cmfchile.cl
+1721,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES EMERGENTES II,FFMM-BANCHILE-9519,mutual_fund,CLP,4,9519-2,http://www.cmfchile.cl
+2217,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES EUROPA II,FFMM-BANCHILE-9487,mutual_fund,CLP,4,9487-0,http://www.cmfchile.cl
+2597,conceptual_asset,FONDO MUTUO SECURITY PREMIUM,FFMM-ADMINISTRADORA-8065,mutual_fund,,4,8065-9,http://www.cmfchile.cl
+2598,conceptual_asset,FONDO MUTUO SECURITY PREVISION,FFMM-ADMINISTRADORA-8258,mutual_fund,,4,8258-9,http://www.cmfchile.cl
+2599,conceptual_asset,FONDO MUTUO SECURITY PROTECCION UF,FFMM-ADMINISTRADORA-8790,mutual_fund,,4,8790-4,http://www.cmfchile.cl
+2600,conceptual_asset,FONDO MUTUO SECURITY RENTA DÓLAR,FFMM-ADMINISTRADORA-8493,mutual_fund,,4,8493-k,http://www.cmfchile.cl
+2601,conceptual_asset,FONDO MUTUO SECURITY RENTA INTERNACIONAL,FFMM-ADMINISTRADORA-8409,mutual_fund,,4,8409-3,http://www.cmfchile.cl
+2602,conceptual_asset,FONDO MUTUO SECURITY RENTA LOCAL MEDIANO PLAZO,FFMM-ADMINISTRADORA-8313,mutual_fund,,4,8313-5,http://www.cmfchile.cl
+2603,conceptual_asset,FONDO MUTUO SECURITY U.S.A.,FFMM-ADMINISTRADORA-8360,mutual_fund,,4,8360-7,http://www.cmfchile.cl
+2604,conceptual_asset,FONDO MUTUO SECURITY USA,FFMM-ADMINISTRADORA-8425,mutual_fund,,4,8425-5,http://www.cmfchile.cl
+2605,conceptual_asset,FONDO MUTUO SECURITY VISIÓN GLOBAL,FFMM-ADMINISTRADORA-8351,mutual_fund,,4,8351-8,http://www.cmfchile.cl
+2097,conceptual_asset,FONDO MUTUO BANCOESTADO AHORRO BALANCEADO,FFMM-BANCOESTADO-9147,mutual_fund,,4,9147-2,http://www.cmfchile.cl
+2098,conceptual_asset,FONDO MUTUO BANCOESTADO AHORRO GARANTIZADO 1,FFMM-BANCOESTADO-8512,mutual_fund,,4,8512-k,http://www.cmfchile.cl
+2099,conceptual_asset,FONDO MUTUO BANCOESTADO AHORRO MEDIANO Y LARGO PLAZO,FFMM-BANCOESTADO-9148,mutual_fund,,4,9148-0,http://www.cmfchile.cl
+2100,conceptual_asset,FONDO MUTUO BANCOESTADO BNP PARIBAS ACCIONES EMERGENTES,FFMM-BANCOESTADO-8745,mutual_fund,,4,8745-9,http://www.cmfchile.cl
+2102,conceptual_asset,FONDO MUTUO BANCOESTADO EMPRESAS EUROPEAS,FFMM-BANCOESTADO-9210,mutual_fund,,4,9210-k,http://www.cmfchile.cl
+2103,conceptual_asset,FONDO MUTUO BANCOESTADO GARANTIZADO DOBLE OPORTUNIDAD,FFMM-BANCOESTADO-8746,mutual_fund,,4,8746-7,http://www.cmfchile.cl
+2104,conceptual_asset,FONDO MUTUO BANCOESTADO GARANTIZADO NUEVO MUNDO,FFMM-BANCOESTADO-8611,mutual_fund,,4,8611-8,http://www.cmfchile.cl
+2105,conceptual_asset,FONDO MUTUO BANCOESTADO GARANTIZADO TESORO AMERICANO,FFMM-BANCOESTADO-8646,mutual_fund,,4,8646-0,http://www.cmfchile.cl
+2106,conceptual_asset,FONDO MUTUO BANCOESTADO PERLAS EMERGENTES GARANTIZADO,FFMM-BANCOESTADO-8614,mutual_fund,,4,8614-2,http://www.cmfchile.cl
+1622,conceptual_asset,FONDO MUTUO BANCOESTADO BNP PARIBAS ACCIONES DESARROLLADAS,FFMM-BANCOESTADO-8744,mutual_fund,CLP,4,8744-0,http://www.cmfchile.cl
+2287,conceptual_asset,FONDO MUTUO CORPORATIVO BANCOESTADO,FFMM-BANCOESTADO-8318,mutual_fund,,4,8318-6,http://www.cmfchile.cl
+2366,conceptual_asset,FONDO MUTUO ITAU DEUDA CHILENA,FFMM-ITAU-8954,mutual_fund,,4,8954-0,http://www.cmfchile.cl
+2367,conceptual_asset,FONDO MUTUO ITAU DEUDA CORTO PLAZO,FFMM-ITAU-8285,mutual_fund,,4,8285-6,http://www.cmfchile.cl
+2368,conceptual_asset,FONDO MUTUO ITAU DEUDA LATAM,FFMM-ITAU-9029,mutual_fund,,4,9029-8,http://www.cmfchile.cl
+2107,conceptual_asset,FONDO MUTUO BANDA DÓLAR GARANTIZADO,FFMM-BANCHILE-8693,mutual_fund,,4,8693-2,http://www.cmfchile.cl
+2108,conceptual_asset,FONDO MUTUO BANDA ESTADOS UNIDOS GARANTIZADO,FFMM-BANCHILE-8719,mutual_fund,,4,8719-k,http://www.cmfchile.cl
+2109,conceptual_asset,FONDO MUTUO BANDA EUROPA GARANTIZADO,FFMM-BANCHILE-8720,mutual_fund,,4,8720-3,http://www.cmfchile.cl
+2213,conceptual_asset,FONDO MUTUO BONSAI 106 GARANTIZADO,FFMM-BANCHILE-8335,mutual_fund,,4,8335-6,http://www.cmfchile.cl
+1720,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES BRASIL II,FFMM-BANCHILE-9714,mutual_fund,,4,9714-4,http://www.cmfchile.cl
+2216,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES EUROPA,FFMM-BANCHILE-9286,mutual_fund,,4,9286-k,http://www.cmfchile.cl
+2101,conceptual_asset,FONDO MUTUO BANCOESTADO BNP PARIBAS RENTA DESARROLLADA,FFMM-BANCOESTADO-8754,mutual_fund,CLP,4,8754-8,http://www.cmfchile.cl
+1724,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES JAPÓN II,FFMM-BANCHILE-9547,mutual_fund,CLP,4,9547-8,http://www.cmfchile.cl
+1781,conceptual_asset,FONDO MUTUO BANCHILE DEPÓSITO XXI,FFMM-BANCHILE-8152,mutual_fund,CLP,4,8152-3,http://www.cmfchile.cl
+1782,conceptual_asset,FONDO MUTUO BANCHILE DEUDA DÓLAR,FFMM-BANCHILE-8957,mutual_fund,USD,4,8957-5,http://www.cmfchile.cl
+1783,conceptual_asset,FONDO MUTUO BANCHILE DEUDA SOBERANA,FFMM-BANCHILE-8934,mutual_fund,CLP,4,8934-6,http://www.cmfchile.cl
+1784,conceptual_asset,FONDO MUTUO BANCHILE DISPONIBLE,FFMM-BANCHILE-8052,mutual_fund,CLP,4,8052-7,http://www.cmfchile.cl
+2218,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES JAPÓN,FFMM-BANCHILE-9321,mutual_fund,,4,9321-1,http://www.cmfchile.cl
+2219,conceptual_asset,FONDO MUTUO BOOSTER ASIA EMERGENTE,FFMM-BANCHILE-9047,mutual_fund,,4,9047-6,http://www.cmfchile.cl
+2220,conceptual_asset,FONDO MUTUO BOOSTER AUSTRALIA,FFMM-BANCHILE-8869,mutual_fund,,4,8869-2,http://www.cmfchile.cl
+2222,conceptual_asset,FONDO MUTUO BOOSTER CHILE,FFMM-BANCHILE-8909,mutual_fund,,4,8909-5,http://www.cmfchile.cl
+2223,conceptual_asset,FONDO MUTUO BOOSTER CHINA,FFMM-BANCHILE-8752,mutual_fund,,4,8752-1,http://www.cmfchile.cl
+2224,conceptual_asset,FONDO MUTUO BOOSTER CHINA STOCKS,FFMM-BANCHILE-8985,mutual_fund,,4,8985-0,http://www.cmfchile.cl
+2225,conceptual_asset,FONDO MUTUO BOOSTER CHINA STOCKS II,FFMM-BANCHILE-9083,mutual_fund,,4,9083-2,http://www.cmfchile.cl
+2226,conceptual_asset,FONDO MUTUO BOOSTER EUROPA,FFMM-BANCHILE-8972,mutual_fund,,4,8972-9,http://www.cmfchile.cl
+2227,conceptual_asset,FONDO MUTUO BOOSTER EUROPA II,FFMM-BANCHILE-9070,mutual_fund,,4,9070-0,http://www.cmfchile.cl
+2228,conceptual_asset,FONDO MUTUO BOOSTER JAPON,FFMM-BANCHILE-9059,mutual_fund,,4,9059-k,http://www.cmfchile.cl
+1614,conceptual_asset,FONDO MUTUO AHORRO,FFMM-BANCHILE-8035,mutual_fund,,4,8035-7,http://www.cmfchile.cl
+2229,conceptual_asset,FONDO MUTUO BOOSTER REAL ESTATE EUROPE,FFMM-BANCHILE-9234,mutual_fund,,4,9234-7,http://www.cmfchile.cl
+2230,conceptual_asset,FONDO MUTUO BOOSTER REAL ESTATE USA,FFMM-BANCHILE-8973,mutual_fund,,4,8973-7,http://www.cmfchile.cl
+2231,conceptual_asset,FONDO MUTUO BOOSTER SMALL CAP USA,FFMM-BANCHILE-8866,mutual_fund,,4,8866-8,http://www.cmfchile.cl
+2232,conceptual_asset,FONDO MUTUO BOOSTER USA PESOS,FFMM-BANCHILE-9218,mutual_fund,,4,9218-5,http://www.cmfchile.cl
+2234,conceptual_asset,FONDO MUTUO BRIC ACCIONARIO,FFMM-BANCHILE-8830,mutual_fund,,4,8830-7,http://www.cmfchile.cl
+2235,conceptual_asset,FONDO MUTUO BRICS GARANTIZADO,FFMM-BANCHILE-8415,mutual_fund,,4,8415-8,http://www.cmfchile.cl
+2243,conceptual_asset,FONDO MUTUO CASH,FFMM-BANCHILE-8121,mutual_fund,,4,8121-3,http://www.cmfchile.cl
+2787,conceptual_asset,FONDO DE INVERSIÓN BANCHILE ORO,FINV-9837,investment_fund,,4,9837-k,http://www.cmfchile.cl
+2751,conceptual_asset,FONDO MUTUO BEST COUPON EUROPE,FFMM-BANCHILE-9864,mutual_fund,,4,9864-7,http://www.cmfchile.cl
+2255,conceptual_asset,FONDO MUTUO CHILE ACCIONARIO,FFMM-BANCHILE-8027,mutual_fund,,4,8027-6,http://www.cmfchile.cl
+1787,conceptual_asset,FONDO MUTUO BANCHILE ESTRATEGIA AGRESIVA,FFMM-BANCHILE-9042,mutual_fund,CLP,4,9042-5,http://www.cmfchile.cl
+1788,conceptual_asset,FONDO MUTUO BANCHILE ESTRATEGIA CONSERVADORA,FFMM-BANCHILE-9041,mutual_fund,CLP,4,9041-7,http://www.cmfchile.cl
+1496,conceptual_asset,FONDO DE INVERSION BANCHILE LATAM EQUITY,FINV-7195,investment_fund,,4,7195-1,http://www.cmfchile.cl
+2256,conceptual_asset,FONDO MUTUO CHILE BURSATIL GARANTIZADO,FFMM-BANCHILE-8964,mutual_fund,,4,8964-8,http://www.cmfchile.cl
+1768,conceptual_asset,FONDO MUTUO BANCHILE RENTA CORTO PLAZO,FFMM-BANCHILE-8274,mutual_fund,CLP,4,8274-0,http://www.cmfchile.cl
+2456,conceptual_asset,FONDO MUTUO OPPORTUNITY 100 GARANTIZADO,FFMM-ADMINISTRADORA-8362,mutual_fund,,4,8362-3,http://www.cmfchile.cl
+1745,conceptual_asset,FONDO MUTUO BANCHILE CAPITAL EFECTIVO,FFMM-BANCHILE-8931,mutual_fund,CLP,4,8931-1,http://www.cmfchile.cl
+1618,conceptual_asset,FONDO MUTUO BANCHILE ESTRATEGICO,FFMM-BANCHILE-8125,mutual_fund,CLP,4,8125-6,http://www.cmfchile.cl
+1831,conceptual_asset,FONDO MUTUO BANCHILE INVERSIÓN BRASIL,FFMM-BANCHILE-8533,mutual_fund,CLP,4,8533-2,http://www.cmfchile.cl
+1832,conceptual_asset,FONDO MUTUO BANCHILE INVERSIÓN CHINA,FFMM-BANCHILE-8534,mutual_fund,CLP,4,8534-0,http://www.cmfchile.cl
+1833,conceptual_asset,FONDO MUTUO BANCHILE INVERSIÓN USA,FFMM-BANCHILE-8078,mutual_fund,CLP,4,8078-0,http://www.cmfchile.cl
+1879,conceptual_asset,FONDO MUTUO BANCHILE LATAM ACCIONARIO,FFMM-BANCHILE-8811,mutual_fund,CLP,4,8811-0,http://www.cmfchile.cl
+1883,conceptual_asset,FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO AGRESIVO,FFMM-BANCHILE-8555,mutual_fund,CLP,4,8555-3,http://www.cmfchile.cl
+1884,conceptual_asset,FONDO MUTUO BANCHILE PORTAFOLIO ACTIVO CONSERVADOR,FFMM-BANCHILE-8377,mutual_fund,CLP,4,8377-1,http://www.cmfchile.cl
+2741,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES BRASIL III,FFMM-BANCHILE-9839,mutual_fund,,4,9839-6,http://www.cmfchile.cl
+1855,conceptual_asset,FONDO MUTUO BANCHILE JAPÓN ACCIONARIO,FFMM-BANCHILE-9255,mutual_fund,,4,9255-k,http://www.cmfchile.cl
+1880,conceptual_asset,FONDO MUTUO BANCHILE LATAM CORPORATE INVESTMENT GRADE,FFMM-BANCHILE-8249,mutual_fund,,4,8249-k,http://www.cmfchile.cl
+1881,conceptual_asset,FONDO MUTUO BANCHILE LIQUIDEZ,FFMM-BANCHILE-8115,mutual_fund,CLP,4,8115-9,http://www.cmfchile.cl
+2263,conceptual_asset,FONDO MUTUO CONSUMO ESTABLE,FFMM-BANCHILE-8554,mutual_fund,,4,8554-5,http://www.cmfchile.cl
+2286,conceptual_asset,FONDO MUTUO CORPORATIVO,FFMM-BANCHILE-8094,mutual_fund,,4,8094-2,http://www.cmfchile.cl
+2289,conceptual_asset,FONDO MUTUO DE CRECIMIENTO,FFMM-BANCHILE-8014,mutual_fund,,4,8014-4,http://www.cmfchile.cl
+2290,conceptual_asset,FONDO MUTUO DE LIQUIDEZ,FFMM-BANCHILE-8017,mutual_fund,,4,8017-9,http://www.cmfchile.cl
+2291,conceptual_asset,FONDO MUTUO DECISIÓN ESTRATÉGICA,FFMM-BANCHILE-8356,mutual_fund,,4,8356-9,http://www.cmfchile.cl
+2293,conceptual_asset,FONDO MUTUO DEPOSITO PLUS II GARANTIZADO,FFMM-BANCHILE-9050,mutual_fund,,4,9050-6,http://www.cmfchile.cl
+2292,conceptual_asset,FONDO MUTUO DEPOSITO PLUS II GARANTIZADO,FFMM-BANCHILE-8965,mutual_fund,,4,8965-6,http://www.cmfchile.cl
+2294,conceptual_asset,FONDO MUTUO DEPOSITO PLUS III GARANTIZADO,FFMM-BANCHILE-9051,mutual_fund,,4,9051-4,http://www.cmfchile.cl
+2295,conceptual_asset,FONDO MUTUO DEPOSITO PLUS III GARANTIZADO,FFMM-BANCHILE-8969,mutual_fund,,4,8969-9,http://www.cmfchile.cl
+2297,conceptual_asset,FONDO MUTUO DEPOSITO PLUS IV GARANTIZADO,FFMM-BANCHILE-8984,mutual_fund,,4,8984-2,http://www.cmfchile.cl
+2296,conceptual_asset,FONDO MUTUO DEPOSITO PLUS IV GARANTIZADO,FFMM-BANCHILE-9052,mutual_fund,,4,9052-2,http://www.cmfchile.cl
+2298,conceptual_asset,FONDO MUTUO DEPOSITO PLUS V GARANTIZADO,FFMM-BANCHILE-9046,mutual_fund,,4,9046-8,http://www.cmfchile.cl
+2273,conceptual_asset,FONDO MUTUO CORP EMEA,FFMM-CORPBANCA-8794,mutual_fund,,4,8794-7,http://www.cmfchile.cl
+2274,conceptual_asset,FONDO MUTUO CORP FINANCIAL BANKING,FFMM-CORPBANCA-8268,mutual_fund,,4,8268-6,http://www.cmfchile.cl
+2275,conceptual_asset,FONDO MUTUO CORP GARANTIZADO LA NUEVA POTENCIA,FFMM-CORPBANCA-8630,mutual_fund,,4,8630-4,http://www.cmfchile.cl
+2299,conceptual_asset,FONDO MUTUO DEPOSITO PLUS V GARANTIZADO,FFMM-BANCHILE-9053,mutual_fund,,4,9053-0,http://www.cmfchile.cl
+2319,conceptual_asset,FONDO MUTUO EUROAMERICA SELECCIÓN CHILENA,FFMM-ZURICH-9044,mutual_fund,,4,9044-1,http://www.cmfchile.cl
+2566,conceptual_asset,FONDO MUTUO SECURITY ASIATICO,FFMM-ADMINISTRADORA-8613,mutual_fund,,4,8613-4,http://www.cmfchile.cl
+2567,conceptual_asset,FONDO MUTUO SECURITY BONOS LATINOAMERICANOS,FFMM-ADMINISTRADORA-8260,mutual_fund,,4,8260-0,http://www.cmfchile.cl
+2568,conceptual_asset,FONDO MUTUO SECURITY BRASIL,FFMM-ADMINISTRADORA-8612,mutual_fund,,4,8612-6,http://www.cmfchile.cl
+2569,conceptual_asset,FONDO MUTUO SECURITY CHILE 105 GARANTIZADO,FFMM-ADMINISTRADORA-8632,mutual_fund,,4,8632-0,http://www.cmfchile.cl
+2570,conceptual_asset,FONDO MUTUO SECURITY CHILE LONG-SHORT,FFMM-ADMINISTRADORA-8756,mutual_fund,,4,8756-4,http://www.cmfchile.cl
+2571,conceptual_asset,FONDO MUTUO SECURITY CONFIANZA,FFMM-ADMINISTRADORA-8463,mutual_fund,,4,8463-8,http://www.cmfchile.cl
+2572,conceptual_asset,FONDO MUTUO SECURITY CONFIANZA DÓLAR,FFMM-ADMINISTRADORA-8664,mutual_fund,,4,8664-9,http://www.cmfchile.cl
+2300,conceptual_asset,FONDO MUTUO DEPOSITO PLUS VI GARANTIZADO,FFMM-BANCHILE-9058,mutual_fund,,4,9058-1,http://www.cmfchile.cl
+2301,conceptual_asset,FONDO MUTUO DEPÃ¿SITO PLUS GARANTIZADO,FFMM-BANCHILE-9049,mutual_fund,,4,9049-2,http://www.cmfchile.cl
+2302,conceptual_asset,FONDO MUTUO DEPÓSITO PLUS GARANTIZADO,FFMM-BANCHILE-8947,mutual_fund,,4,8947-8,http://www.cmfchile.cl
+2303,conceptual_asset,FONDO MUTUO DEPÓSITO PLUS VII,FFMM-BANCHILE-9319,mutual_fund,,4,9319-k,http://www.cmfchile.cl
+2304,conceptual_asset,FONDO MUTUO DEUDA CORPORATIVA DÓLAR,FFMM-BANCHILE-8264,mutual_fund,,4,8264-3,http://www.cmfchile.cl
+2309,conceptual_asset,FONDO MUTUO ECONOMIAS EMERGENTES,FFMM-BANCHILE-8128,mutual_fund,,4,8128-0,http://www.cmfchile.cl
+2310,conceptual_asset,FONDO MUTUO ESTRATEGIA COMMODITIES GARANTIZADO,FFMM-BANCHILE-8761,mutual_fund,,4,8761-0,http://www.cmfchile.cl
+2311,conceptual_asset,FONDO MUTUO ESTRUCTURADO BONOS UF PLUS I,FFMM-BANCHILE-9400,mutual_fund,,4,9400-5,http://www.cmfchile.cl
+1790,conceptual_asset,FONDO MUTUO ESTRUCTURADO BONOS UF PLUS II,FFMM-BANCHILE-9484,mutual_fund,,4,9484-6,http://www.cmfchile.cl
+2312,conceptual_asset,FONDO MUTUO ESTRUCTURADO EUROPA DESARROLLADA NIVEL 100,FFMM-BANCHILE-9205,mutual_fund,,4,9205-3,http://www.cmfchile.cl
+2313,conceptual_asset,FONDO MUTUO ESTRUCTURADO EUROPA DESARROLLADA NIVEL 90,FFMM-BANCHILE-9206,mutual_fund,,4,9206-1,http://www.cmfchile.cl
+2314,conceptual_asset,FONDO MUTUO ESTRUCTURADO JAPÓN NIVEL 100,FFMM-BANCHILE-9232,mutual_fund,,4,9232-0,http://www.cmfchile.cl
+2315,conceptual_asset,FONDO MUTUO ESTRUCTURADO SMALL - MID CAP USA NIVEL 90,FFMM-BANCHILE-9233,mutual_fund,,4,9233-9,http://www.cmfchile.cl
+2316,conceptual_asset,FONDO MUTUO EURO MONEY MARKET,FFMM-BANCHILE-8272,mutual_fund,,4,8272-4,http://www.cmfchile.cl
+2317,conceptual_asset,FONDO MUTUO EURO TECHNOLOGY FUND,FFMM-BANCHILE-8153,mutual_fund,,4,8153-1,http://www.cmfchile.cl
+2325,conceptual_asset,FONDO MUTUO EUROPA ACCIONARIO GARANTIZADO,FFMM-BANCHILE-8951,mutual_fund,,4,8951-6,http://www.cmfchile.cl
+2326,conceptual_asset,FONDO MUTUO EUROPEO ESTRUCTURADO NIVEL 90,FFMM-BANCHILE-9330,mutual_fund,,4,9330-0,http://www.cmfchile.cl
+2327,conceptual_asset,FONDO MUTUO FINANCIERO,FFMM-BANCHILE-8556,mutual_fund,,4,8556-1,http://www.cmfchile.cl
+2328,conceptual_asset,FONDO MUTUO FLEXIBLE,FFMM-BANCHILE-8025,mutual_fund,,4,8025-k,http://www.cmfchile.cl
+2007,conceptual_asset,FONDO MUTUO SECURITY CHECK,FFMM-ADMINISTRADORA-8048,mutual_fund,CLP,4,8048-9,http://www.cmfchile.cl
+2329,conceptual_asset,FONDO MUTUO FORTALEZAS GARANTIZADO,FFMM-BANCHILE-8595,mutual_fund,,4,8595-2,http://www.cmfchile.cl
+2330,conceptual_asset,FONDO MUTUO FRONTERAS DEL ESTE GARANTIZADO,FFMM-BANCHILE-8472,mutual_fund,,4,8472-7,http://www.cmfchile.cl
+2333,conceptual_asset,FONDO MUTUO GIGANTES GARANTIZADO,FFMM-BANCHILE-8510,mutual_fund,,4,8510-3,http://www.cmfchile.cl
+2336,conceptual_asset,FONDO MUTUO GLOBAL STOCKS GARANTIZADO,FFMM-BANCHILE-9001,mutual_fund,,4,9001-8,http://www.cmfchile.cl
+2345,conceptual_asset,FONDO MUTUO INDUSTRIA Y CONSUMO CÍCLICO,FFMM-BANCHILE-8557,mutual_fund,,4,8557-k,http://www.cmfchile.cl
+2350,conceptual_asset,FONDO MUTUO INTERNATIONAL BOND FUND,FFMM-BANCHILE-8137,mutual_fund,,4,8137-k,http://www.cmfchile.cl
+2356,conceptual_asset,FONDO MUTUO INVERSIÓN CHILE 30,FFMM-BANCHILE-8355,mutual_fund,,4,8355-0,http://www.cmfchile.cl
+2221,conceptual_asset,FONDO MUTUO BOOSTER BALANCED CHILE,FFMM-BANCHILE-8921,mutual_fund,,4,8921-4,http://www.cmfchile.cl
+2607,conceptual_asset,FONDO MUTUO SUPER FONDO TOP 50,FFMM-SANTANDER-8340,mutual_fund,,4,8340-2,http://www.cmfchile.cl
+2608,conceptual_asset,FONDO MUTUO SUPER FONDO TOP 50 DOLAR,FFMM-SANTANDER-8341,mutual_fund,,4,8341-0,http://www.cmfchile.cl
+1970,conceptual_asset,FONDO MUTUO SCOTIA ACCIONES CHILE MID CAP,FFMM-SCOTIA-8857,mutual_fund,,4,8857-9,http://www.cmfchile.cl
+2241,conceptual_asset,FONDO MUTUO CAPITALISA ACCIONARIO,FFMM-BANCHILE-8001,mutual_fund,,4,8001-2,http://www.cmfchile.cl
+2242,conceptual_asset,FONDO MUTUO CARRY TRADE MONEDAS GARANTIZADO,FFMM-BANCHILE-8727,mutual_fund,,4,8727-0,http://www.cmfchile.cl
+2438,conceptual_asset,FONDO MUTUO LATAM MARKET,FFMM-BANCHILE-8851,mutual_fund,,4,8851-k,http://www.cmfchile.cl
+2439,conceptual_asset,FONDO MUTUO LATIN AMERICA,FFMM-BANCHILE-8136,mutual_fund,,4,8136-1,http://www.cmfchile.cl
+2441,conceptual_asset,FONDO MUTUO LIQUIDEZ FULL,FFMM-BANCHILE-8504,mutual_fund,,4,8504-9,http://www.cmfchile.cl
+2442,conceptual_asset,FONDO MUTUO MARFIL GARANTIZADO,FFMM-BANCHILE-8468,mutual_fund,,4,8468-9,http://www.cmfchile.cl
+2443,conceptual_asset,FONDO MUTUO MEDICAL & HEALTH-CARE FUND,FFMM-BANCHILE-8151,mutual_fund,,4,8151-5,http://www.cmfchile.cl
+2451,conceptual_asset,FONDO MUTUO MURALLA CHINA GARANTIZADO,FFMM-BANCHILE-8734,mutual_fund,,4,8734-3,http://www.cmfchile.cl
+2452,conceptual_asset,FONDO MUTUO MÉXICO ACCIONARIO,FFMM-BANCHILE-8842,mutual_fund,,4,8842-0,http://www.cmfchile.cl
+2454,conceptual_asset,FONDO MUTUO OPERACIONAL,FFMM-BANCHILE-8034,mutual_fund,,4,8034-9,http://www.cmfchile.cl
+2351,conceptual_asset,FONDO MUTUO INVERLINK MILLENIUM,FFMM-INVERLINK-8184,mutual_fund,,4,8184-1,http://www.cmfchile.cl
+2455,conceptual_asset,FONDO MUTUO OPORTUNIDADES EMERGENTES,FFMM-BANCHILE-8667,mutual_fund,,4,8667-3,http://www.cmfchile.cl
+2457,conceptual_asset,FONDO MUTUO PATRIMONIAL,FFMM-BANCHILE-8039,mutual_fund,,4,8039-k,http://www.cmfchile.cl
+2475,conceptual_asset,FONDO MUTUO PERFORMANCE,FFMM-BANCHILE-8053,mutual_fund,,4,8053-5,http://www.cmfchile.cl
+1885,conceptual_asset,FONDO MUTUO PORTAFOLIO ACTIVO DEFENSIVO,FFMM-BANCHILE-8452,mutual_fund,,4,8452-2,http://www.cmfchile.cl
+2478,conceptual_asset,FONDO MUTUO POTENCIAS GARANTIZADO,FFMM-BANCHILE-8594,mutual_fund,,4,8594-4,http://www.cmfchile.cl
+2606,conceptual_asset,FONDO MUTUO SMALL CAP USA GARANTIZADO,FFMM-BANCHILE-9018,mutual_fund,,4,9018-2,http://www.cmfchile.cl
+2611,conceptual_asset,FONDO MUTUO TECHNOLOGY FUND,FFMM-BANCHILE-8150,mutual_fund,,4,8150-7,http://www.cmfchile.cl
+2612,conceptual_asset,FONDO MUTUO TECNOLOGIA Y TELECOMUNICACIONES,FFMM-BANCHILE-8558,mutual_fund,,4,8558-8,http://www.cmfchile.cl
+2631,conceptual_asset,FONDO MUTUO VISIÓN DINÁMICA C,FFMM-BANCHILE-8450,mutual_fund,,4,8450-6,http://www.cmfchile.cl
+2632,conceptual_asset,FONDO MUTUO VISIÓN DINÁMICA D,FFMM-BANCHILE-8451,mutual_fund,,4,8451-4,http://www.cmfchile.cl
+2633,conceptual_asset,FONDO MUTUO WALL STREET 107 GARANTIZADO,FFMM-BANCHILE-8548,mutual_fund,,4,8548-0,http://www.cmfchile.cl
+1975,conceptual_asset,FONDO MUTUO SCOTIA MONEY MARKET DOLAR,FFMM-SCOTIA-8238,mutual_fund,USD,4,8238-4,http://www.cmfchile.cl
+1542,conceptual_asset,FONDO DE INVERSIÓN NEVASA VISIÓN INTERNACIONAL,FINV-9402,investment_fund,,4,9402-1,http://www.cmfchile.cl
+2488,conceptual_asset,FONDO MUTUO RENTA VARIABLE CHILE,FFMM-BANCHILE-8789,mutual_fund,CLP,4,8789-0,http://www.cmfchile.cl
+2574,conceptual_asset,FONDO MUTUO SECURITY DIVERSIFICACION,FFMM-ADMINISTRADORA-8298,mutual_fund,,4,8298-8,http://www.cmfchile.cl
+2576,conceptual_asset,FONDO MUTUO SECURITY DOLAR BOND,FFMM-ADMINISTRADORA-8324,mutual_fund,,4,8324-0,http://www.cmfchile.cl
+2575,conceptual_asset,FONDO MUTUO SECURITY DOLAR BOND,FFMM-ADMINISTRADORA-8229,mutual_fund,,4,8229-5,http://www.cmfchile.cl
+2005,conceptual_asset,FONDO MUTUO SECOND BEST ACCIONES LATINOAMERICANAS – ASIA EMERGENTE,FFMM-BANCHILE-9521,mutual_fund,CLP,4,9521-4,http://www.cmfchile.cl
+1981,conceptual_asset,FONDO MUTUO SCOTIA LEADER,FFMM-SCOTIA-8050,mutual_fund,CLP,4,8050-0,http://www.cmfchile.cl
+1544,conceptual_asset,FONDO DE INVERSIÓN SARTOR ACCIONES GLOBALES,FINV-9393,investment_fund,,4,9393-9,http://www.cmfchile.cl
+1546,conceptual_asset,FONDO DE INVERSIÓN SARTOR PROYECCIÓN,FINV-9553,investment_fund,,4,9553-2,http://www.cmfchile.cl
+2530,conceptual_asset,FONDO MUTUO SANTANDER SUPER FONDO 105,FFMM-SANTANDER-8330,mutual_fund,,4,8330-5,http://www.cmfchile.cl
+1958,conceptual_asset,FONDO MUTUO SANTANDER SELECT PRUDENTE,FFMM-SANTANDER-8997,mutual_fund,CLP,4,8997-4,http://www.cmfchile.cl
+2531,conceptual_asset,FONDO MUTUO SANTANDER SUPER FONDO 110,FFMM-SANTANDER-8331,mutual_fund,,4,8331-3,http://www.cmfchile.cl
+2532,conceptual_asset,FONDO MUTUO SANTANDER SUPER FONDO 110 DOLAR,FFMM-SANTANDER-8339,mutual_fund,,4,8339-9,http://www.cmfchile.cl
+2535,conceptual_asset,FONDO MUTUO SANTANDER SUPER INTERES,FFMM-SANTANDER-8191,mutual_fund,,4,8191-4,http://www.cmfchile.cl
+2613,conceptual_asset,FONDO MUTUO TELECOMMUNICATION FUND,FFMM-BANCHILE-8146,mutual_fund,,4,8146-9,http://www.cmfchile.cl
+2614,conceptual_asset,FONDO MUTUO TIGRES GARANTIZADO,FFMM-BANCHILE-8509,mutual_fund,,4,8509-k,http://www.cmfchile.cl
+2617,conceptual_asset,FONDO MUTUO TWIN WIN EUROPA 103 GARANTIZADO,FFMM-BANCHILE-8949,mutual_fund,,4,8949-4,http://www.cmfchile.cl
+2619,conceptual_asset,FONDO MUTUO TWIN WIN EUROPE EQUITY,FFMM-BANCHILE-9026,mutual_fund,,4,9026-3,http://www.cmfchile.cl
+2618,conceptual_asset,FONDO MUTUO TWIN WIN EUROPE EQUITY,FFMM-BANCHILE-9037,mutual_fund,,4,9037-9,http://www.cmfchile.cl
+2620,conceptual_asset,FONDO MUTUO TWIN WIN USA,FFMM-BANCHILE-8936,mutual_fund,,4,8936-2,http://www.cmfchile.cl
+2621,conceptual_asset,FONDO MUTUO TWIN WIN USA PESOS,FFMM-BANCHILE-9008,mutual_fund,,4,9008-5,http://www.cmfchile.cl
+2622,conceptual_asset,FONDO MUTUO U.S. STABILITY FUND,FFMM-BANCHILE-8138,mutual_fund,,4,8138-8,http://www.cmfchile.cl
+2623,conceptual_asset,FONDO MUTUO U.S.HIGH TECHNOLOGY FUND,FFMM-BANCHILE-8143,mutual_fund,,4,8143-4,http://www.cmfchile.cl
+2624,conceptual_asset,FONDO MUTUO USA CUPON PLUS NIVEL 100,FFMM-BANCHILE-9322,mutual_fund,,4,9322-k,http://www.cmfchile.cl
+2625,conceptual_asset,FONDO MUTUO USA EQUITY TAX ADVANTAGE,FFMM-BANCHILE-8983,mutual_fund,,4,8983-4,http://www.cmfchile.cl
+2626,conceptual_asset,FONDO MUTUO VERDE AMARELO GARANTIZADO,FFMM-BANCHILE-8526,mutual_fund,,4,8526-k,http://www.cmfchile.cl
+2627,conceptual_asset,FONDO MUTUO VIEJO CONTINENTE ACCIONARIO,FFMM-BANCHILE-8210,mutual_fund,,4,8210-4,http://www.cmfchile.cl
+2629,conceptual_asset,FONDO MUTUO VISIÓN DINÁMICA ACCIONES,FFMM-BANCHILE-8447,mutual_fund,,4,8447-6,http://www.cmfchile.cl
+2630,conceptual_asset,FONDO MUTUO VISIÓN DINÁMICA B,FFMM-BANCHILE-8449,mutual_fund,,4,8449-2,http://www.cmfchile.cl
+2064,conceptual_asset,FONDO MUTUO ZURICH CASH,FFMM-ZURICH-8345,mutual_fund,CLP,4,8345-3,http://www.cmfchile.cl
+1586,conceptual_asset,VISION ACCIONES GLOBALES FONDO DE INVERSION,FFMM-ADMINISTRADORA-9334,mutual_fund,,4,9334-3,http://www.cmfchile.cl
+1895,conceptual_asset,FONDO MUTUO PRINCIPAL DEUDA CORTO PLAZO,FFMM-PRINCIPAL-8250,mutual_fund,CLP,4,8250-3,http://www.cmfchile.cl
+1988,conceptual_asset,FONDO MUTUO SCOTIA MONETARIO I,FFMM-SCOTIA-8757,mutual_fund,,4,8757-2,http://www.cmfchile.cl
+2609,conceptual_asset,FONDO MUTUO SUPER SELECCION,FFMM-SANTANDER-8383,mutual_fund,,4,8383-6,http://www.cmfchile.cl
+2077,conceptual_asset,FONDO MUTUO ZURICH USA,FFMM-ZURICH-9048,mutual_fund,,4,9048-4,http://www.cmfchile.cl
+1990,conceptual_asset,FONDO MUTUO SCOTIA MONETARIO XIX,FFMM-SCOTIA-9166,mutual_fund,,4,9166-9,http://www.cmfchile.cl
+1991,conceptual_asset,FONDO MUTUO SCOTIA MONETARIO XVIII,FFMM-SCOTIA-9065,mutual_fund,,4,9065-4,http://www.cmfchile.cl
+1992,conceptual_asset,FONDO MUTUO SCOTIA MONETARIO XX,FFMM-SCOTIA-9253,mutual_fund,,4,9253-3,http://www.cmfchile.cl
+1997,conceptual_asset,FONDO MUTUO SCOTIA RENTA BALANCEADA,FFMM-SCOTIA-8966,mutual_fund,,4,8966-4,http://www.cmfchile.cl
+2110,conceptual_asset,FONDO MUTUO BANDESARROLLO GARANTIZADO 1,FFMM-SCOTIA-8473,mutual_fund,,4,8473-5,http://www.cmfchile.cl
+2546,conceptual_asset,FONDO MUTUO SCOTIA EE.UU.,FFMM-SCOTIA-8605,mutual_fund,,4,8605-3,http://www.cmfchile.cl
+2547,conceptual_asset,FONDO MUTUO SCOTIA GARANTIZADO 2008,FFMM-SCOTIA-8420,mutual_fund,,4,8420-4,http://www.cmfchile.cl
+2548,conceptual_asset,FONDO MUTUO SCOTIA GARANTIZADO LOCKIN,FFMM-SCOTIA-8571,mutual_fund,,4,8571-5,http://www.cmfchile.cl
+2549,conceptual_asset,FONDO MUTUO SCOTIA GARANTIZADO POTENCIA GLOBAL,FFMM-SCOTIA-8498,mutual_fund,,4,8498-0,http://www.cmfchile.cl
+2551,conceptual_asset,FONDO MUTUO SCOTIA MERCADOS EMERGENTES,FFMM-SCOTIA-8828,mutual_fund,,4,8828-5,http://www.cmfchile.cl
+1999,conceptual_asset,FONDO MUTUO SCOTIA DEUDA LARGO PLAZO UF,FFMM-SCOTIA-9154,mutual_fund,,4,9154-5,http://www.cmfchile.cl
+2479,conceptual_asset,FONDO MUTUO PRINCIPAL BONOS INTERNACIONALES,FFMM-PRINCIPAL-8279,mutual_fund,,4,8279-1,http://www.cmfchile.cl
+2480,conceptual_asset,FONDO MUTUO PRINCIPAL BRAZIL EQUITY,FFMM-PRINCIPAL-8791,mutual_fund,,4,8791-2,http://www.cmfchile.cl
+1896,conceptual_asset,FONDO MUTUO PRINCIPAL DEUDA MEDIANO PLAZO,FFMM-PRINCIPAL-8422,mutual_fund,CLP,4,8422-0,http://www.cmfchile.cl
+2477,conceptual_asset,FONDO MUTUO POTENCIAS CONSOLIDADAS GARANTIZADO,FFMM-BANCHILE-8735,mutual_fund,,4,8735-1,http://www.cmfchile.cl
+2886,conceptual_asset,FONDO DE INVERSION LARRAINVIAL DEUDA LATAM LOW CARBON ESG,FINV-9867,investment_fund,,4,9867-1,http://www.cmfchile.cl
+1540,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL OPORTUNIDAD LATAM,FINV-9350,investment_fund,,4,9350-5,http://www.cmfchile.cl
+1862,conceptual_asset,FONDO MUTUO LARRAINVIAL ASIA,FFMM-LARRAINVIAL-9023,mutual_fund,,4,9023-9,http://www.cmfchile.cl
+1603,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL ACCIONES GLOBALES,FINV-9320,investment_fund,,4,9320-3,http://www.cmfchile.cl
+1604,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL GLOBAL,FINV-9159,investment_fund,,4,9159-6,http://www.cmfchile.cl
+1605,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL OPPORTUNITIES,FINV-9160,investment_fund,,4,9160-k,http://www.cmfchile.cl
+1606,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL PATRIMONIO,FINV-9370,investment_fund,,4,9370-k,http://www.cmfchile.cl
+2335,conceptual_asset,FONDO MUTUO GLOBAL EQUITY,FFMM-LARRAINVIAL-8173,mutual_fund,,4,8173-6,http://www.cmfchile.cl
+2354,conceptual_asset,FONDO MUTUO INVERSION BRASIL,FFMM-LARRAINVIAL-8652,mutual_fund,,4,8652-5,http://www.cmfchile.cl
+2355,conceptual_asset,FONDO MUTUO INVERSION PERU,FFMM-LARRAINVIAL-8654,mutual_fund,,4,8654-1,http://www.cmfchile.cl
+2750,conceptual_asset,FONDO MUTUO LARRAINVIAL CUENTA ACTIVA CONSERVADORA DÓLAR,FFMM-LARRAINVIAL-9853,mutual_fund,,4,9853-1,http://www.cmfchile.cl
+2740,conceptual_asset,FONDO MUTUO LARRAINVIAL CUENTA ACTIVA MODERADA DÓLAR,FFMM-LARRAINVIAL-9816,mutual_fund,,4,9816-7,http://www.cmfchile.cl
+1863,conceptual_asset,FONDO MUTUO LARRAINVIAL CUENTA ACTIVA DEFENSIVA DÓLAR,FFMM-LARRAINVIAL-8172,mutual_fund,USD,4,8172-8,http://www.cmfchile.cl
+1756,conceptual_asset,FONDO MUTUO CONSORCIO ACCIONES CHILENAS,FFMM-LARRAINVIAL-8170,mutual_fund,,4,8170-1,http://www.cmfchile.cl
+1495,conceptual_asset,FONDO DE INVERSION LARRAINVIAL QUANT LATAM,FFMM-LARRAINVIAL-9298,mutual_fund,,4,9298-3,http://www.cmfchile.cl
+1526,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL ARGENTINA EQUITY,FINV-9659,investment_fund,,4,9659-8,http://www.cmfchile.cl
+2397,conceptual_asset,FONDO MUTUO LARRAIN VIAL ACCIONES BENEFICIO,FFMM-LARRAINVIAL-8282,mutual_fund,,4,8282-1,http://www.cmfchile.cl
+2398,conceptual_asset,FONDO MUTUO LARRAIN VIAL ACCIONES NACIONALES,FFMM-LARRAINVIAL-8096,mutual_fund,,4,8096-9,http://www.cmfchile.cl
+2399,conceptual_asset,FONDO MUTUO LARRAIN VIAL AHORRO A PLAZO,FFMM-LARRAINVIAL-8124,mutual_fund,,4,8124-8,http://www.cmfchile.cl
+2400,conceptual_asset,FONDO MUTUO LARRAIN VIAL ALTO RENDIMIENTO,FFMM-LARRAINVIAL-8388,mutual_fund,,4,8388-7,http://www.cmfchile.cl
+2401,conceptual_asset,FONDO MUTUO LARRAIN VIAL BRASIL RETORNO TOTAL,FFMM-LARRAINVIAL-8432,mutual_fund,,4,8432-8,http://www.cmfchile.cl
+2402,conceptual_asset,FONDO MUTUO LARRAIN VIAL DEPOSITO INTERNACIONAL,FFMM-LARRAINVIAL-8166,mutual_fund,,4,8166-3,http://www.cmfchile.cl
+2403,conceptual_asset,FONDO MUTUO LARRAIN VIAL ENFOQUE,FFMM-LARRAINVIAL-8368,mutual_fund,,4,8368-2,http://www.cmfchile.cl
+2469,conceptual_asset,FONDO MUTUO PENTA RENTA NOMINAL CHILE,FFMM-PENTA-8312,mutual_fund,,4,8312-7,http://www.cmfchile.cl
+2485,conceptual_asset,FONDO MUTUO RENTA FUTURA,FFMM-BANCHILE-8201,mutual_fund,,4,8201-5,http://www.cmfchile.cl
+1875,conceptual_asset,FONDO MUTUO LARRAINVIAL MERCADO MONETARIO,FFMM-LARRAINVIAL-8130,mutual_fund,CLP,4,8130-2,http://www.cmfchile.cl
+2526,conceptual_asset,FONDO MUTUO SANTANDER PORTFOLIO CONSERVADOR,FFMM-SANTANDER-8213,mutual_fund,,4,8213-9,http://www.cmfchile.cl
+2405,conceptual_asset,FONDO MUTUO LARRAIN VIAL EUROPA,FFMM-LARRAINVIAL-8497,mutual_fund,,4,8497-2,http://www.cmfchile.cl
+2406,conceptual_asset,FONDO MUTUO LARRAIN VIAL LATINOAMERICANO,FFMM-LARRAINVIAL-8192,mutual_fund,,4,8192-2,http://www.cmfchile.cl
+2410,conceptual_asset,FONDO MUTUO LARRAIN VIAL PROTECCION,FFMM-LARRAINVIAL-8369,mutual_fund,,4,8369-0,http://www.cmfchile.cl
+1527,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL ACCIONARIO GLOBAL,FINV-9389,investment_fund,,4,9389-0,http://www.cmfchile.cl
+1528,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL CHILE EQUITY,FINV-9169,investment_fund,,4,9169-3,http://www.cmfchile.cl
+1529,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL DEUDA CORPORATIVA,FINV-7210,investment_fund,,4,7210-9,http://www.cmfchile.cl
+1530,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL DEUDA LATAM HIGH YIELD,FINV-7064,investment_fund,,4,7064-5,http://www.cmfchile.cl
+1532,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL DEUDA LOCAL,FINV-9279,investment_fund,,4,9279-7,http://www.cmfchile.cl
+2411,conceptual_asset,FONDO MUTUO LARRAINVIAL ACCIONES BENEFICIO,FFMM-LARRAINVIAL-8873,mutual_fund,,4,8873-0,http://www.cmfchile.cl
+2412,conceptual_asset,FONDO MUTUO LARRAINVIAL AHORRO CENTRAL,FFMM-LARRAINVIAL-8241,mutual_fund,,4,8241-4,http://www.cmfchile.cl
+2413,conceptual_asset,FONDO MUTUO LARRAINVIAL AHORRO LARGO NOMINAL,FFMM-LARRAINVIAL-9064,mutual_fund,,4,9064-6,http://www.cmfchile.cl
+2415,conceptual_asset,FONDO MUTUO LARRAINVIAL BONOS CORPORATIVOS BRASIL,FFMM-LARRAINVIAL-8171,mutual_fund,,4,8171-k,http://www.cmfchile.cl
+2416,conceptual_asset,FONDO MUTUO LARRAINVIAL BRASIL,FFMM-LARRAINVIAL-8780,mutual_fund,,4,8780-7,http://www.cmfchile.cl
+2417,conceptual_asset,FONDO MUTUO LARRAINVIAL BRASIL SMALL & MID CAPS,FFMM-LARRAINVIAL-8833,mutual_fund,,4,8833-1,http://www.cmfchile.cl
+2418,conceptual_asset,FONDO MUTUO LARRAINVIAL BRIC,FFMM-LARRAINVIAL-8431,mutual_fund,,4,8431-k,http://www.cmfchile.cl
+2419,conceptual_asset,FONDO MUTUO LARRAINVIAL COLOMBIA,FFMM-LARRAINVIAL-8874,mutual_fund,,4,8874-9,http://www.cmfchile.cl
+2420,conceptual_asset,FONDO MUTUO LARRAINVIAL CRECIMIENTO,FFMM-LARRAINVIAL-8469,mutual_fund,,4,8469-7,http://www.cmfchile.cl
+1539,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL DEUDA ESTRATÉGICA,FINV-9391,investment_fund,,4,9391-2,http://www.cmfchile.cl
+1531,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL DEUDA LATAM UF,FINV-9150,investment_fund,,4,9150-2,http://www.cmfchile.cl
+1533,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL DEUDA RETORNO ABSOLUTO,FINV-9346,investment_fund,,4,9346-7,http://www.cmfchile.cl
+1535,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL FACTURAS,FINV-9306,investment_fund,,4,9306-8,http://www.cmfchile.cl
+1537,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL LATAM LOCAL CURRENCY DEBT,FINV-7185,investment_fund,,4,7185-4,http://www.cmfchile.cl
+1536,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL LATAM EQUITY,FINV-9149,investment_fund,,4,9149-9,http://www.cmfchile.cl
+2421,conceptual_asset,FONDO MUTUO LARRAINVIAL DISPONIBLE,FFMM-LARRAINVIAL-8938,mutual_fund,,4,8938-9,http://www.cmfchile.cl
+2422,conceptual_asset,FONDO MUTUO LARRAINVIAL DOLAR GLOBAL,FFMM-LARRAINVIAL-8704,mutual_fund,,4,8704-1,http://www.cmfchile.cl
+2423,conceptual_asset,FONDO MUTUO LARRAINVIAL ESPAÑA,FFMM-LARRAINVIAL-9068,mutual_fund,,4,9068-9,http://www.cmfchile.cl
+2424,conceptual_asset,FONDO MUTUO LARRAINVIAL INVERSION MUNDIAL,FFMM-LARRAINVIAL-8436,mutual_fund,,4,8436-0,http://www.cmfchile.cl
+2425,conceptual_asset,FONDO MUTUO LARRAINVIAL LATAM EX BRASIL,FFMM-LARRAINVIAL-8917,mutual_fund,,4,8917-6,http://www.cmfchile.cl
+2426,conceptual_asset,FONDO MUTUO LARRAINVIAL LATAM SMALL & MID CAPS,FFMM-LARRAINVIAL-8531,mutual_fund,,4,8531-6,http://www.cmfchile.cl
+2427,conceptual_asset,FONDO MUTUO LARRAINVIAL LIDER BRASIL,FFMM-LARRAINVIAL-8552,mutual_fund,,4,8552-9,http://www.cmfchile.cl
+2428,conceptual_asset,FONDO MUTUO LARRAINVIAL MANDARIN,FFMM-LARRAINVIAL-8499,mutual_fund,,4,8499-9,http://www.cmfchile.cl
+2429,conceptual_asset,FONDO MUTUO LARRAINVIAL MEGATENDENCIAS,FFMM-LARRAINVIAL-8818,mutual_fund,,4,8818-8,http://www.cmfchile.cl
+2430,conceptual_asset,FONDO MUTUO LARRAINVIAL MERCADOS EMERGENTES,FFMM-LARRAINVIAL-8198,mutual_fund,,4,8198-1,http://www.cmfchile.cl
+2433,conceptual_asset,FONDO MUTUO LARRAINVIAL PERU,FFMM-LARRAINVIAL-8706,mutual_fund,,4,8706-8,http://www.cmfchile.cl
+2434,conceptual_asset,FONDO MUTUO LARRAINVIAL PORTFOLIO ALTERNATIVO,FFMM-LARRAINVIAL-9293,mutual_fund,,4,9293-2,http://www.cmfchile.cl
+1534,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL ESTADOS UNIDOS,FINV-9443,investment_fund,USD,4,9443-9,http://www.cmfchile.cl
+2435,conceptual_asset,FONDO MUTUO LARRAINVIAL PRECISION,FFMM-LARRAINVIAL-8419,mutual_fund,,4,8419-0,http://www.cmfchile.cl
+2436,conceptual_asset,FONDO MUTUO LARRAINVIAL RETORNO TOTAL,FFMM-LARRAINVIAL-8376,mutual_fund,,4,8376-3,http://www.cmfchile.cl
+2437,conceptual_asset,FONDO MUTUO LARRAINVIAL RETORNO TOTAL DOLAR,FFMM-LARRAINVIAL-8530,mutual_fund,,4,8530-8,http://www.cmfchile.cl
+2449,conceptual_asset,FONDO MUTUO MULTI BALANCEADO DÓLAR,FFMM-LARRAINVIAL-8470,mutual_fund,,4,8470-0,http://www.cmfchile.cl
+2450,conceptual_asset,FONDO MUTUO MULTI PROTECCIÓN DÓLAR,FFMM-LARRAINVIAL-8476,mutual_fund,,4,8476-k,http://www.cmfchile.cl
+1714,conceptual_asset,FONDO MUTUO BICE RENTA LARGO PLAZO,FFMM-BICE-9238,mutual_fund,,4,9238-k,http://www.cmfchile.cl
+2589,conceptual_asset,FONDO MUTUO SECURITY LEADER 100 GARANTIZADO,FFMM-ADMINISTRADORA-8391,mutual_fund,,4,8391-7,http://www.cmfchile.cl
+2258,conceptual_asset,FONDO MUTUO COLOMBIA,FFMM-LARRAINVIAL-8540,mutual_fund,,4,8540-5,http://www.cmfchile.cl
+2590,conceptual_asset,FONDO MUTUO SECURITY LIQUIDEZ,FFMM-ADMINISTRADORA-8261,mutual_fund,,4,8261-9,http://www.cmfchile.cl
+2261,conceptual_asset,FONDO MUTUO CONSORCIO AHORRO NOMINAL,FFMM-LARRAINVIAL-8532,mutual_fund,,4,8532-4,http://www.cmfchile.cl
+2591,conceptual_asset,FONDO MUTUO SECURITY MONEY MARKET,FFMM-ADMINISTRADORA-8311,mutual_fund,,4,8311-9,http://www.cmfchile.cl
+2262,conceptual_asset,FONDO MUTUO CONSORCIO AHORRO UF,FFMM-LARRAINVIAL-8246,mutual_fund,,4,8246-5,http://www.cmfchile.cl
+2407,conceptual_asset,FONDO MUTUO LARRAIN VIAL LIDER DOLAR,FFMM-LARRAINVIAL-8314,mutual_fund,,4,8314-3,http://www.cmfchile.cl
+2592,conceptual_asset,FONDO MUTUO SECURITY MONEY MARKET DÓLAR,FFMM-ADMINISTRADORA-8572,mutual_fund,,4,8572-3,http://www.cmfchile.cl
+2408,conceptual_asset,FONDO MUTUO LARRAIN VIAL MULTIMERCADO,FFMM-LARRAINVIAL-8545,mutual_fund,,4,8545-6,http://www.cmfchile.cl
+2409,conceptual_asset,FONDO MUTUO LARRAIN VIAL PERU,FFMM-LARRAINVIAL-8617,mutual_fund,,4,8617-7,http://www.cmfchile.cl
+2404,conceptual_asset,FONDO MUTUO LARRAIN VIAL EURO DOLAR,FFMM-LARRAINVIAL-8271,mutual_fund,,4,8271-6,http://www.cmfchile.cl
+2593,conceptual_asset,FONDO MUTUO SECURITY MUNDO EMERGENTE,FFMM-ADMINISTRADORA-8568,mutual_fund,,4,8568-5,http://www.cmfchile.cl
+2634,conceptual_asset,FONDO MUTUO XTRA INCOME,FFMM-LARRAINVIAL-8291,mutual_fund,,4,8291-0,http://www.cmfchile.cl
+1716,conceptual_asset,FONDO MUTUO BICE RENTA UF,FFMM-BICE-8141,mutual_fund,CLP,4,8141-8,http://www.cmfchile.cl
+1710,conceptual_asset,FONDO MUTUO BICE ESTRATEGIA MÁS CONSERVADORA,FFMM-BICE-8933,mutual_fund,CLP,4,8933-8,http://www.cmfchile.cl
+1712,conceptual_asset,FONDO MUTUO BICE LIQUIDEZ PESOS,FFMM-BICE-8063,mutual_fund,CLP,4,8063-2,http://www.cmfchile.cl
+1711,conceptual_asset,FONDO MUTUO BICE LIQUIDEZ DÓLAR,FFMM-BICE-8506,mutual_fund,USD,4,8506-5,http://www.cmfchile.cl
+1713,conceptual_asset,FONDO MUTUO BICE RENTA CORTO PLAZO,FFMM-BICE-8902,mutual_fund,CLP,4,8902-8,http://www.cmfchile.cl
+1799,conceptual_asset,FONDO MUTUO ZURICH DOLAR,FFMM-ZURICH-8629,mutual_fund,USD,4,8629-0,http://www.cmfchile.cl
+1549,conceptual_asset,FONDO DE INVERSIÓN SECURITY DEUDA LATAM EN UF,FINV-9128,investment_fund,,4,9128-6,http://www.cmfchile.cl
+1785,conceptual_asset,FONDO MUTUO BANCHILE EMERGING,FFMM-BANCHILE-8054,mutual_fund,CLP,4,8054-3,http://www.cmfchile.cl
+1786,conceptual_asset,FONDO MUTUO BANCHILE EMERGING MARKET,FFMM-BANCHILE-8299,mutual_fund,USD,4,8299-6,http://www.cmfchile.cl
+1821,conceptual_asset,FONDO MUTUO BANCHILE EUROPA DESARROLLADA,FFMM-BANCHILE-8129,mutual_fund,CLP,4,8129-9,http://www.cmfchile.cl
+1826,conceptual_asset,FONDO MUTUO BANCHILE GLOBAL DOLLAR,FFMM-BANCHILE-8301,mutual_fund,USD,4,8301-1,http://www.cmfchile.cl
+1827,conceptual_asset,FONDO MUTUO BANCHILE GLOBAL MID CAP,FFMM-BANCHILE-8088,mutual_fund,CLP,4,8088-8,http://www.cmfchile.cl
+1828,conceptual_asset,FONDO MUTUO BANCHILE HORIZONTE,FFMM-BANCHILE-8023,mutual_fund,CLP,4,8023-3,http://www.cmfchile.cl
+1749,conceptual_asset,FONDO MUTUO BANCHILE COBERTURA DEUDA GLOBAL,FFMM-BANCHILE-9561,mutual_fund,CLP,4,9561-3,http://www.cmfchile.cl
+1755,conceptual_asset,FONDO MUTUO COMPROMISO BANCOESTADO,FFMM-BANCOESTADO-8317,mutual_fund,CLP,4,8317-8,http://www.cmfchile.cl
+1766,conceptual_asset,FONDO MUTUO CONVENIENCIA BANCOESTADO,FFMM-BANCOESTADO-8320,mutual_fund,CLP,4,8320-8,http://www.cmfchile.cl
+1538,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL SMALL AND MID CAP LATAM,FINV-7127,investment_fund,,4,7127-7,http://www.cmfchile.cl
+1541,conceptual_asset,FONDO DE INVERSIÓN LARRAINVIAL PERÚ EQUITY,FINV-9171,investment_fund,,4,9171-5,http://www.cmfchile.cl
+1559,conceptual_asset,MBI DEUDA TOTAL FONDO DE INVERSIÓN,FINV-9202,investment_fund,,4,9202-9,http://www.cmfchile.cl
+1548,conceptual_asset,FONDO DE INVERSIÓN SARTOR TACTICO INTERNACIONAL,FINV-9628,investment_fund,,4,9628-8,http://www.cmfchile.cl
+1545,conceptual_asset,FONDO DE INVERSIÓN SARTOR LEASING,FINV-9392,investment_fund,,4,9392-0,http://www.cmfchile.cl
+1691,conceptual_asset,FONDO MUTUO BICE ACCIONES CHILE ACTIVO,FFMM-BICE-8819,mutual_fund,CLP,4,8819-6,http://www.cmfchile.cl
+1692,conceptual_asset,FONDO MUTUO BICE ACCIONES CHILE MID CAP,FFMM-BICE-8553,mutual_fund,CLP,4,8553-7,http://www.cmfchile.cl
+1835,conceptual_asset,FONDO MUTUO ITAU AHORRO CORTO PLAZO,FFMM-ITAU-8352,mutual_fund,CLP,4,8352-6,http://www.cmfchile.cl
+1837,conceptual_asset,FONDO MUTUO ITAU ANDINO RETORNO TOTAL,FFMM-ITAU-8979,mutual_fund,CLP,4,8979-6,http://www.cmfchile.cl
+1555,conceptual_asset,MBI DEUDA ALTERNATIVA FONDO DE INVERSIÓN,FINV-9203,investment_fund,CLP,4,9203-7,http://www.cmfchile.cl
+1757,conceptual_asset,FONDO MUTUO CONSORCIO AHORRO DINÁMICO,FFMM-LARRAINVIAL-8375,mutual_fund,CLP,4,8375-5,http://www.cmfchile.cl
+1791,conceptual_asset,FONDO MUTUO ETF ZURICH MSCI SMALL CAP CHILE,FFMM-ZURICH-9533,mutual_fund,,4,9533-8,http://www.cmfchile.cl
+1882,conceptual_asset,FONDO MUTUO BANCHILE MID CAP,FFMM-BANCHILE-8062,mutual_fund,,4,8062-4,http://www.cmfchile.cl
+1726,conceptual_asset,FONDO MUTUO BTG PACTUAL ACCIONES CHILENAS,FFMM-BTG-8204,mutual_fund,,4,8204-k,http://www.cmfchile.cl
+1839,conceptual_asset,FONDO MUTUO ITAU DEUDA CORPORATIVA CHILE,FFMM-ITAU-9248,mutual_fund,CLP,4,9248-7,http://www.cmfchile.cl
+2648,conceptual_asset,MONEDA RENTA VARIABLE ARGENTINA FONDO DE INVERSIÓN,FINV-9751,investment_fund,,4,9751-9,http://www.cmfchile.cl
+1564,conceptual_asset,MBI RENTA FIJA PLUS DÓLAR FONDO DE INVERSIÓN,FINV-9091,investment_fund,,4,9091-3,http://www.cmfchile.cl
+1556,conceptual_asset,MBI DEUDA EMERGENTE FONDO DE INVERSION,FINV-9301,investment_fund,,4,9301-7,http://www.cmfchile.cl
+1566,conceptual_asset,MONEDA DEUDA CHILE FONDO DE INVERSIÓN,FINV-9212,investment_fund,,4,9212-6,http://www.cmfchile.cl
+1561,conceptual_asset,MBI OPORTUNIDADES FONDO DE INVERSION,FINV-9119,investment_fund,,4,9119-7,http://www.cmfchile.cl
+1569,conceptual_asset,MONEDA RENTA FIJA INTERNACIONAL HIGH-YIELD FONDO DE INVERSION,FINV-9267,investment_fund,,4,9267-3,http://www.cmfchile.cl
+2020,conceptual_asset,FONDO MUTUO SECURITY GOLD,FFMM-ADMINISTRADORA-8118,mutual_fund,CLP,4,8118-3,http://www.cmfchile.cl
+2373,conceptual_asset,FONDO MUTUO ITAU MAS FUTURO,FFMM-ITAU-8119,mutual_fund,,4,8119-1,http://www.cmfchile.cl
+2008,conceptual_asset,FONDO MUTUO SECURITY CORPORATIVO,FFMM-ADMINISTRADORA-8806,mutual_fund,CLP,4,8806-4,http://www.cmfchile.cl
+2025,conceptual_asset,FONDO MUTUO SECURITY MID TERM,FFMM-ADMINISTRADORA-8881,mutual_fund,CLP,4,8881-1,http://www.cmfchile.cl
+2088,conceptual_asset,FONDO MUTUO ALIANZA PACIFICO ACCIONARIO,FFMM-BANCHILE-8829,mutual_fund,CLP,4,8829-3,http://www.cmfchile.cl
+1616,conceptual_asset,FONDO MUTUO BANCHILE ASIA,FFMM-BANCHILE-8131,mutual_fund,CLP,4,8131-0,http://www.cmfchile.cl
+1617,conceptual_asset,FONDO MUTUO BANCHILE ASIATICO ACCIONARIO,FFMM-BANCHILE-8517,mutual_fund,CLP,4,8517-0,http://www.cmfchile.cl
+1919,conceptual_asset,FONDO MUTUO BANCHILE RETORNO L.P. UF,FFMM-BANCHILE-8028,mutual_fund,CLP,4,8028-4,http://www.cmfchile.cl
+2059,conceptual_asset,FONDO MUTUO BANCHILE U.S DOLLAR,FFMM-BANCHILE-8300,mutual_fund,USD,4,8300-3,http://www.cmfchile.cl
+2550,conceptual_asset,FONDO MUTUO SCOTIA GLOBAL ACCIONES,FFMM-SCOTIA-8101,mutual_fund,,4,8101-9,http://www.cmfchile.cl
+1554,conceptual_asset,MBI BEST IDEAS LATAM FONDO DE INVERSION,FINV-7278,investment_fund,,4,7278-8,http://www.cmfchile.cl
+1565,conceptual_asset,MONEDA ALTURAS II FONDO DE INVERSIÓN,FINV-9614,investment_fund,,4,9614-8,http://www.cmfchile.cl
+1928,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES MID CAP CHILE,FFMM-SANTANDER-9537,mutual_fund,CLP,4,9537-0,http://www.cmfchile.cl
+1890,conceptual_asset,FONDO MUTUO PRINCIPAL CAPITALES ACCIONES CHILENAS,FFMM-PRINCIPAL-8038,mutual_fund,CLP,4,8038-1,http://www.cmfchile.cl
+2785,conceptual_asset,FONDO MUTUO BCI PORTAFOLIO ESTRUCTURADO 20,FFMM-BCI-9875,mutual_fund,CLP,4,9875-2,http://www.cmfchile.cl
+66,conceptual_asset,ICP,ICPCLP,index,CLP,2,,https://www.cbf.cl
+1563,conceptual_asset,MBI RENDIMIENTO TOTAL FONDO DE INVERSIÓN,FINV-9480,investment_fund,,4,9480-3,http://www.cmfchile.cl
+1567,conceptual_asset,MONEDA DEUDA LATAM INVESTMENT GRADE FONDO DE INVERSIÓN,FINV-9277,investment_fund,,4,9277-0,http://www.cmfchile.cl
+1568,conceptual_asset,MONEDA LATAM EQUITY FONDO DE INVERSIÓN,FINV-9304,investment_fund,,4,9304-1,http://www.cmfchile.cl
+1553,conceptual_asset,MBI ARBITRAGE FONDO DE INVERSIÓN,FINV-7089,investment_fund,,4,7089-0,http://www.cmfchile.cl
+1634,conceptual_asset,FONDO MUTUO BCI ASIA,FFMM-BCI-8514,mutual_fund,CLP,4,8514-6,http://www.cmfchile.cl
+2552,conceptual_asset,FONDO MUTUO SCOTIA OPTIMO,FFMM-SCOTIA-8079,mutual_fund,,4,8079-9,http://www.cmfchile.cl
+2553,conceptual_asset,FONDO MUTUO SCOTIA PATRIMONIO ACCIONES,FFMM-SCOTIA-8068,mutual_fund,,4,8068-3,http://www.cmfchile.cl
+2554,conceptual_asset,FONDO MUTUO SCOTIA PRIORIDAD,FFMM-SCOTIA-8255,mutual_fund,,4,8255-4,http://www.cmfchile.cl
+1891,conceptual_asset,FONDO MUTUO PRINCIPAL CARTERA AUDAZ,FFMM-PRINCIPAL-9593,mutual_fund,CLP,4,9593-1,http://www.cmfchile.cl
+1761,conceptual_asset,FONDO MUTUO CONSORCIO DINÁMICO AGRESIVO,FFMM-LARRAINVIAL-9428,mutual_fund,CLP,4,9428-5,http://www.cmfchile.cl
+1762,conceptual_asset,FONDO MUTUO CONSORCIO DINÁMICO BALANCEADO,FFMM-LARRAINVIAL-9429,mutual_fund,CLP,4,9429-3,http://www.cmfchile.cl
+1763,conceptual_asset,FONDO MUTUO CONSORCIO DINÁMICO CONSERVADOR,FFMM-LARRAINVIAL-9430,mutual_fund,CLP,4,9430-7,http://www.cmfchile.cl
+1764,conceptual_asset,FONDO MUTUO CONSORCIO DINÁMICO CRECIMIENTO,FFMM-LARRAINVIAL-9431,mutual_fund,CLP,4,9431-5,http://www.cmfchile.cl
+1765,conceptual_asset,FONDO MUTUO CONSORCIO DINÁMICO MODERADO,FFMM-LARRAINVIAL-9432,mutual_fund,CLP,4,9432-3,http://www.cmfchile.cl
+1889,conceptual_asset,FONDO MUTUO PRINCIPAL ASIA EQUITY,FFMM-PRINCIPAL-8438,mutual_fund,CLP,4,8438-7,http://www.cmfchile.cl
+1872,conceptual_asset,FONDO MUTUO LARRAINVIAL EUROPA,FFMM-LARRAINVIAL-9027,mutual_fund,USD,4,9027-1,http://www.cmfchile.cl
+1892,conceptual_asset,FONDO MUTUO PRINCIPAL CARTERA DEFENSIVA,FFMM-PRINCIPAL-9596,mutual_fund,CLP,4,9596-6,http://www.cmfchile.cl
+1575,conceptual_asset,QUEST GLOBAL DEBT FONDO DE INVERSIÓN,FINV-9503,investment_fund,,4,9503-6,http://www.cmfchile.cl
+1577,conceptual_asset,QUEST RENTA GLOBAL FONDO DE INVERSION,FINV-9274,investment_fund,,4,9274-6,http://www.cmfchile.cl
+1576,conceptual_asset,QUEST GLOBAL EQUITY FONDO DE INVERSIÓN,FINV-9504,investment_fund,,4,9504-4,http://www.cmfchile.cl
+1574,conceptual_asset,QUEST ACCIONES CHILE FONDO DE INVERSION,FINV-9152,investment_fund,,4,9152-9,http://www.cmfchile.cl
+1578,conceptual_asset,QUEST RENTA GLOBAL HEDGE FONDO DE INVERSIÓN,FINV-9336,investment_fund,,4,9336-k,http://www.cmfchile.cl
+2060,conceptual_asset,FONDO MUTUO BANCHILE US MID CAP,FFMM-BANCHILE-8189,mutual_fund,CLP,4,8189-2,http://www.cmfchile.cl
+2555,conceptual_asset,FONDO MUTUO SCOTIA PROGRESO,FFMM-SCOTIA-9156,mutual_fund,,4,9156-1,http://www.cmfchile.cl
+2556,conceptual_asset,FONDO MUTUO SCOTIA RETORNO,FFMM-SCOTIA-8073,mutual_fund,,4,8073-k,http://www.cmfchile.cl
+2557,conceptual_asset,FONDO MUTUO SCOTIA RETORNO (FUSIONADO RUN 8238),FFMM-SCOTIA-8281,mutual_fund,,4,8281-3,http://www.cmfchile.cl
+1922,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES ASIA EMERGENTE,FFMM-SANTANDER-8159,mutual_fund,CLP,4,8159-0,http://www.cmfchile.cl
+1927,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES LATINOAMÉRICA,FFMM-SANTANDER-8160,mutual_fund,CLP,4,8160-4,http://www.cmfchile.cl
+1925,conceptual_asset,FONDO MUTUO SANTANDER GO ACCIONES GLOBALES ESG,FFMM-SANTANDER-8090,mutual_fund,,4,8090-k,http://www.cmfchile.cl
+1939,conceptual_asset,FONDO MUTUO SANTANDER E,FFMM-SANTANDER-8387,mutual_fund,CLP,4,8387-9,http://www.cmfchile.cl
+1933,conceptual_asset,FONDO MUTUO SANTANDER B,FFMM-SANTANDER-8576,mutual_fund,CLP,4,8576-6,http://www.cmfchile.cl
+1931,conceptual_asset,FONDO MUTUO SANTANDER GO ACCIONES USA,FFMM-SANTANDER-8488,mutual_fund,CLP,4,8488-3,http://www.cmfchile.cl
+1940,conceptual_asset,FONDO MUTUO SANTANDER F,FFMM-SANTANDER-9405,mutual_fund,CLP,4,9405-6,http://www.cmfchile.cl
+1935,conceptual_asset,FONDO MUTUO SANTANDER D,FFMM-SANTANDER-8900,mutual_fund,CLP,4,8900-1,http://www.cmfchile.cl
+1920,conceptual_asset,FONDO MUTUO SANTANDER C,FFMM-SANTANDER-8578,mutual_fund,CLP,4,8578-2,http://www.cmfchile.cl
+1934,conceptual_asset,FONDO MUTUO SANTANDER BONOS NACIONALES,FFMM-SANTANDER-8287,mutual_fund,CLP,4,8287-2,http://www.cmfchile.cl
+1570,conceptual_asset,MONEDA RENTA FIJA INTERNACIONAL INVESTMENT GRADE,FINV-9268,investment_fund,,4,9268-1,http://www.cmfchile.cl
+2561,conceptual_asset,FONDO MUTUO SECURITY AMERICA 106 GARANTIZADO,FFMM-ADMINISTRADORA-8547,mutual_fund,,4,8547-2,http://www.cmfchile.cl
+1620,conceptual_asset,FONDO MUTUO BANCOESTADO ACCIONES NACIONALES,FFMM-BANCOESTADO-8536,mutual_fund,,4,8536-7,http://www.cmfchile.cl
+2061,conceptual_asset,FONDO MUTUO BANCHILE UTILIDADES,FFMM-BANCHILE-8127,mutual_fund,CLP,4,8127-2,http://www.cmfchile.cl
+1619,conceptual_asset,FONDO MUTUO BANCHILE-ACCIONES,FFMM-BANCHILE-8043,mutual_fund,,4,8043-8,http://www.cmfchile.cl
+1623,conceptual_asset,FONDO MUTUO BANCOESTADO BNP PARIBAS MAS RENTA BICENTENARIO,FFMM-BANCOESTADO-8807,mutual_fund,CLP,4,8807-2,http://www.cmfchile.cl
+2560,conceptual_asset,FONDO MUTUO SECOND BEST EUROPA CHINA GARANTIZADO,FFMM-BANCHILE-9002,mutual_fund,,4,9002-6,http://www.cmfchile.cl
+1621,conceptual_asset,FONDO MUTUO BANCOESTADO AHORRO CORTO PLAZO,FFMM-BANCOESTADO-9291,mutual_fund,CLP,4,9291-6,http://www.cmfchile.cl
+1742,conceptual_asset,FONDO MUTUO BTG PACTUAL RENTA LATINOAMERICANA INVESTMENT GRADE,FFMM-BTG-9449,mutual_fund,USD,4,9449-8,http://www.cmfchile.cl
+2240,conceptual_asset,FONDO MUTUO BTG PACTUAL RENTA ARGENTINA,FFMM-BTG-9541,mutual_fund,CLP,4,9541-9,http://www.cmfchile.cl
+1583,conceptual_asset,TOESCA GLOBAL EQUITIES FONDO DE INVERSIÓN,FINV-9498,investment_fund,,4,9498-6,http://www.cmfchile.cl
+1579,conceptual_asset,QUEST RENTA LOCAL FONDO DE INVERSIÓN,FINV-9153,investment_fund,,4,9153-7,http://www.cmfchile.cl
+2239,conceptual_asset,FONDO MUTUO BTG PACTUAL GESTION CONSERVADORA,FFMM-BTG-9116,mutual_fund,CLP,4,9116-2,http://www.cmfchile.cl
+1937,conceptual_asset,FONDO MUTUO SANTANDER DEUDA LATAM,FFMM-SANTANDER-8906,mutual_fund,CLP,4,8906-0,http://www.cmfchile.cl
+1743,conceptual_asset,FONDO MUTUO BTG PACTUAL RENTA LOCAL,FFMM-BTG-8897,mutual_fund,CLP,4,8897-8,http://www.cmfchile.cl
+1744,conceptual_asset,FONDO MUTUO BTG PACTUAL RENTA NOMINAL,FFMM-BTG-8358,mutual_fund,CLP,4,8358-5,http://www.cmfchile.cl
+1810,conceptual_asset,FONDO MUTUO ZURICH PERFIL MODERADO,FFMM-ZURICH-9577,mutual_fund,,4,9577-k,http://www.cmfchile.cl
+1581,conceptual_asset,SENSOR EQUITY TRADING FONDO DE INVERSION,FINV-9604,investment_fund,,4,9604-0,http://www.cmfchile.cl
+1811,conceptual_asset,FONDO MUTUO ZURICH PROYECCIÓN A,FFMM-ZURICH-8694,mutual_fund,CLP,4,8694-0,http://www.cmfchile.cl
+1812,conceptual_asset,FONDO MUTUO ZURICH PROYECCIÓN C,FFMM-ZURICH-8695,mutual_fund,CLP,4,8695-9,http://www.cmfchile.cl
+1582,conceptual_asset,TOESCA EMERGING MARKETS EQUITIES FONDO DE INVERSION,FINV-9499,investment_fund,,4,9499-4,http://www.cmfchile.cl
+2078,conceptual_asset,FONDO MUTUO ZURICH VALOR,FFMM-ZURICH-9426,mutual_fund,CLP,4,9426-9,http://www.cmfchile.cl
+2063,conceptual_asset,FONDO MUTUO ZURICH BURSÁTIL 90,FFMM-ZURICH-8395,mutual_fund,,4,8395-k,http://www.cmfchile.cl
+1842,conceptual_asset,FONDO MUTUO ITAU EMERGING EQUITIES,FFMM-ITAU-8379,mutual_fund,CLP,4,8379-8,http://www.cmfchile.cl
+1924,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES EUROPA,FFMM-SANTANDER-9254,mutual_fund,CLP,4,9254-1,http://www.cmfchile.cl
+1932,conceptual_asset,FONDO MUTUO SANTANDER AHORRO MEDIANO PLAZO,FFMM-SANTANDER-9222,mutual_fund,CLP,4,9222-3,http://www.cmfchile.cl
+1938,conceptual_asset,FONDO MUTUO SANTANDER DEUDA LATAM DOLAR,FFMM-SANTANDER-9352,mutual_fund,USD,4,9352-1,http://www.cmfchile.cl
+1942,conceptual_asset,FONDO MUTUO SANTANDER GESTIÓN ACTIVA EQUILIBRIO,FFMM-SANTANDER-9646,mutual_fund,CLP,4,9646-6,http://www.cmfchile.cl
+1941,conceptual_asset,FONDO MUTUO SANTANDER GESTIÓN ACTIVA AGRESIVA,FFMM-SANTANDER-9648,mutual_fund,CLP,4,9648-2,http://www.cmfchile.cl
+2562,conceptual_asset,FONDO MUTUO SECURITY LATINOAMERICANO,FFMM-ADMINISTRADORA-8524,mutual_fund,,4,8524-3,http://www.cmfchile.cl
+2563,conceptual_asset,FONDO MUTUO SECURITY 9,FFMM-ADMINISTRADORA-8523,mutual_fund,,4,8523-5,http://www.cmfchile.cl
+2564,conceptual_asset,FONDO MUTUO SECURITY ACCIONES,FFMM-ADMINISTRADORA-8069,mutual_fund,,4,8069-1,http://www.cmfchile.cl
+2565,conceptual_asset,FONDO MUTUO SECURITY ACCIONES MID – SMALL CHILE CHILE,FFMM-ADMINISTRADORA-8307,mutual_fund,,4,8307-0,http://www.cmfchile.cl
+2573,conceptual_asset,FONDO MUTUO SECURITY DEUDA LOCAL,FFMM-ADMINISTRADORA-8697,mutual_fund,,4,8697-5,http://www.cmfchile.cl
+2076,conceptual_asset,FONDO MUTUO ZURICH SELECT GLOBAL,FFMM-ZURICH-8621,mutual_fund,CLP,4,8621-5,http://www.cmfchile.cl
+1584,conceptual_asset,TOESCA GLOBAL YIELD FONDO DE INVERSION,FINV-9496,investment_fund,,4,9496-k,http://www.cmfchile.cl
+2559,conceptual_asset,FONDO MUTUO SECOND BEST CHILE EE.UU. GARANTIZADO,FFMM-BANCHILE-8963,mutual_fund,,4,8963-k,http://www.cmfchile.cl
+1580,conceptual_asset,SECURITY FIXED INCOME LATAM FONDO DE INVERSIÓN,FINV-7284,investment_fund,,4,7284-2,http://www.cmfchile.cl
+1624,conceptual_asset,FONDO MUTUO BANCOESTADO BNP PARIBAS RENTA EMERGENTE,FFMM-BANCOESTADO-8753,mutual_fund,,4,8753-k,http://www.cmfchile.cl
+1944,conceptual_asset,FONDO MUTUO SANTANDER GESTIÓN ACTIVA RETORNO,FFMM-SANTANDER-9647,mutual_fund,CLP,4,9647-4,http://www.cmfchile.cl
+2558,conceptual_asset,FONDO MUTUO SCOTIA VALORIZA,FFMM-SCOTIA-8110,mutual_fund,,4,8110-8,http://www.cmfchile.cl
+1974,conceptual_asset,FONDO MUTUO SCOTIA DISPONIBLE,FFMM-SCOTIA-8104,mutual_fund,CLP,4,8104-3,http://www.cmfchile.cl
+1978,conceptual_asset,FONDO MUTUO SCOTIA FUTURO,FFMM-SCOTIA-8105,mutual_fund,CLP,4,8105-1,http://www.cmfchile.cl
+1963,conceptual_asset,FONDO MUTUO SCOTIA PORTAFOLIO ARRIESGADO,FFMM-SCOTIA-8116,mutual_fund,CLP,4,8116-7,http://www.cmfchile.cl
+1973,conceptual_asset,FONDO MUTUO SCOTIA CORPORATIVO,FFMM-SCOTIA-8117,mutual_fund,CLP,4,8117-5,http://www.cmfchile.cl
+1986,conceptual_asset,FONDO MUTUO SCOTIA MILA,FFMM-SCOTIA-8858,mutual_fund,CLP,4,8858-7,http://www.cmfchile.cl
+1969,conceptual_asset,FONDO MUTUO SCOTIA DEUDA LATAM DOLAR,FFMM-SCOTIA-8244,mutual_fund,USD,4,8244-9,http://www.cmfchile.cl
+1977,conceptual_asset,FONDO MUTUO SCOTIA DEUDA MEDIANO PLAZO UF,FFMM-SCOTIA-8106,mutual_fund,,4,8106-k,http://www.cmfchile.cl
+2641,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO ESTRATEGIA DEUDA PLUS,FFMM-BCI-9727,mutual_fund,,4,9727-6,http://www.cmfchile.cl
+1626,conceptual_asset,FONDO MUTUO BANCOESTADO PERFIL A,FFMM-BANCOESTADO-8844,mutual_fund,CLP,4,8844-7,http://www.cmfchile.cl
+1625,conceptual_asset,FONDO MUTUO BANCOESTADO DOLAR DISPONIBLE,FFMM-BANCOESTADO-9104,mutual_fund,USD,4,9104-9,http://www.cmfchile.cl
+1906,conceptual_asset,FONDO MUTUO PRINCIPAL LIFETIME 2020,FFMM-PRINCIPAL-8251,mutual_fund,CLP,4,8251-1,http://www.cmfchile.cl
+1908,conceptual_asset,FONDO MUTUO PRINCIPAL LIFETIME 2040,FFMM-PRINCIPAL-8600,mutual_fund,CLP,4,8600-2,http://www.cmfchile.cl
+1913,conceptual_asset,FONDO MUTUO PRINCIPAL DEUDA INTERNACIONAL,FFMM-PRINCIPAL-8619,mutual_fund,CLP,4,8619-3,http://www.cmfchile.cl
+1929,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES RETAIL & CONSUMO CHILE,FFMM-SANTANDER-8074,mutual_fund,CLP,4,8074-8,http://www.cmfchile.cl
+2528,conceptual_asset,FONDO MUTUO SANTANDER RENTA SELECTA CHILE,FFMM-SANTANDER-8599,mutual_fund,CLP,4,8599-5,http://www.cmfchile.cl
+2491,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES BRASIL,FFMM-SANTANDER-8893,mutual_fund,CLP,4,8893-5,http://www.cmfchile.cl
+1994,conceptual_asset,FONDO MUTUO SCOTIA OPTIMO,FFMM-SCOTIA-8907,mutual_fund,CLP,4,8907-9,http://www.cmfchile.cl
+2001,conceptual_asset,FONDO MUTUO SCOTIA RETAIL DÓLAR,FFMM-SCOTIA-8367,mutual_fund,USD,4,8367-4,http://www.cmfchile.cl
+1995,conceptual_asset,FONDO MUTUO SCOTIA PERMANENCIA,FFMM-SCOTIA-8188,mutual_fund,CLP,4,8188-4,http://www.cmfchile.cl
+1594,conceptual_asset,BTG PACTUAL BRASIL SHORT DURATION BRL FONDO DE INVERSIÓN,FINV-9361,investment_fund,,4,9361-0,http://www.cmfchile.cl
+1907,conceptual_asset,FONDO MUTUO PRINCIPAL LIFETIME 2030,FFMM-PRINCIPAL-8252,mutual_fund,,4,8252-k,http://www.cmfchile.cl
+1987,conceptual_asset,FONDO MUTUO SCOTIA MIXTO,FFMM-SCOTIA-8392,mutual_fund,CLP,4,8392-5,http://www.cmfchile.cl
+1996,conceptual_asset,FONDO MUTUO SCOTIA LIQUIDEZ,FFMM-SCOTIA-8187,mutual_fund,CLP,4,8187-6,http://www.cmfchile.cl
+1984,conceptual_asset,FONDO MUTUO SCOTIA MERCADOS DESARROLLADOS,FFMM-SCOTIA-8885,mutual_fund,CLP,4,8885-4,http://www.cmfchile.cl
+1985,conceptual_asset,FONDO MUTUO SCOTIA ACCIONES SUSTENTABLES GLOBAL,FFMM-SCOTIA-8822,mutual_fund,CLP,4,8822-6,http://www.cmfchile.cl
+2004,conceptual_asset,FONDO MUTUO SCOTIA DEUDA CORTO PLAZO UF,FFMM-SCOTIA-8991,mutual_fund,CLP,4,8991-5,http://www.cmfchile.cl
+1592,conceptual_asset,AURUS GLOBAL FONDO DE INVERSION,FINV-9237,investment_fund,,4,9237-1,http://www.cmfchile.cl
+1585,conceptual_asset,TOESCA STRATEGIC INCOME FONDO DE INVERSION,FINV-9497,investment_fund,,4,9497-8,http://www.cmfchile.cl
+1593,conceptual_asset,AURUS INSIGNIA FONDO DE INVERSION,FINV-7249,investment_fund,,4,7249-4,http://www.cmfchile.cl
+1589,conceptual_asset,XLC DEUDA PRIVADA FONDO DE INVERSIÓN,FINV-9453,investment_fund,,4,9453-6,http://www.cmfchile.cl
+1998,conceptual_asset,FONDO MUTUO SCOTIA DEUDA CHILE FLEXIBLE,FFMM-SCOTIA-9021,mutual_fund,CLP,4,9021-2,http://www.cmfchile.cl
+2496,conceptual_asset,FONDO MUTUO SANTANDER AHORRO CORTO PLAZO,FFMM-SANTANDER-8988,mutual_fund,CLP,4,8988-5,http://www.cmfchile.cl
+1598,conceptual_asset,FONDO DE INVERSION ITAU ACTIVE ASSET ALLOCATION MODERATE,FINV-9316,investment_fund,,4,9316-5,http://www.cmfchile.cl
+2520,conceptual_asset,FONDO MUTUO SANTANDER OBJETIVO EUROPA 2017 I,FFMM-SANTANDER-9111,mutual_fund,CLP,4,9111-1,http://www.cmfchile.cl
+2052,conceptual_asset,FONDO MUTUO SURA SELECCION ACCIONES ASIA EMERGENTE,FFMM-ADMINISTRADORA-8980,mutual_fund,,4,8980-k,http://www.cmfchile.cl
+2048,conceptual_asset,FONDO MUTUO SURA RENTA DEPOSITO CHILE,FFMM-ADMINISTRADORA-8678,mutual_fund,CLP,4,8678-9,http://www.cmfchile.cl
+2056,conceptual_asset,FONDO MUTUO SURA SELECCION ACCIONES USA,FFMM-ADMINISTRADORA-8915,mutual_fund,,4,8915-k,http://www.cmfchile.cl
+2521,conceptual_asset,FONDO MUTUO SANTANDER OBJETIVO EUROPA 2017 II,FFMM-SANTANDER-9112,mutual_fund,,4,9112-k,http://www.cmfchile.cl
+2055,conceptual_asset,FONDO MUTUO SURA SELECCION ACCIONES LATAM,FFMM-ADMINISTRADORA-8684,mutual_fund,CLP,4,8684-3,http://www.cmfchile.cl
+2057,conceptual_asset,FONDO MUTUO SURA SELECCION GLOBAL,FFMM-ADMINISTRADORA-8707,mutual_fund,CLP,4,8707-6,http://www.cmfchile.cl
+2038,conceptual_asset,FONDO MUTUO SURA ESTRATEGIA CONSERVADORA,FFMM-ADMINISTRADORA-8773,mutual_fund,CLP,4,8773-4,http://www.cmfchile.cl
+2039,conceptual_asset,FONDO MUTUO SURA ESTRATEGIA EQUILIBRADA,FFMM-ADMINISTRADORA-8774,mutual_fund,CLP,4,8774-2,http://www.cmfchile.cl
+2037,conceptual_asset,FONDO MUTUO SURA ESTRATEGIA ACTIVA,FFMM-ADMINISTRADORA-8775,mutual_fund,CLP,4,8775-0,http://www.cmfchile.cl
+2049,conceptual_asset,FONDO MUTUO SURA RENTA INTERNACIONAL,FFMM-ADMINISTRADORA-8776,mutual_fund,CLP,4,8776-9,http://www.cmfchile.cl
+2034,conceptual_asset,FONDO MUTUO SURA ACCIONES ALIANZA PACIFICO,FFMM-ADMINISTRADORA-8859,mutual_fund,CLP,4,8859-5,http://www.cmfchile.cl
+2054,conceptual_asset,FONDO MUTUO SURA SELECCION ACCIONES EMERGENTES,FFMM-ADMINISTRADORA-8916,mutual_fund,CLP,4,8916-8,http://www.cmfchile.cl
+2050,conceptual_asset,FONDO MUTUO SURA RENTA LOCAL UF,FFMM-ADMINISTRADORA-9084,mutual_fund,CLP,4,9084-0,http://www.cmfchile.cl
+2047,conceptual_asset,FONDO MUTUO SURA RENTA CORTO PLAZO CHILE,FFMM-ADMINISTRADORA-9106,mutual_fund,CLP,4,9106-5,http://www.cmfchile.cl
+2051,conceptual_asset,FONDO MUTUO SURA RENTA NOMINAL CHILE,FFMM-ADMINISTRADORA-9145,mutual_fund,CLP,4,9145-6,http://www.cmfchile.cl
+1590,conceptual_asset,AMERIS DEUDA CORPORATIVA CHILE HIGH GRADE FONDO DE INVERSION,FINV-9281,investment_fund,,4,9281-9,http://www.cmfchile.cl
+1587,conceptual_asset,VISION ACONCAGUA FONDO DE INVERSIÓN,FINV-9195,investment_fund,,4,9195-2,http://www.cmfchile.cl
+1588,conceptual_asset,VISION PATAGONIA DEUDA LOCAL FONDO DE INVERSIÓN,FINV-9303,investment_fund,,4,9303-3,http://www.cmfchile.cl
+1591,conceptual_asset,AURUS CORE EXPOSURE USA FONDO DE INVERSION,FINV-9339,investment_fund,,4,9339-4,http://www.cmfchile.cl
+1597,conceptual_asset,COMPASS FYNSA DEUDA PLUS FONDO DE INVERSIÓN,FINV-9437,investment_fund,,4,9437-4,http://www.cmfchile.cl
+1615,conceptual_asset,FONDO MUTUO BANCHILE ALIANZA,FFMM-BANCHILE-8135,mutual_fund,CLP,4,8135-3,http://www.cmfchile.cl
+1965,conceptual_asset,FONDO MUTUO SCOTIA PORTAFOLIO CONSERVADOR,FFMM-SCOTIA-8886,mutual_fund,CLP,4,8886-2,http://www.cmfchile.cl
+1628,conceptual_asset,FONDO MUTUO BANCOESTADO PERFIL C,FFMM-BANCOESTADO-8845,mutual_fund,CLP,4,8845-5,http://www.cmfchile.cl
+1627,conceptual_asset,FONDO MUTUO BANCOESTADO PERFIL E,FFMM-BANCOESTADO-8846,mutual_fund,CLP,4,8846-3,http://www.cmfchile.cl
+1645,conceptual_asset,FONDO MUTUO BCI ESTRATEGIA PESOS HASTA 2 AÑOS,FFMM-BCI-8174,mutual_fund,CLP,4,8174-4,http://www.cmfchile.cl
+1982,conceptual_asset,FONDO MUTUO SCOTIA LIQUIDEZ DOLAR,FFMM-SCOTIA-8325,mutual_fund,USD,4,8325-9,http://www.cmfchile.cl
+1967,conceptual_asset,FONDO MUTUO SCOTIA ASIA,FFMM-SCOTIA-8481,mutual_fund,CLP,4,8481-6,http://www.cmfchile.cl
+1964,conceptual_asset,FONDO MUTUO SCOTIA PORTAFOLIO MODERADO,FFMM-SCOTIA-8741,mutual_fund,CLP,4,8741-6,http://www.cmfchile.cl
+1976,conceptual_asset,FONDO MUTUO SCOTIA ACCIONES EUROPA,FFMM-SCOTIA-8484,mutual_fund,CLP,4,8484-0,http://www.cmfchile.cl
+1595,conceptual_asset,BTG PACTUAL DEUDA TOTAL FONDO DE INVERSION,FINV-7138,investment_fund,,4,7138-2,http://www.cmfchile.cl
+1962,conceptual_asset,FONDO MUTUO SCOTIA PORTAFOLIO MAS ARRIESGADO,FFMM-SCOTIA-8740,mutual_fund,CLP,4,8740-8,http://www.cmfchile.cl
+1602,conceptual_asset,FONDO DE INVERSION PRINCIPAL DEUDA LOCAL,FINV-9451,investment_fund,,4,9451-k,http://www.cmfchile.cl
+1968,conceptual_asset,FONDO MUTUO SCOTIA BALANCEADO CONSERVADOR AMÉRICA,FFMM-SCOTIA-9079,mutual_fund,CLP,4,9079-4,http://www.cmfchile.cl
+1971,conceptual_asset,FONDO MUTUO SCOTIA MONEY MARKET,FFMM-SCOTIA-8049,mutual_fund,CLP,4,8049-7,http://www.cmfchile.cl
+1631,conceptual_asset,FONDO MUTUO BCI ACCIONES GLOBALES,FFMM-BCI-9372,mutual_fund,USD,4,9372-6,http://www.cmfchile.cl
+1980,conceptual_asset,FONDO MUTUO SCOTIA RENTA VARIABLE LATAM,FFMM-SCOTIA-8482,mutual_fund,CLP,4,8482-4,http://www.cmfchile.cl
+1596,conceptual_asset,COMPASS COLOMBIA FONDO DE INVERSION,FINV-9173,investment_fund,,4,9173-1,http://www.cmfchile.cl
+1600,conceptual_asset,FONDO DE INVERSION LYXOR MULTI STRATEGY FUND,FINV-9317,investment_fund,,4,9317-3,http://www.cmfchile.cl
+1599,conceptual_asset,FONDO DE INVERSION LARRAIN VIAL - BRAZIL SMALL CAP,FINV-7111,investment_fund,,4,7111-0,http://www.cmfchile.cl
+1601,conceptual_asset,FONDO DE INVERSION PENTA USA PROTEGIDO,FINV-9125,investment_fund,,4,9125-1,http://www.cmfchile.cl
+1612,conceptual_asset,VISION ATACAMA FONDO DE INVERSION,FINV-9161,investment_fund,,4,9161-8,http://www.cmfchile.cl
+1607,conceptual_asset,FONDO DE INVERSIÓN SARTOR EMERGING MARKETS DEBT,FINV-9439,investment_fund,,4,9439-0,http://www.cmfchile.cl
+2663,conceptual_asset,FONDO MUTUO BANCOESTADO MI FUTURO VERDE,FFMM-BANCOESTADO-9767,mutual_fund,,4,9767-5,http://www.cmfchile.cl
+1658,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO UF MÁS,FFMM-BCI-9632,mutual_fund,,4,9632-6,http://www.cmfchile.cl
+1653,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO 120 II,FFMM-BCI-9457,mutual_fund,,4,9457-9,http://www.cmfchile.cl
+2652,conceptual_asset,FONDO MUTUO ÍNDICE ACCIONES BRASIL,FFMM-ITAU-9757,mutual_fund,,4,9757-8,http://www.cmfchile.cl
+1654,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO AHORRO 7,FFMM-BCI-9675,mutual_fund,,4,9675-k,http://www.cmfchile.cl
+1655,conceptual_asset,FONDO MUTUO BCI ESTRUCTURADO AHORRO 7 II,FFMM-BCI-9699,mutual_fund,,4,9699-7,http://www.cmfchile.cl
+2700,conceptual_asset,FONDO MUTUO ÍNDICE BONOS BRASIL,FFMM-ITAU-9761,mutual_fund,,4,9761-6,http://www.cmfchile.cl
+2651,conceptual_asset,FONDO DE INVERSION HMC RENTA GLOBAL PESOS,FINV-9769,investment_fund,,4,9769-1,http://www.cmfchile.cl
+2667,conceptual_asset,FONDO MUTUO ITAU DINAMICO PLUS,FFMM-ITAU-9717,mutual_fund,CLP,4,9717-9,http://www.cmfchile.cl
+2649,conceptual_asset,VISION DEUDA GLOBAL FONDO DE INVERSION,FINV-9741,investment_fund,,4,9741-1,http://www.cmfchile.cl
+2653,conceptual_asset,FONDO MUTUO BANCOESTADO MI FUTURO CONSERVADOR,FFMM-BANCOESTADO-9766,mutual_fund,,4,9766-7,http://www.cmfchile.cl
+2655,conceptual_asset,FONDO MUTUO BANCOESTADO MI FUTURO MODERADO,FFMM-BANCOESTADO-9768,mutual_fund,,4,9768-3,http://www.cmfchile.cl
+2654,conceptual_asset,FONDO MUTUO BANCOESTADO MI FUTURO ACCESIBLE,FFMM-BANCOESTADO-9765,mutual_fund,CLP,4,9765-9,http://www.cmfchile.cl
+1737,conceptual_asset,FONDO MUTUO BTG PACTUAL RENTA A PLAZO,FFMM-BTG-8932,mutual_fund,CLP,4,8932-k,http://www.cmfchile.cl
+2665,conceptual_asset,FONDO MUTUO LARRAINVIAL ACCIONES BRASIL,FFMM-LARRAINVIAL-9748,mutual_fund,,4,9748-9,http://www.cmfchile.cl
+2664,conceptual_asset,FONDO DE INVERSIÓN VANTRUST CAPITAL ACCIONES NACIONALES,FINV-9773,investment_fund,,4,9773-k,http://www.cmfchile.cl
+1571,conceptual_asset,MONEDA RENTA VARIABLE EMERGENTE FONDO DE INVERSIÓN,FINV-9676,investment_fund,,4,9676-8,http://www.cmfchile.cl
+1572,conceptual_asset,MONEDA RENTA VARIABLE INTERNACIONAL FONDO DE INVERSION,FINV-9269,investment_fund,,4,9269-k,http://www.cmfchile.cl
+1573,conceptual_asset,MONEDA RENTA VARIABLE USA FONDO DE INVERSION,FINV-9270,investment_fund,,4,9270-3,http://www.cmfchile.cl
+2702,conceptual_asset,COMPASS DEUDA CHILENA USD FONDO DE INVERSION,FINV-9786,investment_fund,,4,9786-1,http://www.cmfchile.cl
+1780,conceptual_asset,FONDO MUTUO DEPÓSITO PLUS VIII,FFMM-BANCHILE-9630,mutual_fund,CLP,4,9630-k,http://www.cmfchile.cl
+1789,conceptual_asset,FONDO MUTUO BANCHILE ESTRATEGIA MODERADA,FFMM-BANCHILE-8525,mutual_fund,CLP,4,8525-1,http://www.cmfchile.cl
+1490,conceptual_asset,FONDO DE INVERSION ZURICH HIGH YIELD UF,FINV-7295,investment_fund,,4,7295-8,http://www.cmfchile.cl
+2666,conceptual_asset,FONDO DE INVERSIÓN ZURICH DESCUENTO,FINV-9403,investment_fund,,4,9403-k,http://www.cmfchile.cl
+1515,conceptual_asset,FONDO DE INVERSIÓN ZURICH DEUDA GLOBAL,FINV-9199,investment_fund,,4,9199-5,http://www.cmfchile.cl
+1516,conceptual_asset,FONDO DE INVERSIÓN ZURICH EQUITIES ARGENTINA,FINV-9460,investment_fund,,4,9460-9,http://www.cmfchile.cl
+1517,conceptual_asset,FONDO DE INVERSIÓN ZURICH GESTIÓN PATRIMONIAL C,FINV-9144,investment_fund,,4,9144-8,http://www.cmfchile.cl
+1518,conceptual_asset,FONDO DE INVERSIÓN ZURICH RENTA FIJA CHILE INDEX FUND,FINV-9476,investment_fund,,4,9476-5,http://www.cmfchile.cl
+1796,conceptual_asset,FONDO MUTUO ZURICH BALANCEADO GLOBAL PLUS,FFMM-ZURICH-9004,mutual_fund,,4,9004-2,http://www.cmfchile.cl
+1898,conceptual_asset,FONDO MUTUO PRINCIPAL EMERGING EUROPE EQUITY,FFMM-PRINCIPAL-8610,mutual_fund,,4,8610-k,http://www.cmfchile.cl
+1915,conceptual_asset,FONDO MUTUO PRINCIPAL VISION MONEY MARKET,FFMM-PRINCIPAL-8011,mutual_fund,,4,8011-k,http://www.cmfchile.cl
+1874,conceptual_asset,FONDO MUTUO LARRAINVIAL LATINOAMERICANO,FFMM-LARRAINVIAL-8705,mutual_fund,,4,8705-k,http://www.cmfchile.cl
+2701,conceptual_asset,FONDO DE INVERSIÓN NEVASA CLO INCOME,FINV-9756,investment_fund,,4,9756-k,http://www.cmfchile.cl
+2738,conceptual_asset,FONDO MUTUO MODERADO FOCUS,FFMM-SOYFOCUS-9809,mutual_fund,CLP,4,9809-4,http://www.cmfchile.cl
+2736,conceptual_asset,FONDO MUTUO CONSERVADOR FOCUS,FFMM-SOYFOCUS-9810,mutual_fund,,4,9810-8,http://www.cmfchile.cl
+1686,conceptual_asset,FONDO MUTUO BI MAS AHORRO,FFMM-BANCO-9692,mutual_fund,,4,9692-k,http://www.cmfchile.cl
+1684,conceptual_asset,FONDO MUTUO BI DINAMICO,FFMM-BANCO-9693,mutual_fund,,4,9693-8,http://www.cmfchile.cl
+2788,conceptual_asset,FONDO MUTUO BTG PACTUAL GESTIÓN AGRESIVA,FFMM-BTG-9873,mutual_fund,,4,9873-6,http://www.cmfchile.cl
+1687,conceptual_asset,FONDO MUTUO BI RENTA A PLAZO,FFMM-BANCO-9691,mutual_fund,,4,9691-1,http://www.cmfchile.cl
+2789,conceptual_asset,FONDO MUTUO BTG PACTUAL GESTIÓN CONSERVADORA,FFMM-BTG-9872,mutual_fund,,4,9872-8,http://www.cmfchile.cl
+1856,conceptual_asset,FONDO MUTUO LARRAINVIAL ACCIONES NACIONALES,FFMM-LARRAINVIAL-8872,mutual_fund,,4,8872-2,http://www.cmfchile.cl
+1936,conceptual_asset,FONDO MUTUO SANTANDER DEUDA DÓLAR,FFMM-SANTANDER-9490,mutual_fund,,4,9490-0,http://www.cmfchile.cl
+1830,conceptual_asset,FONDO MUTUO BANCHILE SELECCIÓN ACCIONES CHILENAS,FFMM-BANCHILE-8380,mutual_fund,,4,8380-1,http://www.cmfchile.cl
+1822,conceptual_asset,FONDO MUTUO FONDO ACTIVO 2025,FFMM-ADMINISTRADORA-9607,mutual_fund,,4,9607-5,http://www.cmfchile.cl
+1823,conceptual_asset,FONDO MUTUO FONDO ACTIVO 2035,FFMM-ADMINISTRADORA-9608,mutual_fund,,4,9608-3,http://www.cmfchile.cl
+2790,conceptual_asset,FONDO DE INVERSIÓN BANCHILE MARKETPLUS JAPÓN,FINV-9858,investment_fund,,4,9858-2,http://www.cmfchile.cl
+1824,conceptual_asset,FONDO MUTUO FONDO ACTIVO 2045,FFMM-ADMINISTRADORA-9609,mutual_fund,,4,9609-1,http://www.cmfchile.cl
+1825,conceptual_asset,FONDO MUTUO FONDO ACTIVO 2055,FFMM-ADMINISTRADORA-9610,mutual_fund,,4,9610-5,http://www.cmfchile.cl
+1858,conceptual_asset,FONDO MUTUO LARRAINVIAL AHORRO ARGENTINA,FFMM-LARRAINVIAL-9557,mutual_fund,,4,9557-5,http://www.cmfchile.cl
+2036,conceptual_asset,FONDO MUTUO SURA ACCIONES CHILE MID CAP,FFMM-ADMINISTRADORA-8679,mutual_fund,,4,8679-7,http://www.cmfchile.cl
+1685,conceptual_asset,FONDO MUTUO BI LIQUIDEZ,FFMM-BANCO-9690,mutual_fund,,4,9690-3,http://www.cmfchile.cl
+2643,conceptual_asset,Very Conservative Streep,FM-FIN-VMS,mutual_fund,CLP,4,9730-6,https://fintual.cl
+2015,conceptual_asset,FONDO MUTUO SECURITY EQUILIBRIO ESTRATEGICO,FFMM-ADMINISTRADORA-8336,mutual_fund,CLP,4,8336-4,http://www.cmfchile.cl
+2013,conceptual_asset,FONDO MUTUO SECURITY DOLAR MONEY MARKET,FFMM-ADMINISTRADORA-8384,mutual_fund,USD,4,8384-4,http://www.cmfchile.cl
+2644,conceptual_asset,FONDO MUTUO ESTRUCTURADO BONOS UF PLUS III,FFMM-BANCHILE-9733,mutual_fund,,4,9733-0,http://www.cmfchile.cl
+2019,conceptual_asset,FONDO MUTUO SECURITY GLOBAL,FFMM-ADMINISTRADORA-8294,mutual_fund,,4,8294-5,http://www.cmfchile.cl
+2022,conceptual_asset,FONDO MUTUO SECURITY INDEX FUND US,FFMM-ADMINISTRADORA-8987,mutual_fund,,4,8987-7,http://www.cmfchile.cl
+2030,conceptual_asset,FONDO MUTUO SECURITY RENTA VARIABLE INTERNACIONAL,FFMM-ADMINISTRADORA-9651,mutual_fund,,4,9651-2,http://www.cmfchile.cl
+2031,conceptual_asset,FONDO MUTUO SECURITY RETORNO ESTRATEGICO,FFMM-ADMINISTRADORA-8435,mutual_fund,CLP,4,8435-2,http://www.cmfchile.cl
+2164,conceptual_asset,FONDO MUTUO BCI ACCIONES PRESENCIA BURSATIL,FFMM-BCI-8176,mutual_fund,,4,8176-0,http://www.cmfchile.cl
+2035,conceptual_asset,FONDO MUTUO SURA ACCIONES CHILE CALIFICADO,FFMM-ADMINISTRADORA-8812,mutual_fund,,4,8812-9,http://www.cmfchile.cl
+2115,conceptual_asset,FONDO MUTUO BBVA ACCIONES INTERNACIONALES,FFMM-SCOTIA-8103,mutual_fund,,4,8103-5,http://www.cmfchile.cl
+1866,conceptual_asset,FONDO MUTUO LARRAINVIAL ENFOQUE,FFMM-LARRAINVIAL-8723,mutual_fund,,4,8723-8,http://www.cmfchile.cl
+2044,conceptual_asset,FONDO MUTUO SURA RENTA ALIANZA PACÍFICO EN LIQUIDACIÓN,FFMM-ADMINISTRADORA-9328,mutual_fund,,4,9328-9,http://www.cmfchile.cl
+1869,conceptual_asset,FONDO MUTUO LARRAINVIAL CUENTA ACTIVA CONSERVADORA,FFMM-LARRAINVIAL-9192,mutual_fund,,4,9192-8,http://www.cmfchile.cl
+2058,conceptual_asset,FONDO MUTUO TOESCA CHILE EQUITIES,FFMM-TOESCA-9414,mutual_fund,,4,9414-5,http://www.cmfchile.cl
+2082,conceptual_asset,FONDO MUTUO INVERSION,FFMM-BANCHILE-8015,mutual_fund,,4,8015-2,http://www.cmfchile.cl
+2089,conceptual_asset,FONDO MUTUO AMAZONAS,FFMM-BANCHILE-8668,mutual_fund,,4,8668-1,http://www.cmfchile.cl
+2079,conceptual_asset,FONDO DE INVERSIÓN BANCHILE DEUDA CORPORATIVA 3-5 AÑOS,FFMM-BANCHILE-9057,mutual_fund,,4,9057-3,http://www.cmfchile.cl
+2083,conceptual_asset,FONDO MUTUO AHORRO ACTIVO,FFMM-LARRAINVIAL-8726,mutual_fund,,4,8726-2,http://www.cmfchile.cl
+2080,conceptual_asset,FONDO DE INVERSIÓN BANCHILE EUROPE EQUITY,FFMM-BANCHILE-9030,mutual_fund,,4,9030-1,http://www.cmfchile.cl
+2081,conceptual_asset,FONDO DE INVERSIÓN BANCHILE USA EQUITY,FFMM-BANCHILE-9031,mutual_fund,,4,9031-k,http://www.cmfchile.cl
+2645,conceptual_asset,AMERIS DVA SILICON FUND FONDO DE INVERSION,FINV-9725,investment_fund,,4,9725-k,http://www.cmfchile.cl
+1916,conceptual_asset,FONDO MUTUO PROTECCION BANCOESTADO,FFMM-BANCOESTADO-8316,mutual_fund,CLP,4,8316-k,http://www.cmfchile.cl
+1491,conceptual_asset,FONDO DE INVERSION ZURICH ESG INVESTMENT GRADE LATAM,FINV-9367,investment_fund,,4,9367-k,http://www.cmfchile.cl
+2111,conceptual_asset,FONDO MUTUO BANDESARROLLO PARTICIPACION,FFMM-BANDESARROLLO-8186,mutual_fund,,4,8186-8,http://www.cmfchile.cl
+2112,conceptual_asset,FONDO MUTUO BANEDWARDS U.S. BOND FUND,FFMM-BANEDWARDS-8199,mutual_fund,,4,8199-k,http://www.cmfchile.cl
+2114,conceptual_asset,FONDO MUTUO BBVA 108,FFMM-SCOTIA-8563,mutual_fund,,4,8563-4,http://www.cmfchile.cl
+2113,conceptual_asset,FONDO MUTUO BBVA ALZA,FFMM-SCOTIA-8584,mutual_fund,,4,8584-7,http://www.cmfchile.cl
+2116,conceptual_asset,FONDO MUTUO BBVA BHIF ACCIONES ASIATICAS,FFMM-SCOTIA-8168,mutual_fund,,4,8168-k,http://www.cmfchile.cl
+2119,conceptual_asset,FONDO MUTUO BBVA BRASIL,FFMM-SCOTIA-8850,mutual_fund,,4,8850-1,http://www.cmfchile.cl
+2117,conceptual_asset,FONDO MUTUO BBVA BHIF ACCIONES EUROPEAS,FFMM-SCOTIA-8167,mutual_fund,,4,8167-1,http://www.cmfchile.cl
+2120,conceptual_asset,FONDO MUTUO BBVA CHILE 100,FFMM-SCOTIA-8688,mutual_fund,,4,8688-6,http://www.cmfchile.cl
+2123,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO 100,FFMM-SCOTIA-8329,mutual_fund,,4,8329-1,http://www.cmfchile.cl
+2124,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO 108,FFMM-SCOTIA-8364,mutual_fund,,4,8364-k,http://www.cmfchile.cl
+2125,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO ALZA,FFMM-SCOTIA-8402,mutual_fund,,4,8402-6,http://www.cmfchile.cl
+2121,conceptual_asset,FONDO MUTUO BBVA EURO RENTA,FFMM-SCOTIA-8276,mutual_fund,,4,8276-7,http://www.cmfchile.cl
+2122,conceptual_asset,FONDO MUTUO BBVA EURO RENTA,FFMM-SCOTIA-8739,mutual_fund,,4,8739-4,http://www.cmfchile.cl
+2118,conceptual_asset,FONDO MUTUO BBVA BONOS INTERNACIONALES,FFMM-SCOTIA-8132,mutual_fund,,4,8132-9,http://www.cmfchile.cl
+2128,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO PANDA II,FFMM-SCOTIA-8624,mutual_fund,,4,8624-k,http://www.cmfchile.cl
+2129,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO PLAN RENTAS 2012,FFMM-SCOTIA-8743,mutual_fund,,4,8743-2,http://www.cmfchile.cl
+2130,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO PLAN RENTAS 2012 II,FFMM-SCOTIA-8764,mutual_fund,,4,8764-5,http://www.cmfchile.cl
+2131,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO PLAN RENTAS 2013,FFMM-SCOTIA-8769,mutual_fund,,4,8769-6,http://www.cmfchile.cl
+2132,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO PLAN RENTAS 2013 II,FFMM-SCOTIA-8778,mutual_fund,,4,8778-5,http://www.cmfchile.cl
+2133,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO PLAN RENTAS 2013 IV,FFMM-SCOTIA-8816,mutual_fund,,4,8816-1,http://www.cmfchile.cl
+2134,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO SAMURAI,FFMM-SCOTIA-8429,mutual_fund,,4,8429-8,http://www.cmfchile.cl
+2136,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO SELECCION CONSUMO II,FFMM-SCOTIA-8922,mutual_fund,,4,8922-2,http://www.cmfchile.cl
+2137,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO SELECCION TECNOLOGIA,FFMM-SCOTIA-8943,mutual_fund,,4,8943-5,http://www.cmfchile.cl
+2139,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO TOP MARKETS 10,FFMM-SCOTIA-8465,mutual_fund,,4,8465-4,http://www.cmfchile.cl
+2140,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO TOP MARKETS II,FFMM-SCOTIA-8573,mutual_fund,,4,8573-1,http://www.cmfchile.cl
+2141,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO TOP PACIFICO 10,FFMM-SCOTIA-8489,mutual_fund,,4,8489-1,http://www.cmfchile.cl
+2142,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO TRIPLE ÓPTIMO,FFMM-SCOTIA-8518,mutual_fund,,4,8518-9,http://www.cmfchile.cl
+2143,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO ULTRA DEPÓSITO,FFMM-SCOTIA-8551,mutual_fund,,4,8551-0,http://www.cmfchile.cl
+2145,conceptual_asset,FONDO MUTUO BBVA MONETARIO II,FFMM-SCOTIA-8815,mutual_fund,,4,8815-3,http://www.cmfchile.cl
+2146,conceptual_asset,FONDO MUTUO BBVA MONETARIO III,FFMM-SCOTIA-8837,mutual_fund,,4,8837-4,http://www.cmfchile.cl
+2148,conceptual_asset,FONDO MUTUO BBVA MONETARIO IX,FFMM-SCOTIA-8892,mutual_fund,,4,8892-7,http://www.cmfchile.cl
+2147,conceptual_asset,FONDO MUTUO BBVA MONETARIO IV,FFMM-SCOTIA-8808,mutual_fund,,4,8808-0,http://www.cmfchile.cl
+2149,conceptual_asset,FONDO MUTUO BBVA MONETARIO V,FFMM-SCOTIA-8875,mutual_fund,,4,8875-7,http://www.cmfchile.cl
+2150,conceptual_asset,FONDO MUTUO BBVA MONETARIO VI,FFMM-SCOTIA-8876,mutual_fund,,4,8876-5,http://www.cmfchile.cl
+2126,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO CHILE 100,FFMM-SCOTIA-8378,mutual_fund,,4,8378-k,http://www.cmfchile.cl
+2127,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO PANDA,FFMM-SCOTIA-8505,mutual_fund,,4,8505-7,http://www.cmfchile.cl
+2138,conceptual_asset,FONDO MUTUO BBVA GARANTIZADO SIEMPRE GANAS,FFMM-SCOTIA-8626,mutual_fund,,4,8626-6,http://www.cmfchile.cl
+2160,conceptual_asset,FONDO MUTUO BBVA RENTA MIXTA 30,FFMM-SCOTIA-8144,mutual_fund,,4,8144-2,http://www.cmfchile.cl
+2161,conceptual_asset,FONDO MUTUO BBVA RENTA MIXTA 70,FFMM-SCOTIA-8145,mutual_fund,,4,8145-0,http://www.cmfchile.cl
+2162,conceptual_asset,FONDO MUTUO BCI ACCIONES EMERGENTES,FFMM-BCI-8051,mutual_fund,,4,8051-9,http://www.cmfchile.cl
+2163,conceptual_asset,FONDO MUTUO BCI ACCIONES NACIONALES GARANTIZADO,FFMM-BCI-8974,mutual_fund,,4,8974-5,http://www.cmfchile.cl
+2151,conceptual_asset,FONDO MUTUO BBVA MONETARIO VII,FFMM-SCOTIA-8878,mutual_fund,,4,8878-1,http://www.cmfchile.cl
+2152,conceptual_asset,FONDO MUTUO BBVA MONETARIO VIII,FFMM-SCOTIA-8889,mutual_fund,,4,8889-7,http://www.cmfchile.cl
+2153,conceptual_asset,FONDO MUTUO BBVA MONETARIO X,FFMM-SCOTIA-8899,mutual_fund,,4,8899-4,http://www.cmfchile.cl
+2154,conceptual_asset,FONDO MUTUO BBVA MONETARIO XIII,FFMM-SCOTIA-8978,mutual_fund,,4,8978-8,http://www.cmfchile.cl
+2155,conceptual_asset,FONDO MUTUO BBVA MONETARIO XIV,FFMM-SCOTIA-8990,mutual_fund,,4,8990-7,http://www.cmfchile.cl
+2156,conceptual_asset,FONDO MUTUO BBVA MONETARIO XV,FFMM-SCOTIA-8962,mutual_fund,,4,8962-1,http://www.cmfchile.cl
+2157,conceptual_asset,FONDO MUTUO BBVA MONETARIO XVI,FFMM-SCOTIA-8977,mutual_fund,,4,8977-k,http://www.cmfchile.cl
+2158,conceptual_asset,FONDO MUTUO BBVA PAISES DESARROLLADOS,FFMM-SCOTIA-8565,mutual_fund,,4,8565-0,http://www.cmfchile.cl
+2159,conceptual_asset,FONDO MUTUO BBVA PAISES EMERGENTES,FFMM-SCOTIA-8566,mutual_fund,,4,8566-9,http://www.cmfchile.cl
+2168,conceptual_asset,FONDO MUTUO BCI CAPITAL TRUST CHILE,FFMM-BCI-8527,mutual_fund,,4,8527-8,http://www.cmfchile.cl
+2169,conceptual_asset,FONDO MUTUO BCI CAPITAL TRUST IMPERIAL 100,FFMM-BCI-8371,mutual_fund,,4,8371-2,http://www.cmfchile.cl
+2175,conceptual_asset,FONDO MUTUO BCI DEUDA EMERGENTE,FFMM-BCI-8328,mutual_fund,,4,8328-3,http://www.cmfchile.cl
+2170,conceptual_asset,FONDO MUTUO BCI CAPITAL TRUST MAGNO,FFMM-BCI-8477,mutual_fund,,4,8477-8,http://www.cmfchile.cl
+2172,conceptual_asset,FONDO MUTUO BCI CAPITAL TRUST MEGAPAÍSES,FFMM-BCI-8466,mutual_fund,,4,8466-2,http://www.cmfchile.cl
+2173,conceptual_asset,FONDO MUTUO BCI CAPITAL TRUST ÓPTIMO,FFMM-BCI-8528,mutual_fund,,4,8528-6,http://www.cmfchile.cl
+2174,conceptual_asset,FONDO MUTUO BCI DEPOSITO DOLAR,FFMM-BCI-8256,mutual_fund,,4,8256-2,http://www.cmfchile.cl
+2176,conceptual_asset,FONDO MUTUO BCI ENERGÍA Y RECURSOS NATURALES,FFMM-BCI-8703,mutual_fund,,4,8703-3,http://www.cmfchile.cl
+2177,conceptual_asset,FONDO MUTUO BCI ESTRATEGIA L/S GARANTIZADO,FFMM-BCI-8724,mutual_fund,,4,8724-6,http://www.cmfchile.cl
+2194,conceptual_asset,FONDO MUTUO BCI LIQUIDEZ,FFMM-BCI-8981,mutual_fund,,4,8981-8,http://www.cmfchile.cl
+2195,conceptual_asset,FONDO MUTUO BCI LIQUIDEZ II,FFMM-BCI-9020,mutual_fund,,4,9020-4,http://www.cmfchile.cl
+2185,conceptual_asset,FONDO MUTUO BCI GARANTIZADO DEPOSITO 107,FFMM-BCI-8914,mutual_fund,,4,8914-1,http://www.cmfchile.cl
+2186,conceptual_asset,FONDO MUTUO BCI GARANTIZADO DEPOSITO 107 II,FFMM-BCI-9009,mutual_fund,,4,9009-3,http://www.cmfchile.cl
+2188,conceptual_asset,FONDO MUTUO BCI GARANTIZADO DEPOSITO 108,FFMM-BCI-8887,mutual_fund,,4,8887-0,http://www.cmfchile.cl
+2189,conceptual_asset,FONDO MUTUO BCI GARANTIZADO DEPOSITO 108 II,FFMM-BCI-8930,mutual_fund,,4,8930-3,http://www.cmfchile.cl
+2191,conceptual_asset,FONDO MUTUO BCI GUARANTEE YIELD DÓLAR,FFMM-BCI-8370,mutual_fund,,4,8370-4,http://www.cmfchile.cl
+2192,conceptual_asset,FONDO MUTUO BCI GUARANTEE YIELD DÓLAR 112,FFMM-BCI-8396,mutual_fund,,4,8396-8,http://www.cmfchile.cl
+2193,conceptual_asset,FONDO MUTUO BCI IMPERIAL II,FFMM-BCI-8535,mutual_fund,,4,8535-9,http://www.cmfchile.cl
+2196,conceptual_asset,FONDO MUTUO BCI LIQUIDEZ III,FFMM-BCI-9040,mutual_fund,,4,9040-9,http://www.cmfchile.cl
+2197,conceptual_asset,FONDO MUTUO BCI LONG/SHORT ASIA GARANTIZADO,FFMM-BCI-8770,mutual_fund,,4,8770-k,http://www.cmfchile.cl
+2198,conceptual_asset,FONDO MUTUO BCI LONG/SHORT COMMODITIES,FFMM-BCI-8709,mutual_fund,,4,8709-2,http://www.cmfchile.cl
+2199,conceptual_asset,FONDO MUTUO BCI MERCADOS DESARROLLADOS,FFMM-BCI-8112,mutual_fund,,4,8112-4,http://www.cmfchile.cl
+2201,conceptual_asset,FONDO MUTUO BCI PORTAFOLIO MIXTO-25,FFMM-BCI-8148,mutual_fund,,4,8148-5,http://www.cmfchile.cl
+2202,conceptual_asset,FONDO MUTUO BCI SECTOR FARMACEUTICO Y BIOTECNOLOGIA,FFMM-BCI-8175,mutual_fund,,4,8175-2,http://www.cmfchile.cl
+2183,conceptual_asset,FONDO MUTUO BCI FRONTERA,FFMM-BCI-8139,mutual_fund,,4,8139-6,http://www.cmfchile.cl
+2184,conceptual_asset,FONDO MUTUO BCI GARANTIZADO AMAZONA,FFMM-BCI-8642,mutual_fund,,4,8642-8,http://www.cmfchile.cl
+2187,conceptual_asset,FONDO MUTUO BCI GARANTIZADO DEPOSITO 107 III,FFMM-BCI-9035,mutual_fund,,4,9035-2,http://www.cmfchile.cl
+2207,conceptual_asset,FONDO MUTUO BICE BELO HORIZONTE GARANTIZADO,FFMM-BICE-8636,mutual_fund,,4,8636-3,http://www.cmfchile.cl
+2206,conceptual_asset,FONDO MUTUO BCI TECNOLOGIA GLOBAL,FFMM-BCI-8147,mutual_fund,,4,8147-7,http://www.cmfchile.cl
+2208,conceptual_asset,FONDO MUTUO BICE BONOS LATAM,FFMM-BICE-8190,mutual_fund,,4,8190-6,http://www.cmfchile.cl
+2204,conceptual_asset,FONDO MUTUO BCI SMALL & MID CAP LATAM,FFMM-BCI-8968,mutual_fund,,4,8968-0,http://www.cmfchile.cl
+2205,conceptual_asset,FONDO MUTUO BCI SOLIDEZ,FFMM-BCI-8149,mutual_fund,,4,8149-3,http://www.cmfchile.cl
+2610,conceptual_asset,FONDO MUTUO SURA ACCIONES RECURSOS NATURALES,FFMM-ADMINISTRADORA-8955,mutual_fund,,4,8955-9,http://www.cmfchile.cl
+2615,conceptual_asset,FONDO MUTUO TOESCA MONEY MARKET,FFMM-TOESCA-9421,mutual_fund,,4,9421-8,http://www.cmfchile.cl
+2616,conceptual_asset,FONDO MUTUO TOESCA RENTA ACTIVA,FFMM-TOESCA-9422,mutual_fund,,4,9422-6,http://www.cmfchile.cl
+2233,conceptual_asset,FONDO MUTUO BRAZIL,FFMM-CONSORCIO-8538,mutual_fund,,4,8538-3,http://www.cmfchile.cl
+2236,conceptual_asset,FONDO MUTUO BRZ BRAZILIAN EQUITIES,FFMM-HMC-8939,mutual_fund,,4,8939-7,http://www.cmfchile.cl
+2215,conceptual_asset,FONDO MUTUO BOOSTER ACCIONES ESTADOS UNIDOS,FFMM-BANCHILE-9285,mutual_fund,,4,9285-1,http://www.cmfchile.cl
+2259,conceptual_asset,FONDO MUTUO COMPASS MEXICAN EQUITY,FFMM-COMPASS-9097,mutual_fund,,4,9097-2,http://www.cmfchile.cl
+2260,conceptual_asset,FONDO MUTUO COMPASS SMALL CAP LATAM,FFMM-COMPASS-9096,mutual_fund,,4,9096-4,http://www.cmfchile.cl
+2628,conceptual_asset,FONDO MUTUO VISION BONOS GLOBALES,FFMM-ADMINISTRADORA-9335,mutual_fund,,4,9335-1,http://www.cmfchile.cl
+2268,conceptual_asset,FONDO MUTUO CORP CAPITAL BALANCEADO,FFMM-CORPBANCA-8591,mutual_fund,,4,8591-k,http://www.cmfchile.cl
+2269,conceptual_asset,FONDO MUTUO CORP CAPITAL MODERADO,FFMM-CORPBANCA-8602,mutual_fund,,4,8602-9,http://www.cmfchile.cl
+2266,conceptual_asset,FONDO MUTUO CORP BIOTECH,FFMM-CORPBANCA-8232,mutual_fund,,4,8232-5,http://www.cmfchile.cl
+2267,conceptual_asset,FONDO MUTUO CORP CAPITAL ALTO CRECIMIENTO,FFMM-CORPBANCA-8592,mutual_fund,,4,8592-8,http://www.cmfchile.cl
+2270,conceptual_asset,FONDO MUTUO CORP COMMODITIES,FFMM-CORPBANCA-8163,mutual_fund,,4,8163-9,http://www.cmfchile.cl
+2271,conceptual_asset,FONDO MUTUO CORP CUSTODIA,FFMM-CORPBANCA-8856,mutual_fund,,4,8856-0,http://www.cmfchile.cl
+2272,conceptual_asset,FONDO MUTUO CORP DOLAR,FFMM-CORPBANCA-8243,mutual_fund,,4,8243-0,http://www.cmfchile.cl
+2264,conceptual_asset,FONDO MUTUO CORP AHORRO INTERNACIONAL,FFMM-CORPBANCA-8123,mutual_fund,,4,8123-k,http://www.cmfchile.cl
+2265,conceptual_asset,FONDO MUTUO CORP ASIA PACIFICO,FFMM-CORPBANCA-8768,mutual_fund,,4,8768-8,http://www.cmfchile.cl
+2276,conceptual_asset,FONDO MUTUO CORP GLOBAL MARKETS,FFMM-CORPBANCA-8140,mutual_fund,,4,8140-k,http://www.cmfchile.cl
+2288,conceptual_asset,FONDO MUTUO CREDICORP CAPITAL US ALPHA +,FFMM-CREDICORP-9055,mutual_fund,,4,9055-7,http://www.cmfchile.cl
+2278,conceptual_asset,FONDO MUTUO CORP INVESTMENT A,FFMM-CORPBANCA-8390,mutual_fund,,4,8390-9,http://www.cmfchile.cl
+2283,conceptual_asset,FONDO MUTUO CORP MAS VALOR,FFMM-CORPBANCA-8155,mutual_fund,,4,8155-8,http://www.cmfchile.cl
+2284,conceptual_asset,FONDO MUTUO CORP SELECTO,FFMM-CORPBANCA-8109,mutual_fund,,4,8109-4,http://www.cmfchile.cl
+2280,conceptual_asset,FONDO MUTUO CORP INVESTMENT D,FFMM-CORPBANCA-8389,mutual_fund,,4,8389-5,http://www.cmfchile.cl
+2282,conceptual_asset,FONDO MUTUO CORP MAS INGRESO,FFMM-CORPBANCA-8091,mutual_fund,,4,8091-8,http://www.cmfchile.cl
+2285,conceptual_asset,FONDO MUTUO CORP TECHNOCOM,FFMM-CORPBANCA-8164,mutual_fund,,4,8164-7,http://www.cmfchile.cl
+2279,conceptual_asset,FONDO MUTUO CORP INVESTMENT C,FFMM-CORPBANCA-8597,mutual_fund,,4,8597-9,http://www.cmfchile.cl
+2281,conceptual_asset,FONDO MUTUO CORP MAS INGRESO,FFMM-CORPBANCA-8284,mutual_fund,,4,8284-8,http://www.cmfchile.cl
+2331,conceptual_asset,FONDO MUTUO GARANTIZADO BBVA CHILE +,FFMM-SCOTIA-8508,mutual_fund,,4,8508-1,http://www.cmfchile.cl
+2334,conceptual_asset,FONDO MUTUO GLOBAL DEPOSIT,FFMM-CONSORCIO-8326,mutual_fund,,4,8326-7,http://www.cmfchile.cl
+2338,conceptual_asset,FONDO MUTUO IM TRUST ACCIONES,FFMM-CREDICORP-8507,mutual_fund,,4,8507-3,http://www.cmfchile.cl
+2337,conceptual_asset,FONDO MUTUO IM TRUST ACCIONES,FFMM-CREDICORP-8440,mutual_fund,,4,8440-9,http://www.cmfchile.cl
+2343,conceptual_asset,FONDO MUTUO IM TRUST ACCIONES INDICE CHILE,FFMM-CREDICORP-8398,mutual_fund,,4,8398-4,http://www.cmfchile.cl
+2339,conceptual_asset,FONDO MUTUO IM TRUST ACCIONES EMERGENTES,FFMM-CREDICORP-8847,mutual_fund,,4,8847-1,http://www.cmfchile.cl
+2341,conceptual_asset,FONDO MUTUO IM TRUST ACCIONES ESTRATEGICAS COLOMBIA,FFMM-CREDICORP-8560,mutual_fund,,4,8560-k,http://www.cmfchile.cl
+2342,conceptual_asset,FONDO MUTUO IM TRUST ACCIONES ESTRATEGICAS PERU,FFMM-CREDICORP-8561,mutual_fund,,4,8561-8,http://www.cmfchile.cl
+2344,conceptual_asset,FONDO MUTUO IM TRUST DEUDA SOBERANA MULTIMONEDA,FFMM-CREDICORP-8894,mutual_fund,,4,8894-3,http://www.cmfchile.cl
+2346,conceptual_asset,FONDO MUTUO ING FUTURO 2013,FFMM-ADMINISTRADORA-8680,mutual_fund,,4,8680-0,http://www.cmfchile.cl
+2340,conceptual_asset,FONDO MUTUO IM TRUST ACCIONES ESTRATEGICAS,FFMM-CREDICORP-8397,mutual_fund,,4,8397-6,http://www.cmfchile.cl
+2347,conceptual_asset,FONDO MUTUO ING FUTURO 2020,FFMM-ADMINISTRADORA-8682,mutual_fund,,4,8682-7,http://www.cmfchile.cl
+2348,conceptual_asset,FONDO MUTUO ING FUTURO 2030,FFMM-ADMINISTRADORA-8683,mutual_fund,,4,8683-5,http://www.cmfchile.cl
+2349,conceptual_asset,FONDO MUTUO ING FUTURO 2040,FFMM-ADMINISTRADORA-8677,mutual_fund,,4,8677-0,http://www.cmfchile.cl
+2357,conceptual_asset,FONDO MUTUO INVESTIS EUROPE,FFMM-CONSORCIO-8197,mutual_fund,,4,8197-3,http://www.cmfchile.cl
+2358,conceptual_asset,FONDO MUTUO INVESTIS LATIN EQUITY,FFMM-CONSORCIO-8194,mutual_fund,,4,8194-9,http://www.cmfchile.cl
+2359,conceptual_asset,FONDO MUTUO INVESTIS USA,FFMM-CONSORCIO-8196,mutual_fund,,4,8196-5,http://www.cmfchile.cl
+2352,conceptual_asset,FONDO MUTUO INVERLINK PROFIT,FFMM-INVERLINK-8182,mutual_fund,,4,8182-5,http://www.cmfchile.cl
+2353,conceptual_asset,FONDO MUTUO INVERLINK QUALITAS,FFMM-INVERLINK-8181,mutual_fund,,4,8181-7,http://www.cmfchile.cl
+2360,conceptual_asset,FONDO MUTUO INVESTIS XTRA INCOME,FFMM-CONSORCIO-8169,mutual_fund,,4,8169-8,http://www.cmfchile.cl
+1909,conceptual_asset,FONDO MUTUO PRINCIPAL LIFETIME 2050,FFMM-PRINCIPAL-9687,mutual_fund,CLP,4,9687-3,http://www.cmfchile.cl
+2635,conceptual_asset,FONDO MUTUO ZURICH AHORRO TOTAL,FFMM-ZURICH-8394,mutual_fund,,4,8394-1,http://www.cmfchile.cl
+2636,conceptual_asset,FONDO MUTUO ZURICH RENTABILIDAD 80 GLOBAL,FFMM-ZURICH-8772,mutual_fund,,4,8772-6,http://www.cmfchile.cl
+2637,conceptual_asset,FONDO MUTUO ZURICH USA,FFMM-ZURICH-9045,mutual_fund,,4,9045-k,http://www.cmfchile.cl
+2638,conceptual_asset,FONDO MUTUO ZURICH USA,FFMM-ZURICH-8349,mutual_fund,,4,8349-6,http://www.cmfchile.cl
+2639,conceptual_asset,IM TRUST ACCIONES INDICE MEXICO,FFMM-CREDICORP-8562,mutual_fund,,4,8562-6,http://www.cmfchile.cl
+1910,conceptual_asset,FONDO MUTUO PRINCIPAL LIFETIME 2060,FFMM-PRINCIPAL-9688,mutual_fund,CLP,4,9688-1,http://www.cmfchile.cl
+1557,conceptual_asset,MBI DEUDA LATAM FONDO DE INVERSION,FINV-9302,investment_fund,,4,9302-5,http://www.cmfchile.cl
+1562,conceptual_asset,MBI PERU FONDO DE INVERSION,FINV-9385,investment_fund,,4,9385-8,http://www.cmfchile.cl
+1558,conceptual_asset,MBI DEUDA PLUS FONDO DE INVERSION,FINV-9077,investment_fund,,4,9077-8,http://www.cmfchile.cl
+1560,conceptual_asset,MBI GLOBAL FONDO DE INVERSION,FINV-7171,investment_fund,,4,7171-4,http://www.cmfchile.cl
+2647,conceptual_asset,FONDO DE INVERSION EXODUS CHILE,FINV-9716,investment_fund,,4,9716-0,http://www.cmfchile.cl
+2440,conceptual_asset,FONDO MUTUO LEGG MASON MONETARIO,FFMM-BANEDWARDS-8040,mutual_fund,,4,8040-3,http://www.cmfchile.cl
+2444,conceptual_asset,FONDO MUTUO MEXICO,FFMM-CONSORCIO-8539,mutual_fund,,4,8539-1,http://www.cmfchile.cl
+2446,conceptual_asset,FONDO MUTUO MONEDA CONFIANZA,FFMM-CRUZ-8259,mutual_fund,,4,8259-7,http://www.cmfchile.cl
+2447,conceptual_asset,FONDO MUTUO MONEDA FONDO A,FFMM-CRUZ-8296,mutual_fund,,4,8296-1,http://www.cmfchile.cl
+2448,conceptual_asset,FONDO MUTUO MONEDA FONDO B,FFMM-CRUZ-8297,mutual_fund,,4,8297-k,http://www.cmfchile.cl
+2459,conceptual_asset,FONDO MUTUO PENTA ASIA,FFMM-PENTA-8424,mutual_fund,,4,8424-7,http://www.cmfchile.cl
+2460,conceptual_asset,FONDO MUTUO PENTA BALANCEADO CRECIMIENTO,FFMM-PENTA-8310,mutual_fund,,4,8310-0,http://www.cmfchile.cl
+2462,conceptual_asset,FONDO MUTUO PENTA DEUDA INDEXADA LOCAL,FFMM-PENTA-8343,mutual_fund,,4,8343-7,http://www.cmfchile.cl
+2461,conceptual_asset,FONDO MUTUO PENTA BALANCEADO MODERADO,FFMM-PENTA-8649,mutual_fund,,4,8649-5,http://www.cmfchile.cl
+2463,conceptual_asset,FONDO MUTUO PENTA DOLLAR BOND,FFMM-PENTA-8322,mutual_fund,,4,8322-4,http://www.cmfchile.cl
+2458,conceptual_asset,FONDO MUTUO PENTA ACCIONES INTERNACIONALES,FFMM-PENTA-8423,mutual_fund,,4,8423-9,http://www.cmfchile.cl
+2464,conceptual_asset,FONDO MUTUO PENTA EVOLUCIÓN CHILE,FFMM-PENTA-8350,mutual_fund,,4,8350-k,http://www.cmfchile.cl
+2465,conceptual_asset,FONDO MUTUO PENTA INTERNACIONAL I,FFMM-PENTA-8309,mutual_fund,,4,8309-7,http://www.cmfchile.cl
+2466,conceptual_asset,FONDO MUTUO PENTA KPM II,FFMM-PENTA-8344,mutual_fund,,4,8344-5,http://www.cmfchile.cl
+2467,conceptual_asset,FONDO MUTUO PENTA RENTA CHILE,FFMM-PENTA-8408,mutual_fund,,4,8408-5,http://www.cmfchile.cl
+2468,conceptual_asset,FONDO MUTUO PENTA RENTA LOCAL LARGO PLAZO,FFMM-PENTA-8308,mutual_fund,,4,8308-9,http://www.cmfchile.cl
+2471,conceptual_asset,FONDO MUTUO PENTA SELECCIÓN EUROPA,FFMM-PENTA-8487,mutual_fund,,4,8487-5,http://www.cmfchile.cl
+2473,conceptual_asset,FONDO MUTUO PENTA SELECCIÓN JAPÓN,FFMM-PENTA-8564,mutual_fund,,4,8564-2,http://www.cmfchile.cl
+2470,conceptual_asset,FONDO MUTUO PENTA SELECCION CHILE,FFMM-PENTA-8321,mutual_fund,,4,8321-6,http://www.cmfchile.cl
+2472,conceptual_asset,"FONDO MUTUO PENTA SELECCIÓN EUROPA, MEDIO ORIENTE Y ÁFRICA",FFMM-PENTA-8485,mutual_fund,,4,8485-9,http://www.cmfchile.cl
+2474,conceptual_asset,FONDO MUTUO PENTA SELECCIÓN MACRO TENDENCIAS,FFMM-PENTA-8569,mutual_fund,,4,8569-3,http://www.cmfchile.cl
+2476,conceptual_asset,FONDO MUTUO PERU,FFMM-CONSORCIO-8541,mutual_fund,,4,8541-3,http://www.cmfchile.cl
+2431,conceptual_asset,FONDO MUTUO LARRAINVIAL MEXICO,FFMM-LARRAINVIAL-8653,mutual_fund,,4,8653-3,http://www.cmfchile.cl
+2494,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES FINANCIERAS GLOBALES,FFMM-SANTANDER-8406,mutual_fund,,4,8406-9,http://www.cmfchile.cl
+1854,conceptual_asset,FONDO MUTUO ITAÚ CASH DOLLAR,FFMM-ITAU-8333,mutual_fund,,4,8333-k,http://www.cmfchile.cl
+1845,conceptual_asset,FONDO MUTUO ITAU GESTIONADO CONSERVADOR,FFMM-ITAU-8994,mutual_fund,,4,8994-k,http://www.cmfchile.cl
+2484,conceptual_asset,FONDO MUTUO RENDIMIENTO CORTO PLAZO,FFMM-BANCHILE-9196,mutual_fund,,4,9196-0,http://www.cmfchile.cl
+2490,conceptual_asset,FONDO MUTUO SANTANDER ACCIONES,FFMM-SANTANDER-8042,mutual_fund,,4,8042-k,http://www.cmfchile.cl
+2533,conceptual_asset,FONDO MUTUO SANTANDER SUPER FONDO 115,FFMM-SANTANDER-8332,mutual_fund,,4,8332-1,http://www.cmfchile.cl
+2534,conceptual_asset,FONDO MUTUO SANTANDER SUPER GESTION,FFMM-SANTANDER-8464,mutual_fund,,4,8464-6,http://www.cmfchile.cl
+2486,conceptual_asset,FONDO MUTUO RENTA MENSUAL BANCOESTADO,FFMM-BANCOESTADO-9312,mutual_fund,,4,9312-2,http://www.cmfchile.cl
+2487,conceptual_asset,FONDO MUTUO RENTA MENSUAL II BANCOESTADO,FFMM-BANCOESTADO-9397,mutual_fund,,4,9397-1,http://www.cmfchile.cl
+2489,conceptual_asset,FONDO MUTUO RETORNO ACCIONARIO LARGO PLAZO,FFMM-BANCHILE-9032,mutual_fund,,4,9032-8,http://www.cmfchile.cl
+2481,conceptual_asset,FONDO MUTUO PRINCIPAL DEPOSITO TOTAL,FFMM-PRINCIPAL-8161,mutual_fund,,4,8161-2,http://www.cmfchile.cl
+2482,conceptual_asset,FONDO MUTUO PRINCIPAL TANNER RENTA FIJA INTERNACIONAL,FFMM-PRINCIPAL-8185,mutual_fund,,4,8185-k,http://www.cmfchile.cl
+2483,conceptual_asset,FONDO MUTUO PRINCIPAL TANNER-PROGRESION,FFMM-PRINCIPAL-8002,mutual_fund,,4,8002-0,http://www.cmfchile.cl
+2432,conceptual_asset,FONDO MUTUO LARRAINVIAL OPORTUNIDAD CHILE,FFMM-LARRAINVIAL-9071,mutual_fund,,4,9071-9,http://www.cmfchile.cl
+2032,conceptual_asset,FONDO MUTUO SECURITY SELECTIVO,FFMM-ADMINISTRADORA-8490,mutual_fund,CLP,4,8490-5,http://www.cmfchile.cl
+1820,conceptual_asset,FONDO MUTUO ZURICH VENTAJA LOCAL,FFMM-ZURICH-8890,mutual_fund,,4,8890-0,http://www.cmfchile.cl
+2027,conceptual_asset,FONDO MUTUO SECURITY MID TERM UF,FFMM-ADMINISTRADORA-8986,mutual_fund,CLP,4,8986-9,http://www.cmfchile.cl
+1792,conceptual_asset,FONDO MUTUO ETF IT NOW S&P/CLX CHILE DIVIDEND INDEX,FFMM-ITAU-9685,mutual_fund,,4,9685-7,http://www.cmfchile.cl
+1731,conceptual_asset,FONDO MUTUO BTG PACTUAL ESG ACCIONES CHILENAS,FFMM-BTG-9548,mutual_fund,,4,9548-6,http://www.cmfchile.cl
+2026,conceptual_asset,FONDO MUTUO SECURITY MID TERM GLOBAL,FFMM-ADMINISTRADORA-9712,mutual_fund,USD,4,9712-8,http://www.cmfchile.cl
+1750,conceptual_asset,FONDO MUTUO COMPASS ACCIONES CHILENAS,FFMM-COMPASS-9362,mutual_fund,,4,9362-9,http://www.cmfchile.cl
+1893,conceptual_asset,FONDO MUTUO PRINCIPAL CARTERA EQUILIBRADA,FFMM-PRINCIPAL-9594,mutual_fund,,4,9594-k,http://www.cmfchile.cl
+1961,conceptual_asset,FONDO MUTUO SCOTIA ACCIONES NACIONALES,FFMM-SCOTIA-8529,mutual_fund,,4,8529-4,http://www.cmfchile.cl
+1760,conceptual_asset,FONDO MUTUO CONSORCIO BALANCEADO MODERADO,FFMM-LARRAINVIAL-8302,mutual_fund,,4,8302-k,http://www.cmfchile.cl
+2066,conceptual_asset,FONDO MUTUO ZURICH CHILE ACCIONES,FFMM-ZURICH-8381,mutual_fund,,4,8381-k,http://www.cmfchile.cl
+1960,conceptual_asset,FONDO MUTUO SCOTIA ACCIONES CHILE,FFMM-SCOTIA-8289,mutual_fund,,4,8289-9,http://www.cmfchile.cl
+2021,conceptual_asset,FONDO MUTUO SECURITY INDEX FUND S&P/CLX IPSA,FFMM-ADMINISTRADORA-8912,mutual_fund,CLP,4,8912-5,http://www.cmfchile.cl
+1798,conceptual_asset,FONDO MUTUO ZURICH DIVIDENDO LOCAL,FFMM-ZURICH-8918,mutual_fund,,4,8918-4,http://www.cmfchile.cl
+2053,conceptual_asset,FONDO MUTUO SURA SELECCION ACCIONES CHILE,FFMM-ADMINISTRADORA-8685,mutual_fund,,4,8685-1,http://www.cmfchile.cl
+1807,conceptual_asset,FONDO MUTUO ZURICH MONEY MARKET,FFMM-ZURICH-8459,mutual_fund,,4,8459-k,http://www.cmfchile.cl
+2062,conceptual_asset,FONDO MUTUO ZURICH BALANCEADO,FFMM-ZURICH-8347,mutual_fund,,4,8347-k,http://www.cmfchile.cl
+1640,conceptual_asset,FONDO MUTUO BCI DE NEGOCIOS DOLAR,FFMM-BCI-9412,mutual_fund,USD,4,9412-9,http://www.cmfchile.cl
+1870,conceptual_asset,FONDO MUTUO LARRAINVIAL CUENTA ACTIVA DEFENSIVA,FFMM-LARRAINVIAL-9191,mutual_fund,,4,9191-k,http://www.cmfchile.cl
+2067,conceptual_asset,FONDO MUTUO ZURICH CRECIENTE,FFMM-ZURICH-8348,mutual_fund,CLP,4,8348-8,http://www.cmfchile.cl
+2414,conceptual_asset,FONDO MUTUO LARRAINVIAL ASIA,FFMM-LARRAINVIAL-8462,mutual_fund,,4,8462-k,http://www.cmfchile.cl
+2069,conceptual_asset,FONDO MUTUO ZURICH EQUILIBRIO 30,FFMM-ZURICH-8393,mutual_fund,CLP,4,8393-3,http://www.cmfchile.cl
+2071,conceptual_asset,FONDO MUTUO ZURICH MUNDO EUROPEO,FFMM-ZURICH-8471,mutual_fund,CLP,4,8471-9,http://www.cmfchile.cl
+2070,conceptual_asset,FONDO MUTUO ZURICH MUNDO EMERGENTE,FFMM-ZURICH-8494,mutual_fund,CLP,4,8494-8,http://www.cmfchile.cl
+2072,conceptual_asset,FONDO MUTUO ZURICH MUNDO LATAM,FFMM-ZURICH-8495,mutual_fund,CLP,4,8495-6,http://www.cmfchile.cl
+2065,conceptual_asset,FONDO MUTUO ZURICH CASH PLUS,FFMM-ZURICH-8622,mutual_fund,CLP,4,8622-3,http://www.cmfchile.cl
+2075,conceptual_asset,FONDO MUTUO ZURICH REFUGIO UF,FFMM-ZURICH-9260,mutual_fund,CLP,4,9260-6,http://www.cmfchile.cl
+2074,conceptual_asset,FONDO MUTUO ZURICH REFUGIO NOMINAL,FFMM-ZURICH-9259,mutual_fund,CLP,4,9259-2,http://www.cmfchile.cl
+2068,conceptual_asset,FONDO MUTUO ZURICH DINAMICO,FFMM-ZURICH-9261,mutual_fund,CLP,4,9261-4,http://www.cmfchile.cl
+1865,conceptual_asset,FONDO MUTUO LARRAINVIAL MONETARIO,FFMM-LARRAINVIAL-8177,mutual_fund,CLP,4,8177-9,http://www.cmfchile.cl
+2073,conceptual_asset,FONDO MUTUO ZURICH PATRIMONIO,FFMM-ZURICH-8346,mutual_fund,CLP,4,8346-1,http://www.cmfchile.cl
